@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -219,6 +220,20 @@ Glandular conditions which begin with nervous dysfunctioning; deeply rooted fear
 
 - [Michael Munkasey - Moon/Mercury Concepts](../derived/munkasey-moon-mercury-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Moon-Mercury: Feeling Thought`
+- PDF page(s): `291`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Clever Queen and Her Herald
+- shadow: The Babbler and the Liar
+- comparison: Disposition Intellect Feeling Thinking Dreaming Seeing clearly Instinct Reason Unconscious Conscious Fantasy Logic Image Word Associating Combining Guessing Calculating Sensing Perceiving
+- general: The interplay of thinking and feeling . Understanding and interpreting dreams. Expressing feelings . Telling fairy tales .
+- harmony: Healthy Common Sense. Good interplay between thinking and emotional depth. Sure instincts in assessing and judging situations and people. Having a good nose for things. Being intellectually agile and able to adapt. Very imaginative, yet always realistic. Vivid, graphic manner of expression. Quick-witted and good at languages.
+- discord: The Trivial Talker. Conflict between disposition and intellect. Lack of orientation. Childish wishful thinking and dangerous rewriting of reality into the respectively most pleasant version. Or embarrassingly unsuccessful analyzing and complicated explaining of feelings. Superficial, trivial talk. Empty promises, bragging, lies, and gossip. Emotional,
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -276,3 +291,4 @@ Glandular conditions which begin with nervous dysfunctioning; deeply rooted fear
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

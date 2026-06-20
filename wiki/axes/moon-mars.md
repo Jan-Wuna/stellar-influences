@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -211,6 +212,20 @@ Glandular secretions which come too quickly; heat buildup in or on the body; ene
 
 - [Michael Munkasey - Moon/Mars Concepts](../derived/munkasey-moon-mars-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Moon-Mars: Daring`
+- PDF page(s): `293`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Brave Queen and Her Protector
+- shadow: The Haughty Lady and the Tormentor
+- comparison: Feminine Masculine Passive Active Wish Deed Passion Courage Powers of the soul Muscle power Mother Son Longing Greed Homeland War
+- general: Passionate desire . Acting on the basis of feeling . Becoming emotionally excited . Conquering or defending her nest . Fighting for one's own or an entrusted brood .
+- harmony: The Spunky Person. Spontaneous, courageous actions based on an emotional impulse. Good sense of the right point in time. The more vehement and holy the feelings, the greater the intrepidity. Committed champion of those who have been entrusted to one, and the needy. Or the fervent protector of nature. Decisive, passionate, direct, and open.
+- discord: The Uncontrolled Individual. Severe tensions between disposition and aggression, anger and instinctual desire as the cause of massive problems with aggression like destructive frenzy and acts committed in the heat of passion, as well as stomach problems resulting from “swallowing” anger. Deeply injured,
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -268,3 +283,4 @@ Glandular secretions which come too quickly; heat buildup in or on the body; ene
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

@@ -64,7 +64,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -166,6 +167,20 @@ A loss or lessening of sexual desire; a lowering of functions from the pituitary
 
 - [Michael Munkasey - Saturn/Pluto Concepts](../derived/munkasey-saturn-pluto-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Saturn-Pluto: Limits of Power`
+- PDF page(s): `333`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Wise Old Man and the Powerful Shaman
+- shadow: The Embittered Man and the Black Magician
+- comparison: Form Transformation Control Instinctive thirst for power Steadfastness Change Death Regeneration
+- general: Lasting , extensive transformation of solid structures . Experiences of departure that lead to deep-reaching renewal . The limits of power .
+- harmony: Seeing the Light.5 Overcoming old structures in favor of a deeper truth. Knowledge about the times of departure and renewal. Willingness to steadily pass through crises and experiences of transformation.
+- discord: The Encrustation. Fear of losing control (over oneself). Hardened and encrusted power structures. Compulsive insistence on what is old and aged or—to the contrary—virtually obsessive destruction of conventional, long-standing values. Massive problems with authority.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -222,3 +237,4 @@ A loss or lessening of sexual desire; a lowering of functions from the pituitary
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

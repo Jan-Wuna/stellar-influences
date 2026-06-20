@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -223,6 +224,20 @@ Inflammation of the joints; calcium deposits in the liver or hip joints; fluid o
 
 - [Michael Munkasey - Jupiter/Saturn Concepts](../derived/munkasey-jupiter-saturn-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Jupiter-Saturn: Value of the Time-Tested`
+- PDF page(s): `326`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The High Priest and the Patriarch or Hermit
+- shadow: The Pharisee and the Embittered Man
+- comparison: Expansion Limitation Opulence Asceticism Growth Cutting back Trust Mistrust Wealth Poverty Meaning Form Faith Ritual Success Failure
+- general: Stable , sustained growth . Lasting values . Strictness of belief . Firmness of faith . Boundaries of growth . Lasting convictions .
+- harmony: The Tenacious Individual. Good mixture of optimism and a sense of reality. Clear, steadfast convictions, stamina, patience, and endurance. Deep trust in the rhythmic alternation of growing and cutting back. Slow, but steady growth.
+- discord: The Unhappy Person. Constantly torn back and forth between: optimism and pessimism, trust and mistrust, splendor and modesty, generosity and stinginess, joy of life and bitterness, fulfillment and renunciation, gain and loss, living faith and dead ritual. Strong emotional tensions as a result of many situations of change.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -280,3 +295,4 @@ Inflammation of the joints; calcium deposits in the liver or hip joints; fluid o
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

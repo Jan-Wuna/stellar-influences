@@ -63,7 +63,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -159,6 +160,16 @@ Psychologically coping with life’s problems; social growth and maturity; becom
 
 - [Michael Munkasey - Sun/MC Concepts](../derived/munkasey-sun-mc-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Sun-Medium Coeli`
+- PDF page(s): `289`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- harmony: The Success. Professional success, social climbing, and impression made in the public eye are an essential part of the development of the self. Conscious planning and active creativity in the realization of life's objectives and the professional career. Claim to leadership and leadership qualities.
+- discord: The Contradiction. Relationship to public eye full of conflicts. The development of the self and the professional career—sometimes also the objectives in life—appear difficult to reconcile and may even run counter to each other. Overcoming these contradictions is the primary task.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -214,3 +225,4 @@ Psychologically coping with life’s problems; social growth and maturity; becom
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

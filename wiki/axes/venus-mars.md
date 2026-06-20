@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -225,6 +226,20 @@ Sexual pleasure; haste in sexual release; relaxing your muscles; the muscle tone
 
 - [Michael Munkasey - Venus/Mars Concepts](../derived/munkasey-venus-mars-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Venus-Mars: Passion`
+- PDF page(s): `311`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Graceful Lady and the Conqueror
+- shadow: The Whore and the Brute
+- comparison: Love Violence Temptation Lust Eroticism Sexuality Peace War Reconciliation Dispute Fine Rough Gentle Brutal Cultivated Primitive Indecisive Spontaneous Cautious Impulsive Giving Taking Goodwill Greed
+- general: Satisfying lust . Fighting for what a person loves . The erotic and sexual tension between man and woman .
+- harmony: The Sensual Individual. Sensual-erotic powers of attraction. Carefree, natural relations with the opposite sex. Sure instinct in selecting a partner. Experienced passion and satisfied sexuality. Good feeling for rhythm, good taste, and the right tone.
+- discord: The Eternally Dissatisfied. Strong sexual desire—demanding, aggressive, and tactless—yet, always unsatisfied. Permanent discord between graceful eroticism and raw sexuality . Violent, brutal, aggressive, as well as self-destructive. Sexual insecurity and mistrust toward the opposite sex. Dramatic, emotionally-charged relationships.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -282,3 +297,4 @@ Sexual pleasure; haste in sexual release; relaxing your muscles; the muscle tone
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

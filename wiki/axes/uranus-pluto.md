@@ -64,7 +64,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -166,6 +167,20 @@ Stress reactions which cause colon spasms or problems; hemorrhoids; piles; abnor
 
 - [Michael Munkasey - Uranus/Pluto Concepts](../derived/munkasey-uranus-pluto-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Uranus-Pluto: The Metamorphosis`
+- PDF page(s): `337`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Rebel and the Powerful Person
+- shadow: The Eccentric and the Power of Darkness
+- comparison: Freedom Constraint Conscious perception Unconscious urge Light Shadow Highest heights Deepest depths
+- general: Sudden deep-reaching changes . Rebellion against dependence and suppression . Bursting the bonds .
+- harmony: Desire for Freedom. Powerful urge for individual freedom. Sudden perceptions and insights into power structures or collective shadow areas. Rigorous upheavals. Liberation movements.
+- discord: The Despot. Willful, irresponsible misuse of power for questionable, eccentric goals. Extreme inner tension and vacillations between highest heights and deepest depths, between total freedom and complete constraint.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -222,3 +237,4 @@ Stress reactions which cause colon spasms or problems; hemorrhoids; piles; abnor
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

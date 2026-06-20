@@ -61,7 +61,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -157,6 +158,16 @@ Use of drugs to isolate self from society; subjugating yourself to the influence
 
 - [Michael Munkasey - Neptune/Node Concepts](../derived/munkasey-neptune-node-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Neptune-North Node`
+- PDF page(s): `341`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- harmony: Unerringly walks one's path in life and is guided by an invisible hand in the mastering of the life's tasks. Mature spirituality as part of the priority in life.
+- discord: Nebulous concepts of life's priority or a numb feeling for the essential direction in life. Easy to distract from what is important. Easy to seduce. Also afraid of not being able to see it through or of all goals dissolving into nothingness.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -211,3 +222,4 @@ Use of drugs to isolate self from society; subjugating yourself to the influence
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

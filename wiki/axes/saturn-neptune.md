@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -217,6 +218,20 @@ Diseases which are difficult to diagnose or of a long lasting nature; weakens th
 
 - [Michael Munkasey - Saturn/Neptune Concepts](../derived/munkasey-saturn-neptune-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Saturn-Neptune: Flowing Boundaries`
+- PDF page(s): `332`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Graying Hermit and the Blind Seer
+- shadow: The Embittered Enemy of Life and Dread Personified
+- comparison: Boundaries Without boundaries Structure Dissolution Security Insecurity Rigid Flowing Clear Nebulous Factual knowledge Inspiration Sober Intoxicated
+- general: Unclear , flowing , invisible boundaries . Collecting spiritual experiences. Sensing or being drawn beyond one's own borders . Dissolving old patterns . Boundaries of longing . Becoming sober after intoxication .
+- harmony: Flexibility. Liveliness. Lives in the flow of life in harmony with the natural rhythms, which produce solid structures time and again, dissolve, and then connect to make new structures (water—ice). Can abandon oneself to spiritual, mystic, and intoxicating experiences without losing oneself.
+- discord: Weakness. Fear. Phobia. Has great difficulties in setting boundaries and is easily deluged by other people's expectations or inexplicable phenomena. Can't get solid ground under one's feet. Everything that appears to promise security disappears sooner or later. Even the most solid of structures dissolve. In the reverse case (very strong ),
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -274,3 +289,4 @@ Diseases which are difficult to diagnose or of a long lasting nature; weakens th
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

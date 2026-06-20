@@ -14,7 +14,9 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+  - l-edward-johndro-astrological-dictionary
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -177,6 +179,28 @@ Mars's expression are blocked. As we have already mentioned in connection with. 
 - Wars
 - Weaponry
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Mars`
+- PDF page(s): `37`
+
+#### Banzhaf/Haebler Factor Keywords
+
+- archetype: The hero and conqueror.
+- shadow: The violent person, the destroyer.
+- principle: Mars represents strength of will and the desire of an individual to conquer. It stands for stamina, the perseverance and energy that you need to fight the obstacles in life and penetrate the world. Mars shows straightforwardness of approach, a high degree of determination, readiness to take on conflict, and enjoyment of risk.
+- problem area: The brute. Uncontrollable discharge of energy or pent-up aggression; impatient, hot-headed, brutal, unrestrained, sadistic, distracted by vague drives, destructive or self-destructive, frustrated, extreme, violent, and sexually dissatisfied.
+
+### L. Edward Johndro - Astrological Dictionary
+
+- Source section: `Mars`
+- PDF page(s): `10-11`
+
+#### Johndro Dictionary Keywords
+
+- source-native descriptors: war lord; male; fiery; muscular; barren; "I ACT"; positive; dynamic
+- representative keywords: abrasion, accident, achieve, action, aggressor, army, attack, battle, bold, combat, courage, danger, defend, force, strife, struggle, tools, war, warrior
+
 ## Comparative Schema
 
 - core meaning: source-native factor entries are preserved side by side above.
@@ -235,6 +259,8 @@ Mars's expression are blocked. As we have already mentioned in connection with. 
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)
+- [L. Edward Johndro - Astrological Dictionary](../sources/l-edward-johndro-astrological-dictionary.md)
 
 ## Open Questions
 

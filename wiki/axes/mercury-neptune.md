@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -211,6 +212,20 @@ Drug reactions which affect the nervous system; weakened lungs; vivid dreaming; 
 
 - [Michael Munkasey - Mercury/Neptune Concepts](../derived/munkasey-mercury-neptune-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Mercury-Neptune: Search for the Vision`
+- PDF page(s): `307`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Thinker and the Mystic
+- shadow: The Liar and the Day- Dreamer
+- comparison: Thinking Sensing Knowledge Fantasy Perceiving Dreaming Clever Mediumistic Rational Irrational Sobriety Intoxication Physics Metaphysics
+- general: Being able to understand and express arising images . Imaginative , sensitive thinking . Visionary thoughts . Understanding spiritual experiences . Dream interpretation . Search for the vision . Hazy thoughts .
+- harmony: The Inspired Individual. Creative imagination, good sense in thinking, poetic fairy-tale language, artistic disposition. Strives for balance between the rational and irrational, sobriety and intoxication. Seeks access to what is visionary, unspoken, and concealed. Good sense of intuition for trends and future developments.
+- discord: The Illusionist. Thoughtlessness, nebulous thinking, or missing words. Wishful thinking and flight into fantasy. Often can't differentiate between what is truth and lies, what is genuine and artificial. A master liar who shamelessly lies through one's teeth.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -268,3 +283,4 @@ Drug reactions which affect the nervous system; weakened lungs; vivid dreaming; 
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

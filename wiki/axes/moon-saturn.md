@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -217,6 +218,20 @@ Hypo-acidity conditions in the stomach; fluids collecting in joints; water on th
 
 - [Michael Munkasey - Moon/Saturn Concepts](../derived/munkasey-moon-saturn-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Moon-Saturn: Serious feelings`
+- PDF page(s): `295`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Unpretentious Queen and the Council Elder
+- shadow: The Embittered Lady and Her Adversary
+- comparison: Dream Reality Indulgence Toughness Wish Fact Desire Duty Affect Control Mood Framework Wish for the feeling of security Reliability Running wild Limiting Soft Brittle
+- general: Stable , controlled , and/or serious feelings . Resolute , disciplined , and sober in everyday life . Feelings of guilt . The earnest woman .
+- harmony: The Conscientious Individual. Committed, stable feelings. Great staying power, prudence, faithfulness, and performance of one's duty, even under difficult conditions. Willing and able to tolerate hardships, deprivation, and necessary renunciation. Very composed, even in sorrowful situations. Inwardly willing and able to tighten one's belt and be modest,
+- discord: The Hardhearted Person. Merciless with oneself and others. Inhibited, emotionally withdrawn, lonely, or even embittered. Personal feelings and wishes are repressed and those of others are held in contempt or viewed with suspicious mistrust. Sometimes absurd envy of others. Can't express oneself emotionally. Lacks feeling of security,
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -274,3 +289,4 @@ Hypo-acidity conditions in the stomach; fluids collecting in joints; water on th
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

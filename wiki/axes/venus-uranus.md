@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -213,6 +214,20 @@ Any unusual compositions in your blood; shock due to acid conditions in the body
 
 - [Michael Munkasey - Venus/Uranus Concepts](../derived/munkasey-venus-uranus-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Venus-Uranus: Love of Freedom`
+- PDF page(s): `314`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Beauty and the Liberator
+- shadow: The Seductress and the Traitor
+- comparison: Attachment Freedom Love of the partner Love of self Dependence Independence Flowing Abrupt Willing to adapt Eccentric Harmony Individuality
+- general: Free love , the unusual relationship with the greatest possible, mutual free space . Original taste . Modern art .
+- harmony: The Individualistic Relationship. Original, humorous, but often noncommittal manner of making contacts. Lives and loves in an open, tolerant relationship based on the principle of liberty and equality. Great enjoyment of experimentation. Searches for the unique, unusual “modern” relationship that actually exists only in Utopia.
+- discord: The Person Who Can't Be Held. The fireworks of love and flash-in-the-pan relationships without commitment and a future. Enters into relationships only halfheartedly and can't be held when things should be close and committed. Extreme mood vacillations and changing standpoints. Willful, gruff, and inconsiderate in a partnership. The unusual, the new,
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -270,3 +285,4 @@ Any unusual compositions in your blood; shock due to acid conditions in the body
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -123,7 +124,7 @@ Big emotions. Expansive emotional states. Out of proportion reactions and re spo
 
 #### Harmonious Aspects
 
-The Moon and Jupiter form an excellent combination, since they are assimilated by the exaltation of Jupiter in Cancer.
+The Moon and Jupiter form an excellent combination, since they are assimilated by the exaltation of
 
 In regard to character and temperament, they cause the native to be good-natured, friendly, helpful and sympathetic, particularly with the unfortunate and helpless. There is usually much affection for animal pets. There is often a certain amount of shrewdness and business ability.
 
@@ -135,7 +136,7 @@ Its effects on the health are beneficial. It tends to good spirits, contentment 
 
 As with all contacts with Jupiter (even Inharmonious ones), the native will be brought into touch with wealth, even if he is not personally wealthy.
 
-For some reason which I do not understand Moon Trine Jupiter in Air is common in the maps of violent criminals. Perhaps it aids the criminal to disguise his proclivities.
+For some reason which I do not understand Moon Trine
 
 #### The Conjunction
 
@@ -215,6 +216,20 @@ Fluid retention; increased sensitivity to drugs or allergens; raises fertility c
 
 - [Michael Munkasey - Moon/Jupiter Concepts](../derived/munkasey-moon-jupiter-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Moon-Jupiter: Wealth of Emotion`
+- PDF page(s): `294`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Wise Queen and the Nobleman
+- shadow: The Arrogant Lady and the Condescending Man
+- comparison: Simplicity Dignity Instinct Wisdom Emotional values Ethical values Search for a feeling of security Search for meaning Physical nourishment Intellectual nourishment Fertility Growth
+- general: Holy , happy , noble , rich feelings . Happy everyday life . Desire to travel . The happy woman .
+- harmony: The Kind-Hearted Individual. Confident feelings and deep self-assurance. Likeable, winning, benevolent, lovable nature. Generous, convivial, epicurean. High spirits. Able to trust others. Great wealth of emotion. Deep respect for everything that is motherly and feminine. Enthusiasm for high ideals, noble convictions, and feelings that impart meaning.
+- discord: The Pampered Person. Considerable insincerity toward oneself. Courts applause and cheap flattery that supports overestimation of the self. Great plans that are never carried out. Spoiled mother's darling, feigned nonchalance toward life, emotional exaggerations. Lazy, indolent, comfort- loving, but also arrogant and demanding.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -272,3 +287,4 @@ Fluid retention; increased sensitivity to drugs or allergens; raises fertility c
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

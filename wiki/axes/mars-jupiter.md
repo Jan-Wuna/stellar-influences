@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -139,7 +140,7 @@ In a congenial sign there may be a great love of fun and amusement, often with a
 
 The native usually has an active and even a belligerent or disputative life, being either controversial or the object of controversy; or perhaps he is engaged in financial operations that bear resemblance to military maneuvers and conflicts. In any case he will prove a redoubtable opponent, with considerable resource and energy.
 
-A good example of this combination is the natus of Martin Luther, the great Reformer and disputant, who had Venus, Mars and Jupiter conjoined in Libra, in Sextile to Uranus in Sagittary. The Sun was with Saturn in Scorpio, reducing the power of the triple conjunction to produce material comfort, although, even so, the native did abandon monastic life, and married.
+A good example of this combination is the natus of Martin Luther, the great Reformer and disputant, who had Venus, Mars and Jupiter conjoined in Libra, in Sextile to Uranus in Sagittary. The Sun was with
 
 It inclines to daring undertakings and feats of prowess and courage.
 
@@ -215,6 +216,20 @@ Strength of limb; gross motor control; improving muscle tone; hypo-adrenalism; a
 
 - [Michael Munkasey - Mars/Jupiter Concepts](../derived/munkasey-mars-jupiter-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Mars-Jupiter: Successfully Conquering`
+- PDF page(s): `319`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Victorious Warrior and the High Priest
+- shadow: The Fanatic Destroyer and the Fundamentalist
+- comparison: Germinating Ripening Aggression Kindness Instinctive Ethical Primitive Sublime Pushing forwards Striving upwards Compelling Convincing Power of decision- making Standard of value
+- general: Courage for convictions . Fighting for the good , for high aims , or for a just cause . Striving for distant shores . Taking chances . Developing pioneer spirit . Fulfilled sexuality . Acting with success . Wealth of energy .
+- harmony: The Success. Optimistically, courageously, and successfully fighting for high ideals and extensive goals. Representing one's own convictions with commitment, straightforwardness, and openness. The gift of bringing fighting spirit, nobility, optimism, and momentum into harmony. Great trust in masculine power.
+- discord: The Soldier of Fortune or the Crusader Gambler or speculator who challenges fate and stakes everything on one card. Qualities such as being a daredevil, bold, aggressive, and touchy alternate in turn with insight and generosity. Tends toward excess and extravagance, and constantly wants more. Excessive in area of sexuality. Intolerant, dogmatic,
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -272,3 +287,4 @@ Strength of limb; gross motor control; improving muscle tone; hypo-adrenalism; a
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

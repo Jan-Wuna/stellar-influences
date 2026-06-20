@@ -14,7 +14,9 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+  - l-edward-johndro-astrological-dictionary
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -159,6 +161,29 @@ energy that strives to keep the universe flexible by preventing too much order. 
 - Traitors
 - Troublemakers
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Uranus`
+- PDF page(s): `45`
+
+#### Banzhaf/Haebler Factor Keywords
+
+- archetype: The (wise) fool, the hero of freedom.
+- shadow: The revolutionary, the traitor.
+- principle: Uranus represents the ideals of the French Revolution—freedom, equality, and brotherhood. It embodies what is ingenious in human beings, their striving for independence and individual freedom. Uranus is also considered to be the great liberator. It stands for surprising changes, flashes of inspiration, and sudden upheavals.
+- strengths: The individualist. Striving for independence and freedom on all levels (mental, emotional, and material). Split-second perceptions, spontaneous solutions, and the spirit of discovery. Intuitive perceptions at the right moment. Urge toward cosmic consciousness and expansion of consciousness. Original, unconventional, enjoyment of experimentation.
+- problem area: The person who changes viewpoints. Restless, charged up, searching for change, revolution, and subversion; arbitrary, unpredictable, inconsiderate, destructive, willful, averse to obligation, freedom at any cost, and unwilling or unable to deal with everyday commitments.
+
+### L. Edward Johndro - Astrological Dictionary
+
+- Source section: `Uranus`
+- PDF page(s): `18-21`
+
+#### Johndro Dictionary Keywords
+
+- source-native descriptors: changes; sudden action; spasmodic; magnetic; "I INVENT"; positive; masculine; barren; electrical; hard; airy; scientific; independent; unconventional; controversial; unusual
+- representative keywords: abnormal, abrupt, accident, change, circuit, controversy, divide, divorce, experimental, independent, invention, scientific, technology, unexpected, unconventional, unusual
+
 ## Comparative Schema
 
 - core meaning: source-native factor entries are preserved side by side above.
@@ -217,6 +242,8 @@ energy that strives to keep the universe flexible by preventing too much order. 
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)
+- [L. Edward Johndro - Astrological Dictionary](../sources/l-edward-johndro-astrological-dictionary.md)
 
 ## Open Questions
 

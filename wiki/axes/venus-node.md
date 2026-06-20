@@ -63,7 +63,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -159,7 +160,15 @@ Your ability to relax with friends; associates who help you with your medical pr
 
 - [Michael Munkasey - Venus/Node Concepts](../derived/munkasey-venus-node-concepts.md)
 
-## Comparative Schema
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Venus-North Node`
+- PDF page(s): `317`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- harmony: Love, liking, grace, eroticism, affection, solidarity with another person, as well as a sense of beauty, appreciation of art, and good taste unite in harmony with the priority in life and are helpful on life's path. Feminine aura as valuable potential that should be recognized and developed.
+- discord: Lasting difficulties in finding inner peace because love life has an inhibiting and disruptive effect on the actual direction in life. Feelings of being unfulfilled and great needs for affection that are difficult to satisfy. ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
 - psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
@@ -214,3 +223,4 @@ Your ability to relax with friends; associates who help you with your medical pr
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

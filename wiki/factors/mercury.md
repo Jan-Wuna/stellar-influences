@@ -14,7 +14,9 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+  - l-edward-johndro-astrological-dictionary
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -174,6 +176,29 @@ meter serving to assist the memory). Language also allows us to close the gap be
 - Trade
 - Transportation
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Mercury`
+- PDF page(s): `33`
+
+#### Banzhaf/Haebler Factor Keywords
+
+- archetype: The trader, the navigator, the scout.
+- shadow: The crook, the liar.
+- principle: Mercury stands for mind and intellect, for the theory of combinations, speech, communication, mediation, tactics, knowledge, mental flexibility, orientation facility, analytical and logical thought, and the manner of judging and deciding.
+- strengths: The clever person. Quick, clear ascertaining of thoughts and ideas. Ingenious capacity for following a train of thought; combining, analyzing, and differentiating. Talent for observing and having a “good grasp.” Excellent capacity to adapt or orient oneself. Collects information with great curiosity. Pursues knowledge and enjoys the pleasure of recognition.
+- problem area: The trickster. Interest in everything is only superficial and passing. Cunning, sly bluffer. Calculating, corruptible, crafty, audacious, false, and wily. Cannot see the whole picture. Feels no obligation to honor values. Profanes the holy, is ice-cold in business, and would “sell his grandmother.”
+
+### L. Edward Johndro - Astrological Dictionary
+
+- Source section: `Mercury`
+- PDF page(s): `6-7`
+
+#### Johndro Dictionary Keywords
+
+- source-native descriptors: messenger of the gods; "I TELL"; neutral; mental; airy; communication; speech
+- representative keywords: academy, address, advise, announce, argue, author, book, brain, calculate, discourse, document, education, gossip, speech, teach, telegram, telephone, thought, word, write
+
 ## Comparative Schema
 
 - core meaning: source-native factor entries are preserved side by side above.
@@ -232,6 +257,8 @@ meter serving to assist the memory). Language also allows us to close the gap be
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)
+- [L. Edward Johndro - Astrological Dictionary](../sources/l-edward-johndro-astrological-dictionary.md)
 
 ## Open Questions
 

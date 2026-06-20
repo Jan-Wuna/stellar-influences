@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -217,6 +218,20 @@ Muscular development of the body; the inner strength you have to overcome infect
 
 - [Michael Munkasey - Sun/Mars Concepts](../derived/munkasey-sun-mars-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Sun-Mars: Bravery`
+- PDF page(s): `282`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Courageous King and His General
+- shadow: The Tyrant and His Torturer
+- comparison: Leading Implementing Strength of will Muscle power Conscious wanting Instinctive desiring Will Instinct Development of self Power of assertion Man Youth Masculinity Virile power
+- general: Courage and power to believe in oneself , assert the personality , and penetrate through to the development of the nature of the world. The struggle for existence .
+- harmony: The Dynamo. Characteristics and assertive force combine harmoniously into a clear, self-confident determination. Aggressiveness is directed outwardly in a healthy, appropriate manner. Distinct, sometimes imposing masculine traits and well-assessed willingness to take risks. Active, dynamic, goal-oriented, energetic.
+- discord: The Self-Destruct Mechanism. At variance with oneself. Inwardly torn and contradictory masculinity. Hothead who restlessly takes on challenges without thinking them over and frequently endangers oneself in the process. Conflict between will, use of energy, and goal.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -274,3 +289,4 @@ Muscular development of the body; the inner strength you have to overcome infect
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -194,6 +195,20 @@ Your attitude toward health and your body, in general; your thyroid’s ability 
 
 - [Michael Munkasey - Sun/Venus Concepts](../derived/munkasey-sun-venus-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Sun-Venus: Charm`
+- PDF page(s): `281`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Master and the Muse
+- shadow: The Beau and the Flatterer
+- comparison: Essence Grace Creative will Formability Individual nature Sense of community Independence Desire for connection Core Packaging Personality Charm Inner beauty Outer beauty Willfulness Striving for harmony
+- general: The connection of personality and content of life for a person with style , outer beauty , and personal charm . A sympathetic/likeable and peaceable nature . The Sun and Venus are never more than 48° apart from each other. This is why conjunctions, semisextiles. and semi-squares are the only possible aspects.
+- harmony: The Likable Person. Pleasant aura. A person who has a beneficial effect on others by just being there. Popular, charming, and usually erotic and seductive. Sociable, able to adapt, a good mixer, diplomatic, peaceable. Knows how to value elevated style, a cultivated atmosphere, luxury, and good taste.
+- discord: The Coquette. According to the position of the signs of the planets, cold-blooded tactics with erotic charms or crude ingratiation. False, sometimes extravagant expectations of happiness. Lapses of taste and excessive desire for pleasure.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -251,3 +266,4 @@ Your attitude toward health and your body, in general; your thyroid’s ability 
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

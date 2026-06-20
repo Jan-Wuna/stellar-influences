@@ -63,7 +63,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -159,6 +160,16 @@ Acid accumulations from an excessive social life; the tendency to add too much b
 
 - [Michael Munkasey - Jupiter/Asc Concepts](../derived/munkasey-jupiter-asc-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Jupiter-Ascendant`
+- PDF page(s): `330`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- harmony: Trusting and Being Trusted. Happiness aspect. Generous, optimistic, enthusiastic, open, vital, humane, freedom-loving, liberal. Radiates a natural type of dignity and authority. Strives for ideals.
+- discord: The Conceited Person, the Hypocrite. Exaggerated behavior. Overestimates oneself and tends toward megalomania. Often tries to do more than can ever be accomplished. Likes to pretend. Doesn't tolerate criticism and is quickly insulted.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -214,3 +225,4 @@ Acid accumulations from an excessive social life; the tendency to add too much b
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

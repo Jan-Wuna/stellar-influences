@@ -63,7 +63,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -159,6 +160,16 @@ Sudden onset of complications due to stress in life; deafness as you close out a
 
 - [Michael Munkasey - Uranus/Node Concepts](../derived/munkasey-uranus-node-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Uranus-North Node`
+- PDF page(s): `338`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- harmony: Can break with traditional systems without any difficulty in order to put ideas into practice in an original manner and master tasks in life. The development of one's own individuality combines with the priority in life.
+- discord: Lives willfully, according to one's own laws. At the same time, always senses a painful gap between individual striving, the need for independence and freedom, and the actual tasks in life. Has intense problems with opening up in a committed way to what is truly essential.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -214,3 +225,4 @@ Sudden onset of complications due to stress in life; deafness as you close out a
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

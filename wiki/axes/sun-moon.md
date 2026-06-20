@@ -66,7 +66,8 @@ source_pages:
   - robert-hand-horoscope-symbols
   - don-mcbroom-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -142,7 +143,7 @@ Inharmonious aspects incline to throw the life into two portions, antagonistic o
 
 But, it may be repeated that the Sun must be considered above all else in judging the active life. Its aspects indicate the measure of success that will be attained, in what direction, and with what facility or tribulation. It represents the work to be done, due attention being paid to the sign, house and aspects involved.
 
-The Moon is more important in relation to ordinary character, and this is particularly so in early life before the Sun's influence makes itself felt. A child with the Moon in Square to Mars but Sun in Trine to Saturn will be hot-tempered or impulsive, but will become, as the years pass, prudent and controlled, at least in action. Habits, morals and temperament are all shown to a large extent by the Moon, the Ascendant being even less self-conscious and rising little above the sensations and instincts, important though these are in their spheres.
+The Moon is more important in relation to ordinary character, and this is particularly so in early life before the Sun's influence makes itself felt. A child with the
 
 The mutual aspects are of a general and diffused character rather than particular and focused - the particularization lies with the planets. Hence their effects are not always easily traced unless life and character can be viewed in perspective.
 
@@ -250,6 +251,20 @@ Chemical, Ph, and mineral balances within the body; sensitivity to drugs; pressu
 
 - [Michael Munkasey - Sun/Moon Concepts](../derived/munkasey-sun-moon-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Sun-Moon: Mind and Soul`
+- PDF page(s): `279`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The King and the Queen
+- shadow: The Dazzler and the Evil Witch
+- comparison: Father Mother Will Wish Reason Feeling Active Passive Adult Child Conscious Unconscious Mind Soul Waking consciousness Dream consciousness
+- general: The interplay of wishes and wanting , of conscious striving and instinctive urge , of the masculine and the feminine , of the conscious and the unconscious , of the waking consciousness and the dream consciousness , of individuality and family heritage .
+- harmony: The Well-Balanced Individual. Harmonious accord between taking action and the willingness to simply let things happen. Finds the right mixture between wanting and wishing, between masculine and feminine portions of her nature, between the childhood self and the adult self. Well-balanced, satisfied, optimistic, cheerful, vigorous, emotionally stable.
+- discord: The Tense Person. Vehement conflict between the heart and mind, conscious striving and instinctive urge, above all in the group of themes that correspond to the sign position of the Sun and Moon. Experiences self in the battle of the sexes. Problems with the parental home and family.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -308,3 +323,4 @@ Chemical, Ph, and mineral balances within the body; sensitivity to drugs; pressu
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Don McBroom - Midpoints](../sources/don-mcbroom-midpoints.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

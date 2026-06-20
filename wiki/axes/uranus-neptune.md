@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -207,6 +208,20 @@ Unpredictable and abrupt reactions to drugs; shock or remission due to causes di
 
 - [Michael Munkasey - Uranus/Neptune Concepts](../derived/munkasey-uranus-neptune-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Uranus-Neptune: The Inspiration`
+- PDF page(s): `336`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Liberator and the Seer
+- shadow: The Lunatic and the Crackpot
+- comparison: Lucidity Spirituality Clarity Haze Intuition Inspiration Objectivity Subjectivity Against the current With the current Idea Premonition High-strung Intoxicated Individual Boundless Freedom Addiction
+- general: Dissolution of individual limitations . The vision that comes like a lightning flash .
+- harmony: Lucid Dreams. Feeling oneself called to fulfill a special, very personal vision. Strong intuition. Dreaming of “unreal” experiences, visions, or mystic experiences of sudden, crystal-clear, lucid certainty. Illumination.
+- discord: Head in the Clouds. Unclear concepts of individuality. Propagating unrealistic inventions or solutions to problems. Running after airy-fairy ideas. Losing oneself in the chaos of unconscious longings.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -264,3 +279,4 @@ Unpredictable and abrupt reactions to drugs; shock or remission due to causes di
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

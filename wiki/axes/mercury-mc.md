@@ -63,7 +63,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -159,6 +160,16 @@ Genetic deficiencies or strengths concerning the lungs, breathing, etc.; a famil
 
 - [Michael Munkasey - Mercury/MC Concepts](../derived/munkasey-mercury-mc-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Mercury-Medium Coeli`
+- PDF page(s): `310`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- harmony: The Clever Professional. Seeks and needs a professional environment that is mentally stimulating, offers a certain intellectual kick, or challenges in a business sense. Can very quickly become familiar with assumed fields of activity. Very crafty in climbing the career ladder.
+- discord: The Sly Fox. Unlikable. Concerned with “collecting professional points” in a one-sided and cold-blooded manner. Tense relationships to authority figures, but with colleagues as well. Sly and dishonest.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -214,3 +225,4 @@ Genetic deficiencies or strengths concerning the lungs, breathing, etc.; a famil
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -197,6 +198,18 @@ The vitality of your nervous system; the overall state and efficiency of your lu
 
 - [Michael Munkasey - Sun/Mercury Concepts](../derived/munkasey-sun-mercury-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Sun-Mercury: Cleverness`
+- PDF page(s): `280`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Smart King and His Herald
+- shadow: The Boss and His Wily Attorney
+- comparison: Mind Reason Organization Tactic Venturing Calculating Courage to face life Agility Will to live Orientation
+- general: Perceiving, understanding, thinking through, ordering, and formulating (all ) what is essential . The distance between critical perception ( ) and subjective wanting . Self-criticism . Making oneself understood ( ). Since the Sun and Mercury are never more than 28° apart from each other, there are no tension aspects between these two planets.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -254,3 +267,4 @@ The vitality of your nervous system; the overall state and efficiency of your lu
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

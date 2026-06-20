@@ -14,7 +14,9 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+  - l-edward-johndro-astrological-dictionary
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -185,6 +187,29 @@ supernatural in the usual sense of the word. It is a study of psychic energies i
 - Violence
 - Waste Products
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Pluto`
+- PDF page(s): `50`
+
+#### Banzhaf/Haebler Factor Keywords
+
+- archetype: The magician, the shaman.
+- shadow: The black magician.
+- principle: The power of deepest transformation. Pluto represents dark depth, archaic source forces beyond moral valuation, fruitful and healing power as well as cruel or destructive power, experiences of power and helplessness, dependency, subjection, emotional entanglement, obsession, and disproportionate effect from hidden small causes.
+- strengths: The powerful person. Mighty forces of the soul such as the powers of suggestion, hypnotic capabilities, and strong healing forces. Tremendously creative potency, intensive strength, and an almost insuperable will. Drive for far-reaching changes in oneself and others. Does not shy away from the deepest abysses.
+- problem area: The obsessed individual. Misuse of power. Inclination toward sadism and tyranny. Unconscious forces (autonomous complexes) that possess the conscious mind. Compulsive and obsessive character, destructive, uninhibited, dominated by instincts, fanatic, destructive for oneself and others. Pathological addiction to control.
+
+### L. Edward Johndro - Astrological Dictionary
+
+- Source section: `Pluto`
+- PDF page(s): `24-25`
+
+#### Johndro Dictionary Keywords
+
+- source-native descriptors: regenerator; positive; barren; hot; moist; "I REVAMP"; sub or super physical-mental; volcanic; crime; underworld; sex
+- representative keywords: abyss, annihilate, crime, mystery, nightmare, nothingness, obscene, pathology, pestilence, putrefaction, regenerate, ruins, subconscious, underworld, volcanic
+
 ## Comparative Schema
 
 - core meaning: source-native factor entries are preserved side by side above.
@@ -243,6 +268,8 @@ supernatural in the usual sense of the word. It is a study of psychic energies i
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)
+- [L. Edward Johndro - Astrological Dictionary](../sources/l-edward-johndro-astrological-dictionary.md)
 
 ## Open Questions
 

@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -235,6 +236,20 @@ Inner reactions to drugs; weakness in the kidneys or bladder; weakened senses in
 
 - [Michael Munkasey - Venus/Neptune Concepts](../derived/munkasey-venus-neptune-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Venus-Neptune: The Dream of Love`
+- PDF page(s): `315`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Beautiful Muse and the Wonderful One
+- shadow: The Weakling and the Drinker
+- comparison: Art Spirituality Connecting Merging Loving Adoring Eroticism Mysticism
+- general: Transcendental love . Becoming flooded with music . Experiencing boundless love . Achieving highest spirituality through love . Being touched in one's innermost heart by art . Finding redemption through love . Being inspired to artistic creativity by the divine . The dream relationship .
+- harmony: Intuitive Love. Deep feeling of being soul mates and a wordless understanding of each other that borders on perfection. Great willingness to be devoted and to sacrifice. Being upheld by the spirit of love. Delicacy of feeling. Mystic, romantic, idealized love that leads to experiences beyond the personal. Highly refined sense of taste and art,
+- discord: Intoxication of Love. Insatiable, vast longing that makes a person extremely easy to seduce. “High-flying” love and intoxication of love with subsequent bitter disillusionment. Getting lost in deceptive, misleading ideals and confused, unclear relationships. Violently getting high with intoxicants as aphrodisiacs. Getting off the track erotically.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -292,3 +307,4 @@ Inner reactions to drugs; weakness in the kidneys or bladder; weakened senses in
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

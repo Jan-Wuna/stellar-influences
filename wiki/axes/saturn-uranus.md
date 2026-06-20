@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -215,6 +216,20 @@ Calcium deposits which arise from nervousness or reactions to stress; arthritis 
 
 - [Michael Munkasey - Saturn/Uranus Concepts](../derived/munkasey-saturn-uranus-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Saturn-Uranus: Authority Conflicts`
+- PDF page(s): `331`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Venerable Old Man and the Wise Fool
+- shadow: The Grouch and the Anarchist
+- comparison: stability Upheaval Old Young/New Preserving Reforming Law Freedom Limiting the scope Going beyond the scope Rule Exception Traditional Modern/Utopian Normal Abnormal Chronological Synchronous Continuous Suddenly Guarantee Betrayal
+- general: Breaking through and renewing old structures . Violating laws . The limits of freedom . Going beyond the scope . The sudden end . Restriction of freedom .
+- harmony: The Framework of Freedom. Balance between individual freedom and the laws governing public welfare. Knows how to develop and live out6 an optimal measure of freedom within the set and lawful framework. Finds the right mixture between traditional values and structures and modern developments and forms.
+- discord: The Gagged Person or the Demolition Charge. Bitter conflict between freedom and norms, between old and new. During certain phases, experiences oneself as unfairly gagged or limits oneself in order to outrageously kick over the traces in other phases. Then lives one's freedom in such a compulsive manner that it becomes a type of unfreedom as a result.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -272,3 +287,4 @@ Calcium deposits which arise from nervousness or reactions to stress; arthritis 
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -190,6 +191,20 @@ Oxygen levels in the blood; the efficiency of your lungs; food allergies and rea
 
 - [Michael Munkasey - Mercury/Venus Concepts](../derived/munkasey-mercury-venus-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Mercury-Venus: The Esthete`
+- PDF page(s): `302`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Smartie and the Muse
+- shadow: The Liar and the Circe
+- comparison: Logic Erotic Thinking Feeling Reason Esthetic Word Color Practicality Sense of beauty Concept Image Writing Painting Business Art Cunning Charm
+- general: Stylish expression . Beautiful words . Doing business with beautiful things : galleries, cosmetic salons, the fashion industry, gastronomy.
+- harmony: The Esthete. Pleasant manner of expression, abilities in the fields of writing and art. Charming, graceful, harmonious, skillful, and diplomatic social manner. Optimistic thinking. Conversations can have an erotic effect. Wants to learn, be inspired, and stimulated by relationships.
+- discord: The Phony. Using tactics with emotions and hypocritical feelings. Relationships that are “too sensible.” Calculating “love,” cunning flattery, swindle in relationships. Affected behavior.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -247,3 +262,4 @@ Oxygen levels in the blood; the efficiency of your lungs; food allergies and rea
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

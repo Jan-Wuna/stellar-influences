@@ -14,7 +14,9 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+  - l-edward-johndro-astrological-dictionary
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -181,6 +183,29 @@ To conclude this description of the Moon's symbolism, there is an important poin
 - Women, In General
 - Women, Attitude To
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Moon`
+- PDF page(s): `30`
+
+#### Banzhaf/Haebler Factor Keywords
+
+- archetype: The mother, the child.
+- shadow: The monster that devours everything.
+- principle: The Moon represents inner nature, feeling, the unconscious, instinctive reactions, cyclic rhythms, contact, closeness, home, memory, emotional security, and the motherly feminine element.
+- strengths: The soulful individual. Harmonious configurations support emotional flourishing, openness to the inner self, trust in unconscious guidance, security, emotional safety, and a healthy relationship to family, homeland, and mother or motherhood.
+- problem area: The moody person. Difficult configurations represent emotional wounds, reticence, mistrust, fear, touchiness, moods, unpredictability, as well as vanity, exaggerated smugness, laziness, and lethargy.
+
+### L. Edward Johndro - Astrological Dictionary
+
+- Source section: `Moon`
+- PDF page(s): `5`
+
+#### Johndro Dictionary Keywords
+
+- source-native descriptors: mother-principle; female; fluidic; domestic; "I SEE"; negative; functional; emotion
+- representative keywords: home, household, image, observation, optics, perception, phase, picture, portrait, visible appearance, vision
+
 ## Comparative Schema
 
 - core meaning: source-native factor entries are preserved side by side above.
@@ -239,6 +264,8 @@ To conclude this description of the Moon's symbolism, there is an important poin
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)
+- [L. Edward Johndro - Astrological Dictionary](../sources/l-edward-johndro-astrological-dictionary.md)
 
 ## Open Questions
 

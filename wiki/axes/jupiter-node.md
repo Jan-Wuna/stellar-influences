@@ -63,7 +63,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -159,6 +160,16 @@ Expansion in the joints or connecting tissue; swelling of the joints; stretching
 
 - [Michael Munkasey - Jupiter/Node Concepts](../derived/munkasey-jupiter-node-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Jupiter-North Node`
+- PDF page(s): `329`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- harmony: Trust in one's own abilities promotes success in the realization of the tasks in life, which are simultaneously connected with a deep experience of meaning. Magnanimity, optimism, happiness, and fulfillment on the path in life.
+- discord: The search for meaning and priorities in life appear to be opposed to each other. Strong, inner dissatisfaction and exaggerated, unrealistic attitude of expectation. Often wants to wrest more from life than is possible. Is quick to ignore negative things in life.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -214,3 +225,4 @@ Expansion in the joints or connecting tissue; swelling of the joints; stretching
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

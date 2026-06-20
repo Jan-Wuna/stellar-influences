@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -203,6 +204,20 @@ Stomach spasms; extremes of eyesight (good or bad); changes in the body’s acid
 
 - [Michael Munkasey - Moon/Uranus Concepts](../derived/munkasey-moon-uranus-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Moon-Uranus: Emotional Dynamite`
+- PDF page(s): `296`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Unique Queen and the Court Jester
+- shadow: The Noncommittal Woman and the Agitator
+- comparison: Closeness Distance Patience Impatience Dependence Independence Feeling of security Freedom Emotion Idea Monopolizing Taking flight
+- general: Surprising , unpredictable , vacillating , crazy feelings . Longing for freedom and independence . Tension between closeness and distance . The spirit of departure . Electrifying feelings . Sudden emergence of unconscious powers . Emotional fireworks .
+- harmony: The Genius at Improvising. Can spontaneously and easily adjust and adapt to new situations and people. Remains inwardly very flexible and always open for what is new. Yet, still capable of adequately integrating the need for a feeling of emotional security and the demand for independence and freedom.
+- discord: The Individual Incapable of Commitment. Need for freedom that takes on a compulsive character. Can never really open up to anything on the emotional level. In any type of agreement, always keeps at least one (inner) loophole open.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -260,3 +275,4 @@ Stomach spasms; extremes of eyesight (good or bad); changes in the body’s acid
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

@@ -64,7 +64,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -166,6 +167,20 @@ Extreme reactions to drugs; weakness in the endocrine gland system; cell formati
 
 - [Michael Munkasey - Neptune/Pluto Concepts](../derived/munkasey-neptune-pluto-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Neptune-Pluto: Spiritual Power`
+- PDF page(s): `340`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Mystic and the Shaman
+- shadow: The Addict and the Devil
+- comparison: Dissolving Changing radically Secret Uncanny Powerlessness Power Mysticism Magic
+- general: Dissolution of power structures . Demagogically unleashed mass currents . Spiritual power .
+- harmony: Powers of the Soul. Sensitive and mediumistic gift in the development and application of original powers of healing. The ability to invisibly guide others. Being inspired from forces out of the depths.
+- discord: Possession. Getting caught in the net of false, pseudo-spiritual teachings. The danger of not being able to resist the pull into the depths and become unstable, addicted, and dependent. Being helplessly flooded and possessed by archaic forces. Letting oneself be enticed into the misuse of power and/or becoming the victim of power oneself.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -222,3 +237,4 @@ Extreme reactions to drugs; weakness in the endocrine gland system; cell formati
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

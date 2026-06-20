@@ -63,7 +63,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -159,6 +160,16 @@ Hemorrhoids; arthritis; swollen or painful joints; cataracts; vision problems; t
 
 - [Michael Munkasey - Saturn/Asc Concepts](../derived/munkasey-saturn-asc-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Saturn-Ascendant`
+- PDF page(s): `334`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- harmony: The Disciplined Person. Always behaves in a calm, polite, sometimes even formal manner. Tends to draw boundaries and respect other people's boundaries. Serious, reliable, disciplined, and tenacious.
+- discord: The Mistrusting Individual. Reserved, inhibited, and fearful. Judges everything in a negative, pessimistic, or at least problematic manner. Stands in one's own way. Saturn-Medium Coeli HARMONY: The Career Ladder. Tends to climb the career ladder slowly but surely, step by step. Great stamina, even in phases of difficulties.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -214,3 +225,4 @@ Hemorrhoids; arthritis; swollen or painful joints; cataracts; vision problems; t
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

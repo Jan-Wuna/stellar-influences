@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -227,6 +228,20 @@ Hormone levels which affect your energy levels; convulsions caused by self exhau
 
 - [Michael Munkasey - Mercury/Mars Concepts](../derived/munkasey-mercury-mars-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Mercury-Mars: Keen Perception`
+- PDF page(s): `303`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Merchant and the Warrior
+- shadow: The Counterfeiter and the Scoundrel
+- comparison: Thinking Drive and urge Reason Instinct Cunning Muscle power Tactic Violence Talking Acting Planning Performing Clever Primitive Skilled Rough
+- general: Keenness of thought , connection of thinking and acting , power to make decisions , the word duel , stratagem .
+- harmony: Quick Wits. Asserting oneself in a tactically clever and skilled manner. Crystal-clear argumentation. Sharp, analytical mind. Extreme quick-wittedness. Fighting by using brains and words. The attorney, the literary critic, the chess-player. Enjoyment of discussion. Insight into one's own instinctive nature and deliberate actions.
+- discord: The Sharp Tongue. Testy, destructive thinking. Irritable, loose tongue. Provokes verbal confrontations. Nasty mouth. Irrational acts. Nervous, restless, edgy. Danger of dissipating one's strength. Not respecting other people's opinions: disrupting, interrupting, arguing like a hot-head. Mean criticism or slander.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -284,3 +299,4 @@ Hormone levels which affect your energy levels; convulsions caused by self exhau
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

@@ -63,7 +63,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -159,6 +160,16 @@ Enhanced needs for using drugs to alter reality; an affinity or craving for diff
 
 - [Michael Munkasey - Neptune/Asc Concepts](../derived/munkasey-neptune-asc-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Neptune-Ascendant`
+- PDF page(s): `341`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- harmony: The Compassionate Person. Immediately senses outer impressions and moods. Extremely intuitive, empathizing, compassionate, sensitive, and vulnerable. Goes through life with uncanny certainty and knows that one is guided.
+- discord: The Blur. Difficulty in defining boundaries and asserting oneself. Unable to strive for a specific goal in a concrete manner. Easy to manipulate and seduce. Tendency toward secrecy and deceit. Dubious personality. Frequent feelings of being lost without solid ground under one's feet. Often absent-minded and starry-eyed. Becomes easily dependent on things.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -214,3 +225,4 @@ Enhanced needs for using drugs to alter reality; an affinity or craving for diff
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

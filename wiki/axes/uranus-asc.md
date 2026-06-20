@@ -61,7 +61,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -157,6 +158,16 @@ Emphasizes finding mental balance and stability; added stress from having to con
 
 - [Michael Munkasey - Uranus/Asc Concepts](../derived/munkasey-uranus-asc-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Uranus-Ascendant`
+- PDF page(s): `338`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- harmony: The Alert Individual, Very lively, open to everything new, crazy, and original. Always and quickly willing to adapt. Willful, independent character. Unusual aura and very individual behavior.
+- discord: The Mulish Person. Unpredictable behavior. Subject to constant upheavals in life. Therefore often unreliable. Restless, not very cooperative, hopelessly headstrong, and not capable of adapting at all.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -211,3 +222,4 @@ Emphasizes finding mental balance and stability; added stress from having to con
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

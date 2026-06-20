@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -213,6 +214,20 @@ Intestinal and stomach gas; sensitivities to certain food groups (milk, wheat, e
 
 - [Michael Munkasey - Mercury/Uranus Concepts](../derived/munkasey-mercury-uranus-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Mercury-Uranus: Freedom of Thought`
+- PDF page(s): `306`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Intellectual and the Enlightener
+- shadow: The Know-It-All and the Madman
+- comparison: Logic Intuition Exploring Inventing Student Revolutionary Thought Sudden inspiration
+- general: Lucid , wide-awake , willful thinking . Unconventional perceptions and erratic thinking . Unique ideas . Sudden insights .
+- harmony: The Bright. Fast Thinker. Extremely quick intellectual grasp. Has the right idea at the right moment. May think a number of thoughts at the same time. Witty, original, inventive, flexible. Independent, sometimes eccentric standpoints. Unbiased, independent, progressive thinking. Full of ideas, but without any particular love of details.
+- discord: The Scatterbrain. Eccentric leaps from one idea to another with sudden, abrupt, and hardly understandable turns. Extreme impatience, hastiness, and exaggeration in thinking. Poor listener (particularly for people who speak slowly), impatient student. Ingenious ideas and intrepid assertions, but without or inadequately thinking them through.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -270,3 +285,4 @@ Intestinal and stomach gas; sensitivities to certain food groups (milk, wheat, e
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

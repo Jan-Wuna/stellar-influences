@@ -14,7 +14,9 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+  - l-edward-johndro-astrological-dictionary
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -154,6 +156,28 @@ In the universe there are two kinds of force that bring things together. One is 
 - Values
 - Wealth
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Venus`
+- PDF page(s): `35`
+
+#### Banzhaf/Haebler Factor Keywords
+
+- archetype: The muse, the lover, the beautiful one.
+- shadow: Persephone, the femme fatale, the whore.
+- principle: Venus is the symbol for love, feeling, harmony, giving and taking, relationships, partnership, erotic temptation, devotion, union, esthetic perception, artistic talent, sensory enjoyment, and the young or independent feminine principle.
+- problem area: The phony. Separates from others easily and often. Overemphasizes external factors. Vain, superficial, tasteless, tricky, perverse, addicted to amusement, easily seduced, greedy to possess, compulsive, lazy, unscrupulous, infantile and unrestrained, uncouth, jealous, cruel, snobbish, argumentative, and depraved.
+
+### L. Edward Johndro - Astrological Dictionary
+
+- Source section: `Venus`
+- PDF page(s): `7-9`
+
+#### Johndro Dictionary Keywords
+
+- source-native descriptors: LOVE; beauty; harmony; feminine; passive; "I LOVE"; airy; social
+- representative keywords: acceptance, affection, agreement, beauty, charm, companionship, grace, harmony, honeymoon, hospitality, love, music, neighborly, social ease, taste
+
 ## Comparative Schema
 
 - core meaning: source-native factor entries are preserved side by side above.
@@ -212,6 +236,8 @@ In the universe there are two kinds of force that bring things together. One is 
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)
+- [L. Edward Johndro - Astrological Dictionary](../sources/l-edward-johndro-astrological-dictionary.md)
 
 ## Open Questions
 

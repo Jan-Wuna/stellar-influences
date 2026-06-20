@@ -64,7 +64,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -195,6 +196,20 @@ Excessive fat in the blood; an inability to absorb sugars in the blood; weakness
 
 - [Michael Munkasey - Mercury/Jupiter Concepts](../derived/munkasey-mercury-jupiter-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Mercury-Jupiter: wealth of Thought`
+- PDF page(s): `304`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Merchant and the Scholar
+- shadow: The Chatterbox and the Conceited Fool
+- comparison: Intellect Conviction Knowledge Education Doubt Faith Science Religion Wording Significance of words Concept Meaning Teaching Preaching Secular Holy Student Teacher Purpose Significance Persuading Convincing
+- general: The search for meaning . Spacious thinking . The good idea . Roaming afield . Positive thoughts . Prestige thinking .
+- harmony: The Scholar. Great thirst for knowledge and striving for higher education. Interest in philosophy. Good ability to learn. Wants to bring meaning and purpose into harmony with each other. Talented at languages. Striving for higher perceptions.
+- discord: The Conceited. Fool Reckless, smug, and arrogant way of thinking. Puffed-up, hollow thoughts. Exaggerations and phrasemongering. Mentally lazy and presumptuous at the same time. Likes to play the scholar. Completely uncritical when it comes to one's own thoughts and perceptions.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -251,3 +266,4 @@ Excessive fat in the blood; an inability to absorb sugars in the blood; weakness
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

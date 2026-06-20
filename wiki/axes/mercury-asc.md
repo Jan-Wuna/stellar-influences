@@ -63,7 +63,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -161,7 +162,15 @@ The effect of your mental attitude on your health; intestinal gas from the stres
 
 - [Michael Munkasey - Mercury/Asc Concepts](../derived/munkasey-mercury-asc-concepts.md)
 
-## Comparative Schema
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Mercury-Ascendant`
+- PDF page(s): `309`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- harmony: The Nimble Individual. Skillful and nimble in behavior. Enjoys contacts and communication. Diplomatic and entertaining. Intellectual touch.
+- discord: The Cunning Person. Difficulties, insincerity, and slyness in communication with the surrounding world. Deceives, outsmarts, and slanders other people. Also becomes a victim. Many misunderstandings, exaggerated criticism, and gossip. Untiring spirit of contradiction. ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
 - psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
@@ -216,3 +225,4 @@ The effect of your mental attitude on your health; intestinal gas from the stres
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

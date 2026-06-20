@@ -63,7 +63,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -159,6 +160,16 @@ Emphasizes your personal maturity and the energy you place into becoming psychol
 
 - [Michael Munkasey - Mars/MC Concepts](../derived/munkasey-mars-mc-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Mars-Medium Coeli`
+- PDF page(s): `325`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- harmony: The Live Wire. Knows how to purposefully apply one's energies in professional life. Is quite willing to accept challenges and prove powers of assertion and willingness to engage in conflicts.
+- discord: The Center of the Storm. Creates many problems for oneself and others at work through senseless actions, impatience, or unnecessary quarreling. Erratic and lacking in conscious goals in one's professional life. Troublemaker.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -214,3 +225,4 @@ Emphasizes your personal maturity and the energy you place into becoming psychol
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

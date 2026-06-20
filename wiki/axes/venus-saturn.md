@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -215,6 +216,20 @@ Diminishes your sense of smell and taste; restricts passages in the throat; poor
 
 - [Michael Munkasey - Venus/Saturn Concepts](../derived/munkasey-venus-saturn-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Venus-Saturn: Commitment`
+- PDF page(s): `313`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Young Girl and the Wise Old Man
+- shadow: The Heartless Woman and the Embittered Man
+- comparison: Grace Severity Playful Responsible Light Heavy Love Duty Affectionate Tough Pampered Austere Open Closed Erotic Ascetic Says “yes” Says “no” Carefree Mistrusting Cheerful Serious
+- general: Simple beauty . Enjoyment of clear forms and structure . The beauty of the bare —the winter landscape. The peace of stillness . Not permitting oneself anything .
+- harmony: The Dutiful Individual. Caring, responsible, faithful, and steadfast in friendship and partnership. Sobriety and earnest in matters of love. Seeks a mature partner. Great loyalty within the relationship. Can— when it appears to be necessary—love in strict asceticism. Love that blossoms under particularly difficult, modest,
+- discord: The Unhappy Person. Difficulties making contact. Feels lonely and unloved—with and without a relationship. Mistrustful, stiff, and usually disapproving about matters of love and toward everything feminine. Can't believe that one is truly loved and continuously demands new guarantees and proof of love in a relationship. Inability to enjoy,
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -272,3 +287,4 @@ Diminishes your sense of smell and taste; restricts passages in the throat; poor
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

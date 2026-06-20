@@ -63,7 +63,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -159,6 +160,16 @@ The lymphatic system, in general; any passages, tubes, or channels associated wi
 
 - [Michael Munkasey - Moon/Node Concepts](../derived/munkasey-moon-node-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Moon-North Node`
+- PDF page(s): `300`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- harmony: Instinctive urge to progress on the path shown by the North Node. Intuitive, partly unconscious and instinctually sound acceptance and evaluation of the possibilities connected with the house and sign of the Moon's Node. Feelings are in harmony with the goal's direction.
+- discord: The yearnings of the Moon and its demands for a feeling of emotional security and attention are in contradiction to the position of the Moon's Node and related tasks in life. Feelings of unhappiness, inner indecision and irritability, dissatisfaction, and vexations on the path in life.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -214,3 +225,4 @@ The lymphatic system, in general; any passages, tubes, or channels associated wi
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

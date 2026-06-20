@@ -62,7 +62,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -136,6 +137,16 @@ Sinus sensitivities or infections; emotions held in check due to social or envir
 
 - [Michael Munkasey - Moon/Asc Concepts](../derived/munkasey-moon-asc-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Moon-Ascendant`
+- PDF page(s): `300`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- harmony: The Obliging Individual. Sensitive, imaginative, impressionable, cautious, usually reacts, tends to have a feminine form of expression. Willingness to adapt and be compliant.
+- discord: The Touchy Person. Difficulties in showing feelings and putting one's own wishes into practice. Emotionally blocked in the manner of expression. At the same time, moody and touchy toward others. Tends to get involved in misunderstandings. Moon-Medium Coeli HARMONY: Ms. or Mr. Popularity. Instinctive urge to be in the public eye.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -190,3 +201,4 @@ Sinus sensitivities or infections; emotions held in check due to social or envir
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

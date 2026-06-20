@@ -14,7 +14,8 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -175,6 +176,15 @@ something of the quality of the Sun/Moon midpoint. I have noticed that when the 
 - Treaties
 - Walls
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Node`
+- PDF page(s): `53`
+
+#### Banzhaf/Haebler Factor Keywords
+
+- principle: The Moon's Nodes mark the intersection of the Moon's orbit with the Sun's path; Banzhaf/Haebler treat the nodal axis as a crucial life point showing tasks, purpose, inherited old patterns through the South Node, and future direction through the North Node.
+
 ## Comparative Schema
 
 - core meaning: source-native factor entries are preserved side by side above.
@@ -233,6 +243,7 @@ something of the quality of the Sun/Moon midpoint. I have noticed that when the 
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)
 
 ## Open Questions
 

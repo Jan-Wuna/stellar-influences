@@ -63,7 +63,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -159,6 +160,16 @@ Your ability to feel comfortable with the image you project to others; your psyc
 
 - [Michael Munkasey - Venus/Asc Concepts](../derived/munkasey-venus-asc-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Venus-Ascendant`
+- PDF page(s): `318`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- harmony: The Graceful One. Natural, feminine, graceful appearance. Artistic and musical interests. Diplomatic skill, charming conduct, sociable manners, and pleasant nature.
+- discord: The Coquette. Hollow beauty and silly, condescending conduct. Difficulties in expressing one's own feelings. Courts other people's sympathies. Vanity.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -214,3 +225,4 @@ Your ability to feel comfortable with the image you project to others; your psyc
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

@@ -63,7 +63,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -159,6 +160,16 @@ Pressure or heat within the ocular fluids; elevated blood pressure caused by you
 
 - [Michael Munkasey - Mars/Asc Concepts](../derived/munkasey-mars-asc-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Mars-Ascendant`
+- PDF page(s): `325`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- harmony: The Individual on the Offensive. Knows how to clearly express will and assert oneself. Is very quick in matters of taking care of and asserting oneself.
+- discord: The Crafty Person. Aggressive but inhibited character. Can't naturally and directly express one's energies. Either overheated behavior or depressed and cringing. Sometimes sly, underhanded behavior or constant heated confrontations with the surrounding world. Possibility of self- destructive tendencies.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -214,3 +225,4 @@ Pressure or heat within the ocular fluids; elevated blood pressure caused by you
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

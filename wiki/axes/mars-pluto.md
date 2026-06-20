@@ -64,7 +64,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -166,6 +167,20 @@ An over-productive pituitary gland; active cell regeneration or production; rect
 
 - [Michael Munkasey - Mars/Pluto Concepts](../derived/munkasey-mars-pluto-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Mars-Pluto: Tremendous Power`
+- PDF page(s): `323`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Invincible Warrior and His Invisible Power
+- shadow: The Possessed Torturer and the Black Magician
+- comparison: Strength Power Greed Possession Crude Subtle Muscle strength Magical power Fist Curse Destruction Transformation Operating Healing magically
+- general: The courage for deep-reaching transformation . Greed for power and power struggles . Sexual possession . Uncanny , irresistible , or dark forces .
+- harmony: Mack the Knife. Development of immense, usually invisible strengths that originate in a deep energy of the soul. Strong, secretive, and irresistible aura. Being able to compel others without showing any recognizable outer signs of doing so. Spooky, invincible, decisive, courageous, and fascinating. Strong sexual energies and deep passion. Total intensity.
+- discord: The Sadist. Inconsiderate, unconditional, fanatic assertion of one's own will. Rigorous, bestial desire for revenge when rejection has been suffered. Extremely instinctive and possessed by sexual obsessions. Seeks total lust. Sexuality as the venue for power struggles. Loves (violent) sexual humiliations. As a result of social ostracism of this topic,
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -222,3 +237,4 @@ An over-productive pituitary gland; active cell regeneration or production; rect
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

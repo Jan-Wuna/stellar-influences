@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -215,6 +216,20 @@ Ulcers; a nervous stomach; reactions bought on by a sensitivity to drugs; sensit
 
 - [Michael Munkasey - Moon/Neptune Concepts](../derived/munkasey-moon-neptune-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Moon-Neptune: Feelings of Presentiment`
+- PDF page(s): `298`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Sensitive Queen and the Blind Seer
+- shadow: The Airy-Fairy Lady and the Ghost
+- comparison: Dream Vision Presentiment Inspiration Devotion Self-sacrifice Longing for a feeling of security Longing for vastness
+- general: Boundless feelings . Longing for deliverance , trance , and mystic experience . Fine antennas . Artistic sense .
+- harmony: The Medium. Can be easily and deeply touched on the emotional level. Finest antennas of the soul that convey knowledge about what is unspoken, unfamiliar, and the future. Great ability to be devoted to an ideal or a person, with a tendency toward exaggerated enthusiasm. Uncanny certainty in evaluating unfamiliar situations and people.
+- discord: The Escapist. Yearns for deliverance and lives in a fantasy world far from reality. Unfulfillable expectations of life and love, which— to be on the safe side—are usually not even tried out in the real world. Instead, flight into a dream world, hallucinations, intoxication, and addiction alternating with dissatisfaction, disappointment, loneliness,
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -272,3 +287,4 @@ Ulcers; a nervous stomach; reactions bought on by a sensitivity to drugs; sensit
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

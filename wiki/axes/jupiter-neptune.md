@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -223,7 +224,19 @@ Fatty deposits in body caused by stress or weakness; not enough exercise or body
 
 - [Michael Munkasey - Jupiter/Neptune Concepts](../derived/munkasey-jupiter-neptune-concepts.md)
 
-## Comparative Schema
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Jupiter-Neptune: Revealed Meaning`
+- PDF page(s): `328`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The High Priest and the Mystic
+- shadow: The Self-Righteous Man and the Crackpot, Dreamer, or Fantasist
+- comparison: Development Dissolution Faith Vision Religion Spirituality Dogmatic Mystic
+- general: Highest happiness or apparent luck . Being guided on trips . The hypocrite . Trusting one's guardian angel .
+- harmony: The Dancing Dervish. Finding the meaning of life in a mystic experience or being found by meaning. Kindness and compassion. Genuine altruism, highest ideals, true spirituality, harmonious connection of faith and inspiration, good visionary gifts. Trance and illumination. Fine sense for happiness.
+- discord: The Religious Crackpot. Feels oneself to be the chosen one, illuminated and wise. Seduces others or becomes the victim of peculiar sects, strange ideologies, and crackpot views of the world. Religious delusions. Victim of own dream images and yearnings. Intoxication. ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
 - psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
@@ -280,3 +293,4 @@ Fatty deposits in body caused by stress or weakness; not enough exercise or body
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

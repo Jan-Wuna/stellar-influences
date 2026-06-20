@@ -61,7 +61,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -157,6 +158,16 @@ Genetic patterns or abnormalities from gracious living, or from being unable to 
 
 - [Michael Munkasey - Jupiter/MC Concepts](../derived/munkasey-jupiter-mc-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Jupiter-Medium Coeli`
+- PDF page(s): `330`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- harmony: Being Supported. Good chances for advancement, frequently thanks to good contacts and helpful support. Success and luck in the realization of (professional) objectives. Possible popularity. Claim to leadership and leadership qualities.
+- discord: The High-Flier. Taking steps that are too large on the way up or in the realization of life's goals. As a result, frequently stressed. Exaggerated striving for power, recognition, and influence.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -211,3 +222,4 @@ Genetic patterns or abnormalities from gracious living, or from being unable to 
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

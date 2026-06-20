@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -215,6 +216,20 @@ Cataracts or similar blockage of senses, nerves, or nerve endings; breaks in men
 
 - [Michael Munkasey - Mercury/Saturn Concepts](../derived/munkasey-mercury-saturn-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Mercury-Saturn: Depth of Thought`
+- PDF page(s): `305`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Student and the Hermit
+- shadow: The Smartie and the Villain
+- comparison: Curiosity Experience Theory Practice Idea Reality Flexible Resolute Nimble Rigid Idea Form Quick Slow
+- general: Systematic , critical , formally resolute , structured way of thinking . Serious thoughts and mature perception . Thoughts of departure . Thinking something through to the end .
+- harmony: Realistic Thinking. Talent of thinking in clear, logical, reasonable structures. Consistent and critical thought. Ability to have objective perceptions from a distanced perspective. Crystalline perceptions gained by hard brainwork. Not losing the red thread in deliberations and speeches. Sometimes slow and circumspect but also thorough, tactical,
+- discord: The Mental Block. Doubt about one's intellectual abilities. Destructive, pessimistic, embittered, close-minded thinking. Gloomy thoughts and constant brooding. Getting stuck in negative ideas. Depressive, self-destructive thoughts. Being slow on the uptake. Inhibitions about expressing oneself verbally or boring, tiring monotony in manner of expression.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -272,3 +287,4 @@ Cataracts or similar blockage of senses, nerves, or nerve endings; breaks in men
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

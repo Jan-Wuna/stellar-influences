@@ -14,7 +14,9 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+  - l-edward-johndro-astrological-dictionary
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -178,6 +180,29 @@ As a component of the father archetype, the Sun represents the father's function
 - Sovereigns
 - Symbolic Leaders
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Sun`
+- PDF page(s): `28`
+
+#### Banzhaf/Haebler Factor Keywords
+
+- archetype: The hero, the father, the king.
+- shadow: The overbearing person, the megalomaniac.
+- principle: The Sun embodies intrinsic character, central concerns, path and goal, yang consciousness, mind, will, activity, vital energy, creativity, self-realization, radiance, warmth, courage, optimism, and the fatherly masculine element.
+- strengths: The self-confident individual. Powerful development of one's own being. Makes a strong impression and has a striking personality. Healthy self-reliance, very lively, exudes warmth. Is hearty, magnanimous, creative, independent, and self-confident.
+- problem area: The overextended person. Either a self-aggrandizing exaggeration of one's own possibilities and a puffed-up, arrogant personality, or a frail, weak-willed, fawning posture with great difficulties in the development of one's own essence, a late bloomer.
+
+### L. Edward Johndro - Astrological Dictionary
+
+- Source section: `Sun`
+- PDF page(s): `4`
+
+#### Johndro Dictionary Keywords
+
+- source-native descriptors: "I AM"; POWER; male; electrical; organic; positive; the giver of life
+- representative keywords: alive, ambition, celebrity, center, central, daylight, ego, father, flame, glory, heredity, illuminate, king, life, power, solar
+
 ## Comparative Schema
 
 - core meaning: source-native factor entries are preserved side by side above.
@@ -236,6 +261,8 @@ As a component of the father archetype, the Sun represents the father's function
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)
+- [L. Edward Johndro - Astrological Dictionary](../sources/l-edward-johndro-astrological-dictionary.md)
 
 ## Open Questions
 

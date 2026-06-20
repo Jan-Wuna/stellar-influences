@@ -14,7 +14,9 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+  - l-edward-johndro-astrological-dictionary
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -160,6 +162,29 @@ experience. Breadth of experience prevents this person from taking narrow-minded
 - Sky, The
 - Well Being, Sense of
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Jupiter`
+- PDF page(s): `40`
+
+#### Banzhaf/Haebler Factor Keywords
+
+- archetype: The high priest, the missionary, the just person.
+- shadow: The Pharisee, complacent person, the self-righteous individual.
+- principle: Jupiter represents trust in life, belief in life's meaning, ideals and values, the search for meaning, forces of growth, thriving, good fortune, prosperity, personality development, broadening horizons, dignity, wisdom, hope, grace, justice, success, optimism, generosity, and abundance.
+- strengths: The dignified person. Highly developed sense of morality and ethics, as well as strong inner belief and great trust in yourself and in life. Generosity, sense of responsibility, justice, goodness, compassion, reverence, and willingness to forgive. The talent to understand meaning and connection in a global or higher sense.
+- problem area: The degenerate. Overestimates his or her own personality. Unscrupulous, high-handed, vain, power-hungry, addicted to pleasure, lazy, and self-satisfied. The otherwise benevolent Jupiter becomes unpleasantly exaggerated or purely superficial in an attitude of hypocrisy, fanaticism, self-aggrandizement, degenerating in terms of body, emotions, and character.
+
+### L. Edward Johndro - Astrological Dictionary
+
+- Source section: `Jupiter`
+- PDF page(s): `11-13`
+
+#### Johndro Dictionary Keywords
+
+- source-native descriptors: "I WIN"; great benefic; warm; moist; expansive; positive; masculine; the seller
+- representative keywords: abundance, acclaim, accrue, finance, gain, generous, glory, good, honor, justice, law, large, reputation, respect, rich, royal, security, status, wealth
+
 ## Comparative Schema
 
 - core meaning: source-native factor entries are preserved side by side above.
@@ -218,6 +243,8 @@ experience. Breadth of experience prevents this person from taking narrow-minded
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)
+- [L. Edward Johndro - Astrological Dictionary](../sources/l-edward-johndro-astrological-dictionary.md)
 
 ## Open Questions
 

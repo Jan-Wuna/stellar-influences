@@ -14,7 +14,9 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+  - l-edward-johndro-astrological-dictionary
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -167,6 +169,29 @@ what one is—grants us the ability to sacrifice ourselves for that in which we 
 - Unplanned Ventures
 - Visions
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Neptune`
+- PDF page(s): `47`
+
+#### Banzhaf/Haebler Factor Keywords
+
+- archetype: The mystic, the visionary, the martyr.
+- shadow: The crackpot, the addict, the alcoholic.
+- principle: Neptune represents dissolving boundaries, subtle and transcendental perception, concealed correlations, future trends, longing to overcome everyday consciousness, spiritual aspiration often confused with intoxicants or spirits, heightened sensitivity, and bodily weakening through permeability.
+- strengths: The medium. Strong spiritual aspirations. Deep inner conviction, often based on personal experience, that a divine power is at work in everything and should be recognized as such. Great receptivity and sensibility. Compassionate behavior, characterized by almost boundless sympathy. Idealistic, soft, able to be devoted, and mediumistic.
+- problem area: The drunk or drug addict. Drawn in a dangerous direction by a strong—frequently unrecognized or underestimated—inner force. Easily seducible and endangered by addiction, particularly to intoxicants. Also in danger of being overcome and swept away by collective currents, ranging from less harmful trends of the period to the violent excesses of mass hysteria.
+
+### L. Edward Johndro - Astrological Dictionary
+
+- Source section: `Neptune`
+- PDF page(s): `21-24`
+
+#### Johndro Dictionary Keywords
+
+- source-native descriptors: utopian; watery; neutral; psychic; "I DREAM"; mystery; mild warm; spiritual and material
+- representative keywords: belief, bewilder, bliss, camouflage, dissolve, dream, ecstasy, elation, enchant, ether, illusion, mystery, oceanic, psychic, universal, vision, water, yearning
+
 ## Comparative Schema
 
 - core meaning: source-native factor entries are preserved side by side above.
@@ -225,6 +250,8 @@ what one is—grants us the ability to sacrifice ourselves for that in which we 
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)
+- [L. Edward Johndro - Astrological Dictionary](../sources/l-edward-johndro-astrological-dictionary.md)
 
 ## Open Questions
 

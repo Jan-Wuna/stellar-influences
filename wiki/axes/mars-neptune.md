@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -213,6 +214,20 @@ Weakens your overall physical stamina; muscle weakness or atrophy; physical cond
 
 - [Michael Munkasey - Mars/Neptune Concepts](../derived/munkasey-mars-neptune-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Mars-Neptune: Spiritual Energies`
+- PDF page(s): `322`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Spiritual Warrior and His Guardian Angel
+- shadow: The Drunken Pirate and the Poisoner
+- comparison: Purposeful Without a goal Instinctive Transfigured Action Dream Sensual Extrasensory This world Other worlds Solid Intangible Strong Weak Violence Non-violence Perpetrator Victim
+- general: Guided by higher power in all actions . A fist in the water . The shot of poison . Fighting with spiritual weapons or non-violently in another way . Conquers by yielding . Dissolving aggressions . Striving for what is boundless .
+- harmony: The Somnambulist. Acting with uncanny certainty. Feels when the right moment has come or acts in the right way on the basis of unconscious inspiration (guardian angel aspect). Can work with spiritual energies as a healer and therapist, but also as an artist. May turn fantasies and visions into reality.
+- discord: Mr. or Ms. Wishy-Washy. Energies that are misguided or quickly fizzle out. Feelings of weakness and helplessness. Lets oneself drift without a goal and doesn't know what one really wants. In extreme cases, danger of neglect, deception, criminality, intoxication, and addiction. Aggressions are only expressed in an indirect manner.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -270,3 +285,4 @@ Weakens your overall physical stamina; muscle weakness or atrophy; physical cond
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

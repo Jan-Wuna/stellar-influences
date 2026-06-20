@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -129,7 +130,7 @@ They greatly add to the energy, vigour, decision and will-power of the native, w
 
 It tends to give physical robustness, the ability to stand hard conditions, and the capacity for hard work, but even thus, cross aspects from other bodies may result in high nervous tension and an overwrought condition, the will, as it were, tearing the body asunder.
 
-In one case known to me there is a Trine between Mars (Taurus) and Uranus (Virgo) with a cross aspect to the latter from the Sun (Sagittarius). Here the heart has suffered, as the outcome of nervous strain, and the native is almost an invalid. In another case, with the same Trine from the same signs, but with Sun and Saturn in Square to Uranus from Gemini, there is indomitable courage, but it is spent in an uphill fight with poverty and sickness. In the former case the Sun, having the Trine of Saturn, indicated affluent conditions, but for which the native would probably have collapsed altogether.
+In one case known to me there is a Trine between Mars (Taurus) and Uranus (Virgo) with a cross aspect to the latter from the Sun (Sagittarius). Here the heart has suffered, as the outcome of nervous strain, and the native is almost an invalid. In another case, with the same Trine from the same signs, but with Sun and
 
 It may be said that any ill aspect to this combination will occasion a greater or less degree of nerve-tension.
 
@@ -213,6 +214,20 @@ Muscle spasms; rapidly fluctuating energy levels; deafness from exposure to nois
 
 - [Michael Munkasey - Mars/Uranus Concepts](../derived/munkasey-mars-uranus-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Mars-Uranus: The Fight for Freedom`
+- PDF page(s): `321`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Rebel and the Revolutionary
+- shadow: The “Modern” Warrior and the Anonymous Spirit of Technology
+- comparison: Dynamic force Spontaneity Competition Cooperation Conquering Liberating Heated Cool Committed Distanced
+- general: Abrupt discharge of energy . Erratic , surprising , split-second actions . Fighting for freedom and utopia . Freedom of will . Free sexuality . Excited by high speeds .
+- harmony: The Lightning Flash. Unusual reaction speed. Individual action with an enjoyment of decision-making, guided by superb intuition. Fighting for freedom. Pioneer in search for new paths and new goals in unknown regions, hikes to make use of the right moment. Values sexual freedom, is easy to get a response from, and quickly excited.
+- discord: The Uncontrolled Person. Sudden, surprising energy and aggressive eruptions (runaway horses). Irritable, rebellious, defends oneself against every standard and any limitations, with violence if necessary. Overreactions, violent fits of temper, extremely nervous and impatient, in danger of having accidents.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -270,3 +285,4 @@ Muscle spasms; rapidly fluctuating energy levels; deafness from exposure to nois
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

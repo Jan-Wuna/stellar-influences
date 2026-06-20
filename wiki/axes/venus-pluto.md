@@ -64,7 +64,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -166,6 +167,20 @@ Hyper or hypo-thyroidism; toxins which overwhelm the kidneys; tonsillitis with e
 
 - [Michael Munkasey - Venus/Pluto Concepts](../derived/munkasey-venus-pluto-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Venus-Pluto: The Magic of Love`
+- PDF page(s): `316`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Enchantress and the Sorcerer
+- shadow: The Beauty and the Beast
+- comparison: Love Power Beauty Shadows Relationship Dependence Eroticism Sadomasochism Peace Tyranny Gentleness (Subtle) violence Grace Irresistibility Lover's bliss Deepest transformation
+- general: Experiencing the power of love . Being deeply transformed by love . The extreme relationship .
+- harmony: The Extreme Relationship. Loving completely or not at all. Comprehending the relationship as a challenge, an indissoluble pact, or a karmic connection. Being willing to live through the depths with decisiveness and fundamentally transforming oneself through the confrontation with the partner. Intensively passionate, sexual feelings.
+- discord: Passionate Entanglement. Becoming entangled in an emotional, mostly unconscious power struggle. Inner compulsion to manipulate the partner, to make the partner emotionally, sexually, and/or financially dependent. Or to mercilessly humiliate the partner in order to ridicule and disdain the partner afterward. Craving for control. Malicious, sly, compulsive,
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -222,3 +237,4 @@ Hyper or hypo-thyroidism; toxins which overwhelm the kidneys; tonsillitis with e
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

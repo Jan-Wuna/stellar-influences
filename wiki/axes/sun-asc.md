@@ -63,7 +63,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -159,6 +160,16 @@ Understanding your effect on the world and feeling mentally satisfied with that;
 
 - [Michael Munkasey - Sun/Asc Concepts](../derived/munkasey-sun-asc-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Sun-Ascendant`
+- PDF page(s): `289`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- harmony: The Uninhibited Individual. Positive, strong, more masculine expression of the personality. Spontaneous, powerful, natural, strong- willed. Can show who one really is without any timidity or effort. Strong trust in own abilities, great self-confidence, and a healthy feeling of self- worth.
+- discord: The Masked Person. External appearance and inner nature are poles apart. As a result, inhibitions of personal expression and frustrated confrontations with the outer world. Shyness about showing true nature. Hides behind a socially acceptable mask.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -214,3 +225,4 @@ Understanding your effect on the world and feeling mentally satisfied with that;
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

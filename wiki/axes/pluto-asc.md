@@ -63,7 +63,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -159,6 +160,16 @@ Endocrine and pituitary gland functions; reactions toxic or waste matter in the 
 
 - [Michael Munkasey - Pluto/Asc Concepts](../derived/munkasey-pluto-asc-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Pluto-Ascendant`
+- PDF page(s): `343`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- harmony: The Hypnotist. Capable of mobilizing enormous powers of the soul and thereby controlling, guiding, or influencing other people. Strong-willed, assertive, resolute. Charismatic aura. Able and willing to accompany other people through the crises and depths of life.
+- discord: The Shady Character. Difficulty in dealing with one's own striving for power and sexual energies. Has an effect of being dark, mysterious, and sometimes subdued and in low spirits. Dominating, overbearing conduct. Craving for control and misuse of power. Pluto-Medium Coeli HARMONY: The High-Powered Person.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -214,3 +225,4 @@ Endocrine and pituitary gland functions; reactions toxic or waste matter in the 
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

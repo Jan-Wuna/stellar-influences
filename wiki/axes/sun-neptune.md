@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -232,6 +233,20 @@ A weakened bodily constitution; a decrease of willpower; potential drug addictio
 
 - [Michael Munkasey - Sun/Neptune Concepts](../derived/munkasey-sun-neptune-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Sun-Neptune: Mediumism`
+- PDF page(s): `286`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Spiritual King and the Seer
+- shadow: The Addicted King and His Tempter
+- comparison: Active actions Letting oneself be guided Searching Being found Consciousness Illumination Perception of reality Vision Waking consciousness Trance Sobriety Intoxication
+- general: Being guided by a guardian angel on the path of life . Expanding or befogging the conscious mind through mystic vision , trance , or state of intoxication . Boundless yearning to be released from the confines of the body or from consciousness .
+- harmony: The Visionary. Extremely sensitive to all moods and currents. Good sense for the spirit of the times and trends. Sure instinctual judgment on the basis of frequently inexplicable but solid inner certainty. Visionary gifts and great intuitive understanding. Often a strongly developed interest in spiritual experiences, mysticism, trance,
+- discord: The Seducible Person. Driven by boundless longing to leave the prison of the body; in danger of taking the wrong paths. Satisfies the yearning for the Holy Spirit rashly with the spirit of wine or other intoxicants. In danger of addiction, which is why—in some cases—one is strictly abstinent, even in the most difficult aspects.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -289,3 +304,4 @@ A weakened bodily constitution; a decrease of willpower; potential drug addictio
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

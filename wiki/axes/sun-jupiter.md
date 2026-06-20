@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -217,6 +218,20 @@ Your personal vitality and vigor; excessive cholesterol deposits in the heart ar
 
 - [Michael Munkasey - Sun/Jupiter Concepts](../derived/munkasey-sun-jupiter-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Sun-Jupiter: Self- Assurance`
+- PDF page(s): `283`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Noble-Minded King and the High Priest
+- shadow: The Megalomaniac and the Self-Righteous Man
+- comparison: Essence Meaning Will Success Magnanimity High-mindedness Fame Honor Development of the self Development of meaning
+- general: Self-assurance . Designing one's life with optimism and confidence . Going through life with luck and success . The meaning of life .
+- harmony: The Respectable Person. A talent for happiness and the feeling of being chosen. Optimistic feeling for life that is full of self- assurance and also passed on to others. Always interested in expansion, improvement, growth, and promotion. Creative, capable of enthusiasm, tolerant, trustworthy, demanding, generous, kind, and humane.
+- discord: The Fat Soul. Self-satisfied in judging oneself and one's own achievements. Is too good and fine for everything. Pomposity, wastefulness, and smugness that can be intolerable because of a constant concern about appearing in the light of the imaginary greatness. Emotional and physical fatness. Unreliable, indolent, conceited, demanding.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -274,3 +289,4 @@ Your personal vitality and vigor; excessive cholesterol deposits in the heart ar
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

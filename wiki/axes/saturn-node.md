@@ -63,7 +63,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -159,6 +160,16 @@ The blockage or constriction of tubes or passageways in the body; blocked or con
 
 - [Michael Munkasey - Saturn/Node Concepts](../derived/munkasey-saturn-node-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Saturn-North Node`
+- PDF page(s): `334`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- harmony: Concentrates on the independent mastering of one's tasks in life. Consistent, responsible, and untiring on life's path. Has high standards and places ambitious demands on oneself. Grows beyond one's own limitations.
+- discord: Pessimistic to hopeless attitude in view of the tasks in life. Experiences oneself as completely blocked and afraid to pass over the threshold to becoming oneself. Often has the impression that duties and other burdens don't permit one to come to what's important. Easily falls into old patterns that one thought one had already overcome.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -214,3 +225,4 @@ The blockage or constriction of tubes or passageways in the body; blocked or con
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

@@ -63,7 +63,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -159,6 +160,16 @@ Blockages which affect your pituitary or endocrine glands; sexual preferences or
 
 - [Michael Munkasey - Pluto/Node Concepts](../derived/munkasey-pluto-node-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Pluto-North Node`
+- PDF page(s): `343`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- harmony: Strong powers of fascination that draw one to the actual priority in life. Experiences of power and helplessness, deep-reaching experiences of purification, and sometimes painful transformations and encounters with one's shadow prove to be helpful and essential in completing tasks in life.
+- discord: Vehement inner tensions and feelings of possession because strong forces pull or urge in another direction than the priority in life. The feeling of being enslaved to false conceptions.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -214,3 +225,4 @@ Blockages which affect your pituitary or endocrine glands; sexual preferences or
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

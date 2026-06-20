@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -225,6 +226,20 @@ High blood pressure; health problems caused by the blockage of energy or emotion
 
 - [Michael Munkasey - Mars/Saturn Concepts](../derived/munkasey-mars-saturn-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Mars-Saturn: Controlled Energy`
+- PDF page(s): `320`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Spartan Warrior and His Old Teacher
+- shadow: The Wicked Mercenary and the Grim Man Without Mercy
+- comparison: Drive Resistance Spontaneity Responsibility Youth Age Hot Cold Rash Experienced Quick Slow Short Long Instinctual Ascetic Unrestrained Controlled Setting out Departing Beginning End
+- general: Consistent , unyielding , or grim work . Fighting to the (bitter) end . Fighting against resistance . Gritting one's teeth . Cold war . Controlled or suppressed urges . Stiffened powers . Driving with the brakes on .
+- harmony: The Untiring Individual. Purposeful energy. Persistently and resolutely finishes what has been started. Enormous use of force that continues to increase when there is resistance. Reliably, decisively, resolutely, and conscientiously carries out assignments. Can pull oneself together and hold out whenever it's necessary to do so. In the area of sexuality,
+- discord: The Frustrated Person. Great problems with aggression. Energy that is stimulated by constant resistance, making room for itself in a brutal and bone-breaking manner. Or lasting pent-up aggressions that turn inward as helpless anger. Fear of failure and inability. Sullenness, desire for revenge, cold-blooded rage, inner blocks and tensions.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -282,3 +297,4 @@ High blood pressure; health problems caused by the blockage of energy or emotion
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -205,6 +206,20 @@ Female organs; your sensitivity to taste, smell, touch, etc.; glandular balances
 
 - [Michael Munkasey - Moon/Venus Concepts](../derived/munkasey-moon-venus-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Moon-Venus: Peace of Mind`
+- PDF page(s): `292`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Graceful Queen and the Lady-in-Waiting
+- shadow: The Moody Woman and the Vain Lady
+- comparison: Loving care Eroticism Disposition Sensuality Closeness Flirtation Security Temptation Feeling Taste Atmosphere Style Mother Young woman Watching over Enticing Longing Willingness Family Couple Motherly love Erotic love Soul Peace
+- general: Longing for love and a feeling of security . Dreaming of love and eroticism . A good feeling in matters of taste , style , and art . Harmonious , loving , and peaceful feelings .
+- harmony: The Charmer. Harmony between disposition and erotic aura. Charming, very feminine, lovable, and always willing to fall in love. Great desire for love and tenderness. Capable of deep, genuine love, devotion, and sympathy. Friendly, tender, gentle, affectionate, and loving with a sure sense of what is right and the right moment in a relationship.
+- discord: The Unfulfilled Person. Torn back and forth between the wish for emotional security and the enticing call of desire. Both at the same time are apparently not satisfying. As a result, an uneven temper, dissatisfaction, extreme sensitivity, moodiness, jealousy, and unpredictably passionate: sometimes lustful, sometimes inhibited.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -262,3 +277,4 @@ Female organs; your sensitivity to taste, smell, touch, etc.; glandular balances
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

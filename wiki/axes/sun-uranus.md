@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -215,6 +216,20 @@ Blood pressure abnormalities; bodily reactions to stress; shock or trauma; deafn
 
 - [Michael Munkasey - Sun/Uranus Concepts](../derived/munkasey-sun-uranus-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Sun-Uranus: Eccentricity`
+- PDF page(s): `285`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Liberal King and the Court Jester
+- shadow: The Irresponsible Person and the Traitor
+- comparison: Essence Individuality Focus of attention Outside Creativity Upheaval Development Mutation Equanimity Rebellion
+- general: The free person . Consciousness of uniqueness . The original , crazy , or eccentric mind .
+- harmony: The Casual Individual. Great striving for independence, autonomy, and the freedom to live a completely individual life. Very interested in experimenting. Imaginative and inventive. Sometimes ingenious and often ahead of the times. Can easily adapt to new ideas, plans that have changed suddenly, unfamiliar situations, and new relationships.
+- discord: The Self-Sufficient Person. Exaggerated, sometimes problematic striving for independence that sooner or later experiences every form of contractual obligation or verbal agreement as an intolerable prison. As a result,
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -272,3 +287,4 @@ Blood pressure abnormalities; bodily reactions to stress; shock or trauma; deafn
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

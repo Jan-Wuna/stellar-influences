@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -147,7 +148,7 @@ If the Harmonious aspects sometimes seem to bring painful conditions, it may als
 
 The Opposition seems not altogether bad, probably because the two bodies rule opposite signs and therefore there is some kinship between the Opposition aspect and this mutual relation. It is not incompatible with considerable worldly success, if other aspects favour, though such success will be won only by sheer hard work and may be retained with difficulty. Often the early life is very hard and the father is of no use to the native; real sympathy between them is rare. He may be hard or unsuccessful or a reprobate. A case in point is that of the ex-Kaiser, whose father ruled only for a short time, died of cancer and was never intimate with his son. I have a case of a man with Sun Square Saturn who as a child was obliged to fetch his father from the public-house regularly - he grew up a person of staunch moral character, worked extremely hard all his life, and, after severe checks, accumulated a moderate fortune. Here the native's life was embittered because, though fairly successful, he did not attain his ambitions, which were considerable. In other cases known to me the Sun-Saturn native has achieved a great deal in terms of social status, but not in actual tangible cash. Again, the inhibition is sometimes largely physical (cf. the ex-Kaiser's withered arm).
 
-We may distinguish three types: the ambitious but incompetent man who "fails," the man who is not ambitious or interested in material affairs, but has to spend his life with them, and the competent and ambitious man who is confronted with obstacles and illluck. Often it seems as if this third class does not suffer much discontent from the fact that he has to work hard for comparatively little emolument; in a word, he accepts the Saturnian destiny philosophically and becomes a willing, if not a cheerful, captive of the planet's regime, finding a sort of satisfaction in the fact that he earns every penny he gets, and sometimes a good deal more. But this will depend upon the general tenor of the map, and especially upon the nature of the Ascendant. In a case of the Sun Squared by Saturn in Aquarius I have found the native very cheerful in poverty, bearing it in an idealistic spirit.
+We may distinguish three types: the ambitious but incompetent man who "fails," the man who is not ambitious or interested in material affairs, but has to spend his life with them, and the competent and ambitious man who is confronted with obstacles and illluck. Often it seems as if this third class does not suffer much discontent from the fact that he has to work hard for comparatively little emolument; in a word, he accepts the Saturnian destiny philosophically and becomes a willing, if not a cheerful, captive of the planet's regime, finding a sort of satisfaction in the fact that he earns every penny he gets, and sometimes a good deal more. But this will depend upon the general tenor of the map, and especially upon the nature of the Ascendant. In a case of the Sun Squared by
 
 The difficulty is always, at heart, one of self-expression. Either proper expression is denied or delayed until it is almost too late to serve its purpose, or else the native tries "to force the issue" and blunders disastrously. Sometimes the issue is shirked and there is shyness or timidity, which may be hidden behind blatant boastfulness.
 
@@ -213,6 +214,20 @@ Mineral deposits in the arteries near the heart; blood and lymph circulation con
 
 - [Michael Munkasey - Sun/Saturn Concepts](../derived/munkasey-sun-saturn-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Sun-Saturn: Integrity`
+- PDF page(s): `284`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The Solemn King and His Wise Advisor
+- shadow: The Sick King and the Embittered Old Man
+- comparison: Essence Form Development Boundary Inner stability Outer stability Liveliness Repose Self-assurance Self-doubt Lightness Heaviness Zest for life Asceticism Consciousness Conscience Joy Earnest Demands Humility Wanting Being compelled to
+- general: The boundary of growth . The form and its content . Slow but lasting development of the personality . Learning to become humble in life . Overcoming the fear of embarking on something new . Inhibitions about believing in oneself .
+- harmony: The Builder. Prefers slow but lasting growth in contrast to hasty, half-baked leaps. Needs and creates order and structure. Willing to recognize clear boundaries and look reality in the eye. Earnest, mature, and reliable personality. Respectable, competent, responsible, dutiful, strong, diligent, humble, and modest.
+- discord: The Stooped Individual. Difficult authority conflicts. Lack of self-confidence, massive doubt about one's own value, and the persistent feeling of not being good enough. Inexplicable feelings of guilt. Seeks recognition, yet at the same time is incapable of “putting up with” praise and applause. Always has to prove oneself for fear of failure.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -270,3 +285,4 @@ Mineral deposits in the arteries near the heart; blood and lymph circulation con
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

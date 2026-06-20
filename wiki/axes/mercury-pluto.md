@@ -64,7 +64,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -166,6 +167,20 @@ Pituitary or endocrine glandular imbalances are highlighted; breakdown of body t
 
 - [Michael Munkasey - Mercury/Pluto Concepts](../derived/munkasey-mercury-pluto-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Mercury-Pluto: Inquiring Mind`
+- PDF page(s): `308`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: Faust and Mephistopheles
+- shadow: The Rogue and the Reactionary
+- comparison: Distance Intensity Objective Committed Superficial Cryptic Cunning Power Lightness Depth Intellect Magic
+- general: Analytic and profound thought . Power of persuasion and the fixed idea . The magic of words or thoughts .
+- harmony: Uncompromising Thought. Good powers of observation. Analytical, critical, probing mind. The gift and desire to convince the surrounding world of one's own opinions and perceptions. An urge to closely scrutinize, explore, and—without consideration of possible consequences—relentlessly reveal everything.
+- discord: The Fixed Idea. Compulsive need to talk and communicate. Dogged and obsessive thinking. Not being able to let go of a thought once it has come into existence. Persuading others in a dogmatic manner. Brutal openness without consideration of ethics or morals. Misuse of power. Intolerant, underhanded, and selfish.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -222,3 +237,4 @@ Pituitary or endocrine glandular imbalances are highlighted; breakdown of body t
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

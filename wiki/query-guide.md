@@ -58,5 +58,5 @@ Use this guide and `query-manifest.json` before opening large numbers of pages.
 
 ## Source Catalogs
 
-- Count: `9`
+- Count: `11`
 - Use these for scope and provenance, not for first-pass interpretation.

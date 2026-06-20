@@ -64,7 +64,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -166,6 +167,20 @@ Primary cancer indicator; tends to accumulate fat and poisons in the body; ineff
 
 - [Michael Munkasey - Jupiter/Pluto Concepts](../derived/munkasey-jupiter-pluto-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Jupiter-Pluto: Alchemical Black Gold`
+- PDF page(s): `329`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The High Priest and the Sorcerer
+- shadow: The Smug Man and the Power Person
+- comparison: Growth Transformation Olympia Hades Faith Power Good Shadow Conviction Possession Religion Magic
+- general: Shamanistic view of the world . Trust in the archaic elemental forces and the wealth of the depths . The deep-reaching transformation for the better .
+- harmony: The Shaman. Ability for psychological and spiritual transformation and renewal. Strong convictions and great powers of persuasion. Healing power. Confidence in powers that renew themselves. Having a sense of everything deep and profound.
+- discord: The Demagogue. Glorification of power, misuse of power, ruling over others, and wanting to convince and seduce. Fanaticism and arrogance. Glorification of a fixed idea. Obsessive-compulsive neurotic.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -222,3 +237,4 @@ Primary cancer indicator; tends to accumulate fat and poisons in the body; ineff
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

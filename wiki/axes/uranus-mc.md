@@ -63,7 +63,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -159,6 +160,16 @@ You may find much stress in your work environment; a stubbornness or resistance 
 
 - [Michael Munkasey - Uranus/MC Concepts](../derived/munkasey-uranus-mc-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Uranus-Medium Coeli`
+- PDF page(s): `338`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- harmony: The Individualist. Seeks, develops, and strives for individual goal in life. Needs a great deal of freedom, particularly on the professional path of life. Can be committed to humanistic ideals within the scope of working life.
+- discord: The Nonconformist. Individual striving for freedom and the necessity of occupational life appear incompatible with each other, resulting in much rebellion, opposition, and conflict. Always searches for new goals. Isn't good at adapting and accepting universally valid rules.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -214,3 +225,4 @@ You may find much stress in your work environment; a stubbornness or resistance 
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

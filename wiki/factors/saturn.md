@@ -14,7 +14,9 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+  - l-edward-johndro-astrological-dictionary
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -184,6 +186,29 @@ gentleness or peace. A strong Saturn often indicates a particularly powerful exp
 - State, The
 - Warnings
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Saturn`
+- PDF page(s): `42`
+
+#### Banzhaf/Haebler Factor Keywords
+
+- archetype: The old, wise man, the hermit.
+- shadow: The embittered person, the adversary.
+- principle: Saturn represents structure, steadfastness, limitation, security, stability, stamina, consistency, boundaries, time, endings, separations, seclusion, conscience, form, compression, concentration, crystallization, obligation, deceleration, justice, law, and order.
+- strengths: The humble individual. Authentic humility, genuine modesty. The power to be true to oneself and the willingness to face the most difficult jobs. Greatly developed ambition combined with immense endurance. Takes duties unusually seriously. Extremely disciplined, achievement-oriented, and dependable. Mature contentment.
+- problem area: The hard-hearted person. Fear of life and failure, conflicts with authority, hardness, inflexibility, dark ambition, cold need for admiration, depression, bitter negation of life, self-destructive drudgery, compulsive achievement, rigidity, embitterment, loneliness, emotional suppression, coldness, stubbornness, and relentless constraint.
+
+### L. Edward Johndro - Astrological Dictionary
+
+- Source section: `Saturn`
+- PDF page(s): `14-17`
+
+#### Johndro Dictionary Keywords
+
+- source-native descriptors: father Chronos; time; form; stability; "I BUILD"; mathematics; cold; earthy; negative; masculine; the buyer
+- representative keywords: age, ancient, anxiety, austerity, barrier, basis, black, block, bone, cold, delay, form, mathematics, restriction, stability, time
+
 ## Comparative Schema
 
 - core meaning: source-native factor entries are preserved side by side above.
@@ -242,6 +267,8 @@ gentleness or peace. A strong Saturn often indicates a particularly powerful exp
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)
+- [L. Edward Johndro - Astrological Dictionary](../sources/l-edward-johndro-astrological-dictionary.md)
 
 ## Open Questions
 

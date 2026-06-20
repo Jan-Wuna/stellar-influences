@@ -65,7 +65,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -201,6 +202,20 @@ Abnormalities in the body caused by an excess of fat in the blood; upsets to you
 
 - [Michael Munkasey - Jupiter/Uranus Concepts](../derived/munkasey-jupiter-uranus-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Jupiter-Uranus: The Ideal of Freedom`
+- PDF page(s): `327`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- archetype: The High Priest and the Reformer
+- shadow: The Self-Righteous Man and the Anarchist
+- comparison: Ideals Utopia Growth Mutation Faith Enlightenment Religion Philosophy Virtue Freedom Trust Betrayal What is better What is special Evolution Revolution
+- general: Sudden growth . Good , surprising realizations . Trust in the future . Strokes of luck . Ideals of freedom . The individual meaning of life . The individual trip . Religious freedom .
+- harmony: The Free Spirit. Spontaneous, revolutionary insights. Optimistic farsightedness and good sense for future developments. Inventive. Advocate of freedom of religion and opinion. Seeks new values and the very personal meaning in life. Strives for free development of individuality. Courage to have one's own ideals.
+- discord: The Pigheaded, The Conviction-Changer. Protest and “anti” attitude toward social values (“down with...” mentality). Problems with institutions, particularly the Church. Constantly changing. New goals and eccentric convictions. Exaggerated willfulness. Ultramodern theses. Very much concerned with an image of being “original.”
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -258,3 +273,4 @@ Abnormalities in the body caused by an excess of fat in the blood; upsets to you
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

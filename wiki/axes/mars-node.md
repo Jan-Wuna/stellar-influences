@@ -63,7 +63,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -159,6 +160,16 @@ Tears and rips of the muscles or ligaments which hold any body tubes, like the i
 
 - [Michael Munkasey - Mars/Node Concepts](../derived/munkasey-mars-node-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Mars-North Node`
+- PDF page(s): `324`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- harmony: Bold, aggressive basic attitude that is confident of victory in mastering the true tasks in life. Works actively, hard, and successfully on one's goals. When it is important, one will fight for self and one's cause in a committed manner.
+- discord: Great inner tensions and frustrations because the fighting strength, the will to conquer, as well as the driving force and the sexual desire distract from one's life priorities instead of striving toward them. Danger of creating artificial foe images and tendency toward disproportionate actions and overreactions as a result of suppressed aggressions.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -214,3 +225,4 @@ Tears and rips of the muscles or ligaments which hold any body tubes, like the i
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

@@ -63,7 +63,8 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - hajo-banzhaf-anna-haebler-keywords-for-astrology
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -159,6 +160,16 @@ An inability to develop an appreciation for what others do for you; your ability
 
 - [Michael Munkasey - Venus/MC Concepts](../derived/munkasey-venus-mc-concepts.md)
 
+### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
+
+- Source section: `Venus-Medium Coeli`
+- PDF page(s): `318`
+
+#### Banzhaf/Haebler Aspect Keywords
+
+- harmony: The Popular Person. The desire to be able to develop taste, a sense of beauty, an appreciation of art, or the joy of harmony within the scope of the profession. Using charm and sympathy in a skilled manner to achieve social and professional recognition.
+- discord: The Conflict between Love and Work. Employing charm and eroticism in a questionable manner in order to advance professionally. Not being able to unite career and public activities with the ideas and demands of love and partnership.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -214,3 +225,4 @@ An inability to develop an appreciation for what others do for you; your ability
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)

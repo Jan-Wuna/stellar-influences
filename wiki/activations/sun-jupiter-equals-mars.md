@@ -23,7 +23,8 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - aren-ober-midpoint-interpretation
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -68,6 +69,15 @@ Working to receive recognition for what one does. Asserting oneself with self- c
 
 Leadership qualities; rebuilds self confidence when facing life’s problems and trials; pushing and striving for excellence in all efforts; adds confidence and haste in your need to progress and move forward in all areas of life.
 
+### Aren Ober - Midpoint Interpretation Simplified
+
+- Source notation: `Mars = Sun/Jupiter` / `Ma-So/Ju`
+- PDF page(s): `131`
+
+#### Ober Entry
+
+Ober gives energetic success as teamwork, with examples such as a business deal, agreement, or contract.
+
 ## Comparative Schema
 
 - core meaning: source-native activation entries are preserved side by side above.
@@ -99,3 +109,4 @@ Leadership qualities; rebuilds self confidence when facing life’s problems and
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Aren Ober - Midpoint Interpretation Simplified](../sources/aren-ober-midpoint-interpretation.md)

@@ -23,7 +23,8 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - aren-ober-midpoint-interpretation
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -68,6 +69,15 @@ The desire to connect with people in an experimental and/or uninhibited fashion.
 
 Making connections to people who can provide you with the support you need; groups of people who recognize the importance of your ideas; barriers to progress from schooled but unqualified people; old ideas reworked.
 
+### Aren Ober - Midpoint Interpretation Simplified
+
+- Source heading: `Jupiter/Uranus Interpretation`
+- PDF page(s): `127`
+
+#### Ober Entry
+
+If the Node is at Jupiter/Uranus, Ober gives sudden beneficial connections entering life or the successful forcing of sudden healthy associations.
+
 ## Comparative Schema
 
 - core meaning: source-native activation entries are preserved side by side above.
@@ -99,3 +109,4 @@ Making connections to people who can provide you with the support you need; grou
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Aren Ober - Midpoint Interpretation Simplified](../sources/aren-ober-midpoint-interpretation.md)

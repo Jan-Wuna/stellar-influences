@@ -23,7 +23,8 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - aren-ober-midpoint-interpretation
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -68,6 +69,15 @@ Attaining success in ways you don’t expect, or which are odd or unusual. Succe
 
 Unexpected luck with your efforts; insight and practical ability to succeed with difficult tasks; seeing the nuts and bolts of what makes life work; disruptions from unexpected sources; an interest in astrological ideas.
 
+### Aren Ober - Midpoint Interpretation Simplified
+
+- Source notation: `Uranus = Sun/Jupiter` / `Ur-So/Ju`
+- PDF page(s): `131`
+
+#### Ober Entry
+
+Ober gives sudden success, a sudden beneficial turn in life, and luck.
+
 ## Comparative Schema
 
 - core meaning: source-native activation entries are preserved side by side above.
@@ -99,3 +109,4 @@ Unexpected luck with your efforts; insight and practical ability to succeed with
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Aren Ober - Midpoint Interpretation Simplified](../sources/aren-ober-midpoint-interpretation.md)

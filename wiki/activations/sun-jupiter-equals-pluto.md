@@ -23,7 +23,8 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - aren-ober-midpoint-interpretation
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -68,6 +69,15 @@ Attaining dramatic or extreme success. Obsessively thinking too big and/ or goin
 
 Achieving the greatest of success with your efforts, or total and complete failure and despair; ideas that you can proceed in life despite the legality of your efforts; compulsive elements of destruction in your basic thinking.
 
+### Aren Ober - Midpoint Interpretation Simplified
+
+- Source notation: `Pluto = Sun/Jupiter` / `Pl-So/Ju`
+- PDF page(s): `131`
+
+#### Ober Entry
+
+Ober gives fanatic success.
+
 ## Comparative Schema
 
 - core meaning: source-native activation entries are preserved side by side above.
@@ -99,3 +109,4 @@ Achieving the greatest of success with your efforts, or total and complete failu
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Aren Ober - Midpoint Interpretation Simplified](../sources/aren-ober-midpoint-interpretation.md)

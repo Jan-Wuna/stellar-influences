@@ -66,6 +66,7 @@ source_pages:
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
   - hajo-banzhaf-anna-haebler-keywords-for-astrology
+  - aren-ober-midpoint-interpretation
 updated_at: 2026-06-20
 ---
 
@@ -232,6 +233,15 @@ Your personal vitality and vigor; excessive cholesterol deposits in the heart ar
 - harmony: The Respectable Person. A talent for happiness and the feeling of being chosen. Optimistic feeling for life that is full of self- assurance and also passed on to others. Always interested in expansion, improvement, growth, and promotion. Creative, capable of enthusiasm, tolerant, trustworthy, demanding, generous, kind, and humane.
 - discord: The Fat Soul. Self-satisfied in judging oneself and one's own achievements. Is too good and fine for everything. Pomposity, wastefulness, and smugness that can be intolerable because of a constant concern about appearing in the light of the imaginary greatness. Emotional and physical fatness. Unreliable, indolent, conceited, demanding.
 
+### Aren Ober - Midpoint Interpretation Simplified
+
+- Source heading: `Sun/Jupiter midpoint - success`
+- PDF page(s): `129-130`
+
+#### Midpoint Calculation Example
+
+Ober treats Sun/Jupiter as the `success` midpoint and gives its reusable axis field as health, joy, recognition, and successful expression when another stellar body brings its principle to the combination.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -290,3 +300,4 @@ Your personal vitality and vigor; excessive cholesterol deposits in the heart ar
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
 - [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)
+- [Aren Ober - Midpoint Interpretation Simplified](../sources/aren-ober-midpoint-interpretation.md)

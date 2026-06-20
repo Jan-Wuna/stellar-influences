@@ -23,7 +23,8 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - aren-ober-midpoint-interpretation
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -68,6 +69,15 @@ To have an enthusiasm for pursuing one’s own independent goals. Egotism ex pre
 
 The decisiveness you bring to changing from the ordinary or commonplace in your life to the modern and new; changes in outlook or perspective which help you understand the role of incorporating new ideas in life.
 
+### Aren Ober - Midpoint Interpretation Simplified
+
+- Source heading: `Jupiter/Uranus Interpretation`
+- PDF page(s): `126`
+
+#### Ober Entry
+
+If the Sun is at Jupiter/Uranus, Ober gives sudden mental and physical benefits at different periods throughout life.
+
 ## Comparative Schema
 
 - core meaning: source-native activation entries are preserved side by side above.
@@ -99,3 +109,4 @@ The decisiveness you bring to changing from the ordinary or commonplace in your 
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Aren Ober - Midpoint Interpretation Simplified](../sources/aren-ober-midpoint-interpretation.md)

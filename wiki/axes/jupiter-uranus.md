@@ -66,6 +66,7 @@ source_pages:
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
   - hajo-banzhaf-anna-haebler-keywords-for-astrology
+  - aren-ober-midpoint-interpretation
 updated_at: 2026-06-20
 ---
 
@@ -216,6 +217,15 @@ Abnormalities in the body caused by an excess of fat in the blood; upsets to you
 - harmony: The Free Spirit. Spontaneous, revolutionary insights. Optimistic farsightedness and good sense for future developments. Inventive. Advocate of freedom of religion and opinion. Seeks new values and the very personal meaning in life. Strives for free development of individuality. Courage to have one's own ideals.
 - discord: The Pigheaded, The Conviction-Changer. Protest and “anti” attitude toward social values (“down with...” mentality). Problems with institutions, particularly the Church. Constantly changing. New goals and eccentric convictions. Exaggerated willfulness. Ultramodern theses. Very much concerned with an image of being “original.”
 
+### Aren Ober - Midpoint Interpretation Simplified
+
+- Source heading: `Jupiter/Uranus Interpretation`
+- PDF page(s): `126-127`
+
+#### Midpoint Calculation Example
+
+Ober gives Jupiter/Uranus from the keywords `Expansion - Benefits` and `Suddenness - Developer`, then summarizes the midpoint as sudden good fortune or sudden beneficial releases from something or someone at points in life.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -274,3 +284,4 @@ Abnormalities in the body caused by an excess of fat in the blood; upsets to you
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
 - [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)
+- [Aren Ober - Midpoint Interpretation Simplified](../sources/aren-ober-midpoint-interpretation.md)

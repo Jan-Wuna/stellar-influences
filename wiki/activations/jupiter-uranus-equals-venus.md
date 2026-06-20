@@ -23,7 +23,8 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - aren-ober-midpoint-interpretation
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -68,6 +69,15 @@ To fall in love very suddenly or quickly, but possibly to fall out of it just as
 
 An attraction to novel forms of art or beauty which introduce the latest fads to your life; your charm when forcing the new upon others; the satisfaction you get from creating the new or novel to improve life overall.
 
+### Aren Ober - Midpoint Interpretation Simplified
+
+- Source heading: `Jupiter/Uranus Interpretation`
+- PDF page(s): `127`
+
+#### Ober Entry
+
+If Venus is at Jupiter/Uranus, Ober gives sudden love, engagement, or commitment to a loved one.
+
 ## Comparative Schema
 
 - core meaning: source-native activation entries are preserved side by side above.
@@ -99,3 +109,4 @@ An attraction to novel forms of art or beauty which introduce the latest fads to
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Aren Ober - Midpoint Interpretation Simplified](../sources/aren-ober-midpoint-interpretation.md)

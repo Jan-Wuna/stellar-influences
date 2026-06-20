@@ -23,7 +23,8 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - aren-ober-midpoint-interpretation
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -68,6 +69,15 @@ Success in romance and in relating in general. Generally speaking, success in an
 
 Others may notice your physical beauty and sensuality; adds a softness to your approach in handling others; satisfaction and pleasure from the joys and comforts in your life; charm and politeness in your manners and ways.
 
+### Aren Ober - Midpoint Interpretation Simplified
+
+- Source notation: `Venus = Sun/Jupiter` / `Ve-So/Ju`
+- PDF page(s): `131`
+
+#### Ober Entry
+
+Ober gives love or art success, including happiness in love or a successful creative venture.
+
 ## Comparative Schema
 
 - core meaning: source-native activation entries are preserved side by side above.
@@ -99,3 +109,4 @@ Others may notice your physical beauty and sensuality; adds a softness to your a
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Aren Ober - Midpoint Interpretation Simplified](../sources/aren-ober-midpoint-interpretation.md)

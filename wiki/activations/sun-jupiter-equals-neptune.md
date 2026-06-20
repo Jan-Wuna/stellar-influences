@@ -23,7 +23,8 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - aren-ober-midpoint-interpretation
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -68,6 +69,15 @@ Success in applying one’s intuition to the reaching of goals. The ability to i
 
 A sense of the unreal; purposeful deceit about the nature of another’s intentions; grandiose plans for projects thought by others to be impractical; elements of doubt cloud your enthusiasm for life; an interest in illusions.
 
+### Aren Ober - Midpoint Interpretation Simplified
+
+- Source notation: `Neptune = Sun/Jupiter` / `Ne-So/Ju`
+- PDF page(s): `131`
+
+#### Ober Entry
+
+Ober gives nebulous success or success without limits.
+
 ## Comparative Schema
 
 - core meaning: source-native activation entries are preserved side by side above.
@@ -99,3 +109,4 @@ A sense of the unreal; purposeful deceit about the nature of another’s intenti
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Aren Ober - Midpoint Interpretation Simplified](../sources/aren-ober-midpoint-interpretation.md)

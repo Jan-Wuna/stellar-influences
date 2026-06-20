@@ -23,7 +23,8 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - aren-ober-midpoint-interpretation
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -68,6 +69,15 @@ Sudden displays of extreme emotion. To have a distorted impression of what is go
 
 The sensitivity you have for the need to transform your life thru a change of religion, moral principles, philosophy, etc.; your inconsistency in dealing with the forces of change and revolution which occur around you daily.
 
+### Aren Ober - Midpoint Interpretation Simplified
+
+- Source heading: `Jupiter/Uranus Interpretation`
+- PDF page(s): `126-127`
+
+#### Ober Entry
+
+If the Moon is at Jupiter/Uranus, Ober gives sudden intuition or sudden emotional happiness, with possible sudden happiness or good fortune through a woman or the public.
+
 ## Comparative Schema
 
 - core meaning: source-native activation entries are preserved side by side above.
@@ -99,3 +109,4 @@ The sensitivity you have for the need to transform your life thru a change of re
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Aren Ober - Midpoint Interpretation Simplified](../sources/aren-ober-midpoint-interpretation.md)

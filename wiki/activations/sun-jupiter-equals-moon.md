@@ -23,7 +23,8 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - aren-ober-midpoint-interpretation
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -68,6 +69,15 @@ The emotional need to have big goals, and/or to be an important person. The emot
 
 An interest in people; heightens needs to address the motives of others; added needs for approval from women or mother figures; trying different approaches rather than relying on one proven method to find well being.
 
+### Aren Ober - Midpoint Interpretation Simplified
+
+- Source notation: `Moon equals Sun/Jupiter` / `Mo = So/Ju`
+- PDF page(s): `130`
+
+#### Ober Entry
+
+Ober gives a successful, happy feeling; success through a woman; habits bringing success; and success through the public.
+
 ## Comparative Schema
 
 - core meaning: source-native activation entries are preserved side by side above.
@@ -99,3 +109,4 @@ An interest in people; heightens needs to address the motives of others; added n
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Aren Ober - Midpoint Interpretation Simplified](../sources/aren-ober-midpoint-interpretation.md)

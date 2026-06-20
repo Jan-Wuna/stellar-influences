@@ -23,7 +23,8 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - aren-ober-midpoint-interpretation
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -68,6 +69,15 @@ Communicating in an excessively optimistic and confident way which may turn othe
 
 Cleverness, wit, and humor enhance your abilities; a fast mind able to react quickly to rapidly changing situations; getting ideas across to others in discussions or by their publication; thinking in religious or philosophical ways.
 
+### Aren Ober - Midpoint Interpretation Simplified
+
+- Source notation: `Mercury = Sun/Jupiter` / `Me-So/Ju`
+- PDF page(s): `130`
+
+#### Ober Entry
+
+Ober gives mental success, ranging from a school diploma to a major business contract.
+
 ## Comparative Schema
 
 - core meaning: source-native activation entries are preserved side by side above.
@@ -99,3 +109,4 @@ Cleverness, wit, and humor enhance your abilities; a fast mind able to react qui
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Aren Ober - Midpoint Interpretation Simplified](../sources/aren-ober-midpoint-interpretation.md)

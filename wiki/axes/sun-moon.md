@@ -67,6 +67,7 @@ source_pages:
   - don-mcbroom-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
   - hajo-banzhaf-anna-haebler-keywords-for-astrology
+  - michael-harding-charles-harvey-working-with-astrology
 updated_at: 2026-06-20
 ---
 
@@ -265,6 +266,18 @@ Chemical, Ph, and mineral balances within the body; sensitivity to drugs; pressu
 - harmony: The Well-Balanced Individual. Harmonious accord between taking action and the willingness to simply let things happen. Finds the right mixture between wanting and wishing, between masculine and feminine portions of her nature, between the childhood self and the adult self. Well-balanced, satisfied, optimistic, cheerful, vigorous, emotionally stable.
 - discord: The Tense Person. Vehement conflict between the heart and mind, conscious striving and instinctive urge, above all in the group of themes that correspond to the sign position of the Sun and Moon. Experiences self in the battle of the sexes. Problems with the parental home and family.
 
+### Michael Harding and Charles Harvey - Working with Astrology
+
+- Source section: `Chapter 4: The Inner Marriage: The Sun/Moon Midpoint`
+- PDF page(s): `61-80`
+
+#### Harding/Harvey Sun/Moon Midpoint
+
+- core meaning: The Sun/Moon midpoint is the point of inner marriage where masculine and feminine, conscious and unconscious, active and passive, purpose and feeling can meet in creative union.
+- psychology: It represents the place where a person can relate to life wholeheartedly, body and soul, heart and mind, and where otherwise separate psychic functions can come together with a sense of focus and purpose.
+- events/manifestations: A planet occupying or triggering the Sun/Moon midpoint acts as a catalyst, concentrating the life around that planetary principle and giving periods of greater integration when the midpoint is activated.
+- conflicts/notes: The chapter is method-rich and case-rich; this wiki entry admits only the reusable Sun/Moon axis doctrine and excludes the chapter's timing examples, biographical cases, and quoted material from other sources.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -324,3 +337,4 @@ Chemical, Ph, and mineral balances within the body; sensitivity to drugs; pressu
 - [Don McBroom - Midpoints](../sources/don-mcbroom-midpoints.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
 - [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)
+- [Michael Harding and Charles Harvey - Working with Astrology](../sources/michael-harding-charles-harvey-working-with-astrology.md)

@@ -64,7 +64,8 @@ source_pages:
   - robert-hand-horoscope-symbols
   - don-mcbroom-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+  - zane-b-stein-the-quadrant-midpoints
+updated_at: 2026-06-20
 ---
 
 ## Identity
@@ -165,6 +166,19 @@ Psychological growth experiences; the amount of maturing you do thru your reacti
 
 - [Michael Munkasey - Asc/MC Concepts](../derived/munkasey-asc-mc-concepts.md)
 
+### Zane B. Stein - The Quadrant Midpoints: The Chart's Backbone
+
+- Source section: `The Chart's Backbone`
+- PDF page(s): `2, 9, 11`
+
+#### Stein Asc/MC Midpoint
+
+- core meaning: The Asc/MC midpoint is the common ground between personal identity and worldly status, connecting the person to this time and place.
+- psychology: It shows how a person lives moment by moment through the meeting of immediate identity and public direction.
+- social/relationship: Stein frames the fourth-quadrant Asc/MC midpoint through social expression, social interactions, where one fits or does not fit in the larger scheme, and the shaping of higher purpose.
+- events/manifestations: A planet at this midpoint has immediacy and can become a dominant force in significant life actions.
+- conflicts/notes: Stein distinguishes conjunctions from other hard contacts to Asc/MC and treats the four quadrant midpoints separately; this wiki entry preserves only the canonical `Asc/MC` axis meaning and excludes the noncanonical angle midpoint siblings.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -221,3 +235,4 @@ Psychological growth experiences; the amount of maturing you do thru your reacti
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Don McBroom - Midpoints](../sources/don-mcbroom-midpoints.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+- [Zane B. Stein - The Quadrant Midpoints: The Chart's Backbone](../sources/zane-b-stein-the-quadrant-midpoints.md)

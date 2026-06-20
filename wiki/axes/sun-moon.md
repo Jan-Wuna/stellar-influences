@@ -68,6 +68,7 @@ source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
   - hajo-banzhaf-anna-haebler-keywords-for-astrology
   - michael-harding-charles-harvey-working-with-astrology
+  - zane-b-stein-the-quadrant-midpoints
 updated_at: 2026-06-20
 ---
 
@@ -278,6 +279,18 @@ Chemical, Ph, and mineral balances within the body; sensitivity to drugs; pressu
 - events/manifestations: A planet occupying or triggering the Sun/Moon midpoint acts as a catalyst, concentrating the life around that planetary principle and giving periods of greater integration when the midpoint is activated.
 - conflicts/notes: The chapter is method-rich and case-rich; this wiki entry admits only the reusable Sun/Moon axis doctrine and excludes the chapter's timing examples, biographical cases, and quoted material from other sources.
 
+### Zane B. Stein - The Quadrant Midpoints: The Chart's Backbone
+
+- Source section: `The Chart's Backbone`
+- PDF page(s): `2`
+
+#### Stein Sun/Moon Midpoint
+
+- core meaning: The Sun/Moon midpoint is the inner-marriage point where the masculine and feminine lights can find common ground.
+- psychology: It synchronizes Moon needs with Sun wants, helping otherwise different solar and lunar functions work with one shared energy.
+- events/manifestations: A planet located at this midpoint can be used to meet needs and pursue wants at the same time.
+- conflicts/notes: Stein uses this as a setup for the quadrant-midpoint article; this entry admits only the reusable Sun/Moon axis meaning and excludes midpoint calculation, dial method, timing, and case material.
+
 ## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
@@ -338,3 +351,4 @@ Chemical, Ph, and mineral balances within the body; sensitivity to drugs; pressu
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
 - [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)
 - [Michael Harding and Charles Harvey - Working with Astrology](../sources/michael-harding-charles-harvey-working-with-astrology.md)
+- [Zane B. Stein - The Quadrant Midpoints: The Chart's Backbone](../sources/zane-b-stein-the-quadrant-midpoints.md)

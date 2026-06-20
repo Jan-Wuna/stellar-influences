@@ -5,7 +5,7 @@
     "canonical_answer": 5761,
     "maintenance": 3,
     "research_note": 10,
-    "source_catalog": 11,
+    "source_catalog": 15,
     "source_companion": 78,
     "structural_only": 1618,
     "synthesis_note": 5
@@ -127,9 +127,10 @@
         "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
         "robert-hand-horoscope-symbols",
         "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
-        "hajo-banzhaf-anna-haebler-keywords-for-astrology"
+        "hajo-banzhaf-anna-haebler-keywords-for-astrology",
+        "aren-ober-midpoint-interpretation"
       ],
-      "source_count": 9,
+      "source_count": 10,
       "single_source_only": false,
       "has_real_derived_synthesis": true,
       "answer_priority": 119,
@@ -811,9 +812,10 @@
         "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
         "robert-hand-horoscope-symbols",
         "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
-        "hajo-banzhaf-anna-haebler-keywords-for-astrology"
+        "hajo-banzhaf-anna-haebler-keywords-for-astrology",
+        "aren-ober-midpoint-interpretation"
       ],
-      "source_count": 9,
+      "source_count": 10,
       "single_source_only": false,
       "has_real_derived_synthesis": true,
       "answer_priority": 119,
@@ -920,9 +922,11 @@
         "robert-hand-horoscope-symbols",
         "don-mcbroom-midpoints",
         "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
-        "hajo-banzhaf-anna-haebler-keywords-for-astrology"
+        "hajo-banzhaf-anna-haebler-keywords-for-astrology",
+        "michael-harding-charles-harvey-working-with-astrology",
+        "zane-b-stein-the-quadrant-midpoints"
       ],
-      "source_count": 10,
+      "source_count": 12,
       "single_source_only": false,
       "has_real_derived_synthesis": true,
       "answer_priority": 119,
@@ -1299,6 +1303,73 @@
       ]
     },
     {
+      "title": "Asc/MC",
+      "slug": "asc-mc",
+      "path": "wiki/axes/asc-mc.md",
+      "page_type": "axis",
+      "framework_scope": "comparative",
+      "retrieval_role": "canonical_answer",
+      "answer_surface": true,
+      "structural_only": false,
+      "source_pages": [
+        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        "udo-rudolph-abc-fur-planetenbilder",
+        "reinhold-ebertin-the-combination-of-stellar-influences",
+        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+        "robert-hand-horoscope-symbols",
+        "don-mcbroom-midpoints",
+        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
+        "zane-b-stein-the-quadrant-midpoints"
+      ],
+      "source_count": 8,
+      "single_source_only": false,
+      "has_real_derived_synthesis": true,
+      "answer_priority": 118,
+      "factors": [
+        "Asc",
+        "MC"
+      ],
+      "tags": [
+        "Asc",
+        "Asc/MC",
+        "axis",
+        "canonical_answer",
+        "MC"
+      ]
+    },
+    {
+      "title": "Jupiter",
+      "slug": "jupiter",
+      "path": "wiki/factors/jupiter.md",
+      "page_type": "factor",
+      "framework_scope": "comparative",
+      "retrieval_role": "canonical_answer",
+      "answer_surface": true,
+      "structural_only": false,
+      "source_pages": [
+        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        "udo-rudolph-abc-fur-planetenbilder",
+        "reinhold-ebertin-the-combination-of-stellar-influences",
+        "robert-hand-horoscope-symbols",
+        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
+        "hajo-banzhaf-anna-haebler-keywords-for-astrology",
+        "l-edward-johndro-astrological-dictionary",
+        "manly-p-hall-astrological-keywords"
+      ],
+      "source_count": 8,
+      "single_source_only": false,
+      "has_real_derived_synthesis": true,
+      "answer_priority": 118,
+      "factors": [
+        "Jupiter"
+      ],
+      "tags": [
+        "canonical_answer",
+        "factor",
+        "Jupiter"
+      ]
+    },
+    {
       "title": "Jupiter/Pluto",
       "slug": "jupiter-pluto",
       "path": "wiki/axes/jupiter-pluto.md",
@@ -1334,6 +1405,38 @@
       ]
     },
     {
+      "title": "Mars",
+      "slug": "mars",
+      "path": "wiki/factors/mars.md",
+      "page_type": "factor",
+      "framework_scope": "comparative",
+      "retrieval_role": "canonical_answer",
+      "answer_surface": true,
+      "structural_only": false,
+      "source_pages": [
+        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        "udo-rudolph-abc-fur-planetenbilder",
+        "reinhold-ebertin-the-combination-of-stellar-influences",
+        "robert-hand-horoscope-symbols",
+        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
+        "hajo-banzhaf-anna-haebler-keywords-for-astrology",
+        "l-edward-johndro-astrological-dictionary",
+        "manly-p-hall-astrological-keywords"
+      ],
+      "source_count": 8,
+      "single_source_only": false,
+      "has_real_derived_synthesis": true,
+      "answer_priority": 118,
+      "factors": [
+        "Mars"
+      ],
+      "tags": [
+        "canonical_answer",
+        "factor",
+        "Mars"
+      ]
+    },
+    {
       "title": "Mars/Pluto",
       "slug": "mars-pluto",
       "path": "wiki/axes/mars-pluto.md",
@@ -1366,6 +1469,38 @@
         "Mars",
         "Mars/Pluto",
         "Pluto"
+      ]
+    },
+    {
+      "title": "Mercury",
+      "slug": "mercury",
+      "path": "wiki/factors/mercury.md",
+      "page_type": "factor",
+      "framework_scope": "comparative",
+      "retrieval_role": "canonical_answer",
+      "answer_surface": true,
+      "structural_only": false,
+      "source_pages": [
+        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        "udo-rudolph-abc-fur-planetenbilder",
+        "reinhold-ebertin-the-combination-of-stellar-influences",
+        "robert-hand-horoscope-symbols",
+        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
+        "hajo-banzhaf-anna-haebler-keywords-for-astrology",
+        "l-edward-johndro-astrological-dictionary",
+        "manly-p-hall-astrological-keywords"
+      ],
+      "source_count": 8,
+      "single_source_only": false,
+      "has_real_derived_synthesis": true,
+      "answer_priority": 118,
+      "factors": [
+        "Mercury"
+      ],
+      "tags": [
+        "canonical_answer",
+        "factor",
+        "Mercury"
       ]
     },
     {
@@ -1439,6 +1574,38 @@
       ]
     },
     {
+      "title": "Moon",
+      "slug": "moon",
+      "path": "wiki/factors/moon.md",
+      "page_type": "factor",
+      "framework_scope": "comparative",
+      "retrieval_role": "canonical_answer",
+      "answer_surface": true,
+      "structural_only": false,
+      "source_pages": [
+        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        "udo-rudolph-abc-fur-planetenbilder",
+        "reinhold-ebertin-the-combination-of-stellar-influences",
+        "robert-hand-horoscope-symbols",
+        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
+        "hajo-banzhaf-anna-haebler-keywords-for-astrology",
+        "l-edward-johndro-astrological-dictionary",
+        "manly-p-hall-astrological-keywords"
+      ],
+      "source_count": 8,
+      "single_source_only": false,
+      "has_real_derived_synthesis": true,
+      "answer_priority": 118,
+      "factors": [
+        "Moon"
+      ],
+      "tags": [
+        "canonical_answer",
+        "factor",
+        "Moon"
+      ]
+    },
+    {
       "title": "Moon/Pluto",
       "slug": "moon-pluto",
       "path": "wiki/axes/moon-pluto.md",
@@ -1471,6 +1638,38 @@
         "Moon",
         "Moon/Pluto",
         "Pluto"
+      ]
+    },
+    {
+      "title": "Neptune",
+      "slug": "neptune",
+      "path": "wiki/factors/neptune.md",
+      "page_type": "factor",
+      "framework_scope": "comparative",
+      "retrieval_role": "canonical_answer",
+      "answer_surface": true,
+      "structural_only": false,
+      "source_pages": [
+        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        "udo-rudolph-abc-fur-planetenbilder",
+        "reinhold-ebertin-the-combination-of-stellar-influences",
+        "robert-hand-horoscope-symbols",
+        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
+        "hajo-banzhaf-anna-haebler-keywords-for-astrology",
+        "l-edward-johndro-astrological-dictionary",
+        "manly-p-hall-astrological-keywords"
+      ],
+      "source_count": 8,
+      "single_source_only": false,
+      "has_real_derived_synthesis": true,
+      "answer_priority": 118,
+      "factors": [
+        "Neptune"
+      ],
+      "tags": [
+        "canonical_answer",
+        "factor",
+        "Neptune"
       ]
     },
     {
@@ -1509,6 +1708,38 @@
       ]
     },
     {
+      "title": "Saturn",
+      "slug": "saturn",
+      "path": "wiki/factors/saturn.md",
+      "page_type": "factor",
+      "framework_scope": "comparative",
+      "retrieval_role": "canonical_answer",
+      "answer_surface": true,
+      "structural_only": false,
+      "source_pages": [
+        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        "udo-rudolph-abc-fur-planetenbilder",
+        "reinhold-ebertin-the-combination-of-stellar-influences",
+        "robert-hand-horoscope-symbols",
+        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
+        "hajo-banzhaf-anna-haebler-keywords-for-astrology",
+        "l-edward-johndro-astrological-dictionary",
+        "manly-p-hall-astrological-keywords"
+      ],
+      "source_count": 8,
+      "single_source_only": false,
+      "has_real_derived_synthesis": true,
+      "answer_priority": 118,
+      "factors": [
+        "Saturn"
+      ],
+      "tags": [
+        "canonical_answer",
+        "factor",
+        "Saturn"
+      ]
+    },
+    {
       "title": "Saturn/Pluto",
       "slug": "saturn-pluto",
       "path": "wiki/axes/saturn-pluto.md",
@@ -1541,6 +1772,38 @@
         "Pluto",
         "Saturn",
         "Saturn/Pluto"
+      ]
+    },
+    {
+      "title": "Sun",
+      "slug": "sun",
+      "path": "wiki/factors/sun.md",
+      "page_type": "factor",
+      "framework_scope": "comparative",
+      "retrieval_role": "canonical_answer",
+      "answer_surface": true,
+      "structural_only": false,
+      "source_pages": [
+        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        "udo-rudolph-abc-fur-planetenbilder",
+        "reinhold-ebertin-the-combination-of-stellar-influences",
+        "robert-hand-horoscope-symbols",
+        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
+        "hajo-banzhaf-anna-haebler-keywords-for-astrology",
+        "l-edward-johndro-astrological-dictionary",
+        "manly-p-hall-astrological-keywords"
+      ],
+      "source_count": 8,
+      "single_source_only": false,
+      "has_real_derived_synthesis": true,
+      "answer_priority": 118,
+      "factors": [
+        "Sun"
+      ],
+      "tags": [
+        "canonical_answer",
+        "factor",
+        "Sun"
       ]
     },
     {
@@ -1579,6 +1842,38 @@
       ]
     },
     {
+      "title": "Uranus",
+      "slug": "uranus",
+      "path": "wiki/factors/uranus.md",
+      "page_type": "factor",
+      "framework_scope": "comparative",
+      "retrieval_role": "canonical_answer",
+      "answer_surface": true,
+      "structural_only": false,
+      "source_pages": [
+        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        "udo-rudolph-abc-fur-planetenbilder",
+        "reinhold-ebertin-the-combination-of-stellar-influences",
+        "robert-hand-horoscope-symbols",
+        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
+        "hajo-banzhaf-anna-haebler-keywords-for-astrology",
+        "l-edward-johndro-astrological-dictionary",
+        "manly-p-hall-astrological-keywords"
+      ],
+      "source_count": 8,
+      "single_source_only": false,
+      "has_real_derived_synthesis": true,
+      "answer_priority": 118,
+      "factors": [
+        "Uranus"
+      ],
+      "tags": [
+        "canonical_answer",
+        "factor",
+        "Uranus"
+      ]
+    },
+    {
       "title": "Uranus/Pluto",
       "slug": "uranus-pluto",
       "path": "wiki/axes/uranus-pluto.md",
@@ -1614,6 +1909,38 @@
       ]
     },
     {
+      "title": "Venus",
+      "slug": "venus",
+      "path": "wiki/factors/venus.md",
+      "page_type": "factor",
+      "framework_scope": "comparative",
+      "retrieval_role": "canonical_answer",
+      "answer_surface": true,
+      "structural_only": false,
+      "source_pages": [
+        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        "udo-rudolph-abc-fur-planetenbilder",
+        "reinhold-ebertin-the-combination-of-stellar-influences",
+        "robert-hand-horoscope-symbols",
+        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
+        "hajo-banzhaf-anna-haebler-keywords-for-astrology",
+        "l-edward-johndro-astrological-dictionary",
+        "manly-p-hall-astrological-keywords"
+      ],
+      "source_count": 8,
+      "single_source_only": false,
+      "has_real_derived_synthesis": true,
+      "answer_priority": 118,
+      "factors": [
+        "Venus"
+      ],
+      "tags": [
+        "canonical_answer",
+        "factor",
+        "Venus"
+      ]
+    },
+    {
       "title": "Venus/Pluto",
       "slug": "venus-pluto",
       "path": "wiki/axes/venus-pluto.md",
@@ -1646,71 +1973,6 @@
         "Pluto",
         "Venus",
         "Venus/Pluto"
-      ]
-    },
-    {
-      "title": "Asc/MC",
-      "slug": "asc-mc",
-      "path": "wiki/axes/asc-mc.md",
-      "page_type": "axis",
-      "framework_scope": "comparative",
-      "retrieval_role": "canonical_answer",
-      "answer_surface": true,
-      "structural_only": false,
-      "source_pages": [
-        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
-        "udo-rudolph-abc-fur-planetenbilder",
-        "reinhold-ebertin-the-combination-of-stellar-influences",
-        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
-        "robert-hand-horoscope-symbols",
-        "don-mcbroom-midpoints",
-        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
-      ],
-      "source_count": 7,
-      "single_source_only": false,
-      "has_real_derived_synthesis": true,
-      "answer_priority": 117,
-      "factors": [
-        "Asc",
-        "MC"
-      ],
-      "tags": [
-        "Asc",
-        "Asc/MC",
-        "axis",
-        "canonical_answer",
-        "MC"
-      ]
-    },
-    {
-      "title": "Jupiter",
-      "slug": "jupiter",
-      "path": "wiki/factors/jupiter.md",
-      "page_type": "factor",
-      "framework_scope": "comparative",
-      "retrieval_role": "canonical_answer",
-      "answer_surface": true,
-      "structural_only": false,
-      "source_pages": [
-        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
-        "udo-rudolph-abc-fur-planetenbilder",
-        "reinhold-ebertin-the-combination-of-stellar-influences",
-        "robert-hand-horoscope-symbols",
-        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
-        "hajo-banzhaf-anna-haebler-keywords-for-astrology",
-        "l-edward-johndro-astrological-dictionary"
-      ],
-      "source_count": 7,
-      "single_source_only": false,
-      "has_real_derived_synthesis": true,
-      "answer_priority": 117,
-      "factors": [
-        "Jupiter"
-      ],
-      "tags": [
-        "canonical_answer",
-        "factor",
-        "Jupiter"
       ]
     },
     {
@@ -1816,37 +2078,6 @@
       ]
     },
     {
-      "title": "Mars",
-      "slug": "mars",
-      "path": "wiki/factors/mars.md",
-      "page_type": "factor",
-      "framework_scope": "comparative",
-      "retrieval_role": "canonical_answer",
-      "answer_surface": true,
-      "structural_only": false,
-      "source_pages": [
-        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
-        "udo-rudolph-abc-fur-planetenbilder",
-        "reinhold-ebertin-the-combination-of-stellar-influences",
-        "robert-hand-horoscope-symbols",
-        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
-        "hajo-banzhaf-anna-haebler-keywords-for-astrology",
-        "l-edward-johndro-astrological-dictionary"
-      ],
-      "source_count": 7,
-      "single_source_only": false,
-      "has_real_derived_synthesis": true,
-      "answer_priority": 117,
-      "factors": [
-        "Mars"
-      ],
-      "tags": [
-        "canonical_answer",
-        "factor",
-        "Mars"
-      ]
-    },
-    {
       "title": "Mars/Asc",
       "slug": "mars-asc",
       "path": "wiki/axes/mars-asc.md",
@@ -1946,37 +2177,6 @@
         "Mars",
         "Mars/Node",
         "Node"
-      ]
-    },
-    {
-      "title": "Mercury",
-      "slug": "mercury",
-      "path": "wiki/factors/mercury.md",
-      "page_type": "factor",
-      "framework_scope": "comparative",
-      "retrieval_role": "canonical_answer",
-      "answer_surface": true,
-      "structural_only": false,
-      "source_pages": [
-        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
-        "udo-rudolph-abc-fur-planetenbilder",
-        "reinhold-ebertin-the-combination-of-stellar-influences",
-        "robert-hand-horoscope-symbols",
-        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
-        "hajo-banzhaf-anna-haebler-keywords-for-astrology",
-        "l-edward-johndro-astrological-dictionary"
-      ],
-      "source_count": 7,
-      "single_source_only": false,
-      "has_real_derived_synthesis": true,
-      "answer_priority": 117,
-      "factors": [
-        "Mercury"
-      ],
-      "tags": [
-        "canonical_answer",
-        "factor",
-        "Mercury"
       ]
     },
     {
@@ -2082,37 +2282,6 @@
       ]
     },
     {
-      "title": "Moon",
-      "slug": "moon",
-      "path": "wiki/factors/moon.md",
-      "page_type": "factor",
-      "framework_scope": "comparative",
-      "retrieval_role": "canonical_answer",
-      "answer_surface": true,
-      "structural_only": false,
-      "source_pages": [
-        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
-        "udo-rudolph-abc-fur-planetenbilder",
-        "reinhold-ebertin-the-combination-of-stellar-influences",
-        "robert-hand-horoscope-symbols",
-        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
-        "hajo-banzhaf-anna-haebler-keywords-for-astrology",
-        "l-edward-johndro-astrological-dictionary"
-      ],
-      "source_count": 7,
-      "single_source_only": false,
-      "has_real_derived_synthesis": true,
-      "answer_priority": 117,
-      "factors": [
-        "Moon"
-      ],
-      "tags": [
-        "canonical_answer",
-        "factor",
-        "Moon"
-      ]
-    },
-    {
       "title": "Moon/Node",
       "slug": "moon-node",
       "path": "wiki/axes/moon-node.md",
@@ -2144,37 +2313,6 @@
         "Moon",
         "Moon/Node",
         "Node"
-      ]
-    },
-    {
-      "title": "Neptune",
-      "slug": "neptune",
-      "path": "wiki/factors/neptune.md",
-      "page_type": "factor",
-      "framework_scope": "comparative",
-      "retrieval_role": "canonical_answer",
-      "answer_surface": true,
-      "structural_only": false,
-      "source_pages": [
-        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
-        "udo-rudolph-abc-fur-planetenbilder",
-        "reinhold-ebertin-the-combination-of-stellar-influences",
-        "robert-hand-horoscope-symbols",
-        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
-        "hajo-banzhaf-anna-haebler-keywords-for-astrology",
-        "l-edward-johndro-astrological-dictionary"
-      ],
-      "source_count": 7,
-      "single_source_only": false,
-      "has_real_derived_synthesis": true,
-      "answer_priority": 117,
-      "factors": [
-        "Neptune"
-      ],
-      "tags": [
-        "canonical_answer",
-        "factor",
-        "Neptune"
       ]
     },
     {
@@ -2345,37 +2483,6 @@
       ]
     },
     {
-      "title": "Saturn",
-      "slug": "saturn",
-      "path": "wiki/factors/saturn.md",
-      "page_type": "factor",
-      "framework_scope": "comparative",
-      "retrieval_role": "canonical_answer",
-      "answer_surface": true,
-      "structural_only": false,
-      "source_pages": [
-        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
-        "udo-rudolph-abc-fur-planetenbilder",
-        "reinhold-ebertin-the-combination-of-stellar-influences",
-        "robert-hand-horoscope-symbols",
-        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
-        "hajo-banzhaf-anna-haebler-keywords-for-astrology",
-        "l-edward-johndro-astrological-dictionary"
-      ],
-      "source_count": 7,
-      "single_source_only": false,
-      "has_real_derived_synthesis": true,
-      "answer_priority": 117,
-      "factors": [
-        "Saturn"
-      ],
-      "tags": [
-        "canonical_answer",
-        "factor",
-        "Saturn"
-      ]
-    },
-    {
       "title": "Saturn/Asc",
       "slug": "saturn-asc",
       "path": "wiki/axes/saturn-asc.md",
@@ -2444,37 +2551,6 @@
       ]
     },
     {
-      "title": "Sun",
-      "slug": "sun",
-      "path": "wiki/factors/sun.md",
-      "page_type": "factor",
-      "framework_scope": "comparative",
-      "retrieval_role": "canonical_answer",
-      "answer_surface": true,
-      "structural_only": false,
-      "source_pages": [
-        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
-        "udo-rudolph-abc-fur-planetenbilder",
-        "reinhold-ebertin-the-combination-of-stellar-influences",
-        "robert-hand-horoscope-symbols",
-        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
-        "hajo-banzhaf-anna-haebler-keywords-for-astrology",
-        "l-edward-johndro-astrological-dictionary"
-      ],
-      "source_count": 7,
-      "single_source_only": false,
-      "has_real_derived_synthesis": true,
-      "answer_priority": 117,
-      "factors": [
-        "Sun"
-      ],
-      "tags": [
-        "canonical_answer",
-        "factor",
-        "Sun"
-      ]
-    },
-    {
       "title": "Sun/Asc",
       "slug": "sun-asc",
       "path": "wiki/axes/sun-asc.md",
@@ -2540,37 +2616,6 @@
         "MC",
         "Sun",
         "Sun/MC"
-      ]
-    },
-    {
-      "title": "Uranus",
-      "slug": "uranus",
-      "path": "wiki/factors/uranus.md",
-      "page_type": "factor",
-      "framework_scope": "comparative",
-      "retrieval_role": "canonical_answer",
-      "answer_surface": true,
-      "structural_only": false,
-      "source_pages": [
-        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
-        "udo-rudolph-abc-fur-planetenbilder",
-        "reinhold-ebertin-the-combination-of-stellar-influences",
-        "robert-hand-horoscope-symbols",
-        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
-        "hajo-banzhaf-anna-haebler-keywords-for-astrology",
-        "l-edward-johndro-astrological-dictionary"
-      ],
-      "source_count": 7,
-      "single_source_only": false,
-      "has_real_derived_synthesis": true,
-      "answer_priority": 117,
-      "factors": [
-        "Uranus"
-      ],
-      "tags": [
-        "canonical_answer",
-        "factor",
-        "Uranus"
       ]
     },
     {
@@ -2673,37 +2718,6 @@
         "Node",
         "Uranus",
         "Uranus/Node"
-      ]
-    },
-    {
-      "title": "Venus",
-      "slug": "venus",
-      "path": "wiki/factors/venus.md",
-      "page_type": "factor",
-      "framework_scope": "comparative",
-      "retrieval_role": "canonical_answer",
-      "answer_surface": true,
-      "structural_only": false,
-      "source_pages": [
-        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
-        "udo-rudolph-abc-fur-planetenbilder",
-        "reinhold-ebertin-the-combination-of-stellar-influences",
-        "robert-hand-horoscope-symbols",
-        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
-        "hajo-banzhaf-anna-haebler-keywords-for-astrology",
-        "l-edward-johndro-astrological-dictionary"
-      ],
-      "source_count": 7,
-      "single_source_only": false,
-      "has_real_derived_synthesis": true,
-      "answer_priority": 117,
-      "factors": [
-        "Venus"
-      ],
-      "tags": [
-        "canonical_answer",
-        "factor",
-        "Venus"
       ]
     },
     {
@@ -2842,6 +2856,222 @@
         "canonical_answer",
         "MC",
         "Mercury"
+      ]
+    },
+    {
+      "title": "Jupiter/Uranus = Mars",
+      "slug": "jupiter-uranus-equals-mars",
+      "path": "wiki/activations/jupiter-uranus-equals-mars.md",
+      "page_type": "activation",
+      "framework_scope": "comparative",
+      "retrieval_role": "canonical_answer",
+      "answer_surface": true,
+      "structural_only": false,
+      "source_pages": [
+        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        "udo-rudolph-abc-fur-planetenbilder",
+        "reinhold-ebertin-the-combination-of-stellar-influences",
+        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
+        "aren-ober-midpoint-interpretation"
+      ],
+      "source_count": 6,
+      "single_source_only": false,
+      "has_real_derived_synthesis": true,
+      "answer_priority": 116,
+      "factors": [
+        "Jupiter",
+        "Uranus",
+        "Mars"
+      ],
+      "tags": [
+        "activation",
+        "canonical_answer",
+        "Jupiter",
+        "Jupiter/Uranus",
+        "Jupiter/Uranus = Mars",
+        "Mars",
+        "Uranus"
+      ]
+    },
+    {
+      "title": "Jupiter/Uranus = Mercury",
+      "slug": "jupiter-uranus-equals-mercury",
+      "path": "wiki/activations/jupiter-uranus-equals-mercury.md",
+      "page_type": "activation",
+      "framework_scope": "comparative",
+      "retrieval_role": "canonical_answer",
+      "answer_surface": true,
+      "structural_only": false,
+      "source_pages": [
+        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        "udo-rudolph-abc-fur-planetenbilder",
+        "reinhold-ebertin-the-combination-of-stellar-influences",
+        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
+        "aren-ober-midpoint-interpretation"
+      ],
+      "source_count": 6,
+      "single_source_only": false,
+      "has_real_derived_synthesis": true,
+      "answer_priority": 116,
+      "factors": [
+        "Jupiter",
+        "Uranus",
+        "Mercury"
+      ],
+      "tags": [
+        "activation",
+        "canonical_answer",
+        "Jupiter",
+        "Jupiter/Uranus",
+        "Jupiter/Uranus = Mercury",
+        "Mercury",
+        "Uranus"
+      ]
+    },
+    {
+      "title": "Jupiter/Uranus = Moon",
+      "slug": "jupiter-uranus-equals-moon",
+      "path": "wiki/activations/jupiter-uranus-equals-moon.md",
+      "page_type": "activation",
+      "framework_scope": "comparative",
+      "retrieval_role": "canonical_answer",
+      "answer_surface": true,
+      "structural_only": false,
+      "source_pages": [
+        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        "udo-rudolph-abc-fur-planetenbilder",
+        "reinhold-ebertin-the-combination-of-stellar-influences",
+        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
+        "aren-ober-midpoint-interpretation"
+      ],
+      "source_count": 6,
+      "single_source_only": false,
+      "has_real_derived_synthesis": true,
+      "answer_priority": 116,
+      "factors": [
+        "Jupiter",
+        "Uranus",
+        "Moon"
+      ],
+      "tags": [
+        "activation",
+        "canonical_answer",
+        "Jupiter",
+        "Jupiter/Uranus",
+        "Jupiter/Uranus = Moon",
+        "Moon",
+        "Uranus"
+      ]
+    },
+    {
+      "title": "Jupiter/Uranus = Node",
+      "slug": "jupiter-uranus-equals-node",
+      "path": "wiki/activations/jupiter-uranus-equals-node.md",
+      "page_type": "activation",
+      "framework_scope": "comparative",
+      "retrieval_role": "canonical_answer",
+      "answer_surface": true,
+      "structural_only": false,
+      "source_pages": [
+        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        "udo-rudolph-abc-fur-planetenbilder",
+        "reinhold-ebertin-the-combination-of-stellar-influences",
+        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
+        "aren-ober-midpoint-interpretation"
+      ],
+      "source_count": 6,
+      "single_source_only": false,
+      "has_real_derived_synthesis": true,
+      "answer_priority": 116,
+      "factors": [
+        "Jupiter",
+        "Uranus",
+        "Node"
+      ],
+      "tags": [
+        "activation",
+        "canonical_answer",
+        "Jupiter",
+        "Jupiter/Uranus",
+        "Jupiter/Uranus = Node",
+        "Node",
+        "Uranus"
+      ]
+    },
+    {
+      "title": "Jupiter/Uranus = Sun",
+      "slug": "jupiter-uranus-equals-sun",
+      "path": "wiki/activations/jupiter-uranus-equals-sun.md",
+      "page_type": "activation",
+      "framework_scope": "comparative",
+      "retrieval_role": "canonical_answer",
+      "answer_surface": true,
+      "structural_only": false,
+      "source_pages": [
+        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        "udo-rudolph-abc-fur-planetenbilder",
+        "reinhold-ebertin-the-combination-of-stellar-influences",
+        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
+        "aren-ober-midpoint-interpretation"
+      ],
+      "source_count": 6,
+      "single_source_only": false,
+      "has_real_derived_synthesis": true,
+      "answer_priority": 116,
+      "factors": [
+        "Jupiter",
+        "Uranus",
+        "Sun"
+      ],
+      "tags": [
+        "activation",
+        "canonical_answer",
+        "Jupiter",
+        "Jupiter/Uranus",
+        "Jupiter/Uranus = Sun",
+        "Sun",
+        "Uranus"
+      ]
+    },
+    {
+      "title": "Jupiter/Uranus = Venus",
+      "slug": "jupiter-uranus-equals-venus",
+      "path": "wiki/activations/jupiter-uranus-equals-venus.md",
+      "page_type": "activation",
+      "framework_scope": "comparative",
+      "retrieval_role": "canonical_answer",
+      "answer_surface": true,
+      "structural_only": false,
+      "source_pages": [
+        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        "udo-rudolph-abc-fur-planetenbilder",
+        "reinhold-ebertin-the-combination-of-stellar-influences",
+        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
+        "aren-ober-midpoint-interpretation"
+      ],
+      "source_count": 6,
+      "single_source_only": false,
+      "has_real_derived_synthesis": true,
+      "answer_priority": 116,
+      "factors": [
+        "Jupiter",
+        "Uranus",
+        "Venus"
+      ],
+      "tags": [
+        "activation",
+        "canonical_answer",
+        "Jupiter",
+        "Jupiter/Uranus",
+        "Jupiter/Uranus = Venus",
+        "Uranus",
+        "Venus"
       ]
     },
     {
@@ -3103,6 +3333,294 @@
         "MC",
         "Saturn",
         "Saturn/MC"
+      ]
+    },
+    {
+      "title": "Sun/Jupiter = Mars",
+      "slug": "sun-jupiter-equals-mars",
+      "path": "wiki/activations/sun-jupiter-equals-mars.md",
+      "page_type": "activation",
+      "framework_scope": "comparative",
+      "retrieval_role": "canonical_answer",
+      "answer_surface": true,
+      "structural_only": false,
+      "source_pages": [
+        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        "udo-rudolph-abc-fur-planetenbilder",
+        "reinhold-ebertin-the-combination-of-stellar-influences",
+        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
+        "aren-ober-midpoint-interpretation"
+      ],
+      "source_count": 6,
+      "single_source_only": false,
+      "has_real_derived_synthesis": true,
+      "answer_priority": 116,
+      "factors": [
+        "Sun",
+        "Jupiter",
+        "Mars"
+      ],
+      "tags": [
+        "activation",
+        "canonical_answer",
+        "Jupiter",
+        "Mars",
+        "Sun",
+        "Sun/Jupiter",
+        "Sun/Jupiter = Mars"
+      ]
+    },
+    {
+      "title": "Sun/Jupiter = Mercury",
+      "slug": "sun-jupiter-equals-mercury",
+      "path": "wiki/activations/sun-jupiter-equals-mercury.md",
+      "page_type": "activation",
+      "framework_scope": "comparative",
+      "retrieval_role": "canonical_answer",
+      "answer_surface": true,
+      "structural_only": false,
+      "source_pages": [
+        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        "udo-rudolph-abc-fur-planetenbilder",
+        "reinhold-ebertin-the-combination-of-stellar-influences",
+        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
+        "aren-ober-midpoint-interpretation"
+      ],
+      "source_count": 6,
+      "single_source_only": false,
+      "has_real_derived_synthesis": true,
+      "answer_priority": 116,
+      "factors": [
+        "Sun",
+        "Jupiter",
+        "Mercury"
+      ],
+      "tags": [
+        "activation",
+        "canonical_answer",
+        "Jupiter",
+        "Mercury",
+        "Sun",
+        "Sun/Jupiter",
+        "Sun/Jupiter = Mercury"
+      ]
+    },
+    {
+      "title": "Sun/Jupiter = Moon",
+      "slug": "sun-jupiter-equals-moon",
+      "path": "wiki/activations/sun-jupiter-equals-moon.md",
+      "page_type": "activation",
+      "framework_scope": "comparative",
+      "retrieval_role": "canonical_answer",
+      "answer_surface": true,
+      "structural_only": false,
+      "source_pages": [
+        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        "udo-rudolph-abc-fur-planetenbilder",
+        "reinhold-ebertin-the-combination-of-stellar-influences",
+        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
+        "aren-ober-midpoint-interpretation"
+      ],
+      "source_count": 6,
+      "single_source_only": false,
+      "has_real_derived_synthesis": true,
+      "answer_priority": 116,
+      "factors": [
+        "Sun",
+        "Jupiter",
+        "Moon"
+      ],
+      "tags": [
+        "activation",
+        "canonical_answer",
+        "Jupiter",
+        "Moon",
+        "Sun",
+        "Sun/Jupiter",
+        "Sun/Jupiter = Moon"
+      ]
+    },
+    {
+      "title": "Sun/Jupiter = Neptune",
+      "slug": "sun-jupiter-equals-neptune",
+      "path": "wiki/activations/sun-jupiter-equals-neptune.md",
+      "page_type": "activation",
+      "framework_scope": "comparative",
+      "retrieval_role": "canonical_answer",
+      "answer_surface": true,
+      "structural_only": false,
+      "source_pages": [
+        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        "udo-rudolph-abc-fur-planetenbilder",
+        "reinhold-ebertin-the-combination-of-stellar-influences",
+        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
+        "aren-ober-midpoint-interpretation"
+      ],
+      "source_count": 6,
+      "single_source_only": false,
+      "has_real_derived_synthesis": true,
+      "answer_priority": 116,
+      "factors": [
+        "Sun",
+        "Jupiter",
+        "Neptune"
+      ],
+      "tags": [
+        "activation",
+        "canonical_answer",
+        "Jupiter",
+        "Neptune",
+        "Sun",
+        "Sun/Jupiter",
+        "Sun/Jupiter = Neptune"
+      ]
+    },
+    {
+      "title": "Sun/Jupiter = Pluto",
+      "slug": "sun-jupiter-equals-pluto",
+      "path": "wiki/activations/sun-jupiter-equals-pluto.md",
+      "page_type": "activation",
+      "framework_scope": "comparative",
+      "retrieval_role": "canonical_answer",
+      "answer_surface": true,
+      "structural_only": false,
+      "source_pages": [
+        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        "udo-rudolph-abc-fur-planetenbilder",
+        "reinhold-ebertin-the-combination-of-stellar-influences",
+        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
+        "aren-ober-midpoint-interpretation"
+      ],
+      "source_count": 6,
+      "single_source_only": false,
+      "has_real_derived_synthesis": true,
+      "answer_priority": 116,
+      "factors": [
+        "Sun",
+        "Jupiter",
+        "Pluto"
+      ],
+      "tags": [
+        "activation",
+        "canonical_answer",
+        "Jupiter",
+        "Pluto",
+        "Sun",
+        "Sun/Jupiter",
+        "Sun/Jupiter = Pluto"
+      ]
+    },
+    {
+      "title": "Sun/Jupiter = Saturn",
+      "slug": "sun-jupiter-equals-saturn",
+      "path": "wiki/activations/sun-jupiter-equals-saturn.md",
+      "page_type": "activation",
+      "framework_scope": "comparative",
+      "retrieval_role": "canonical_answer",
+      "answer_surface": true,
+      "structural_only": false,
+      "source_pages": [
+        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        "udo-rudolph-abc-fur-planetenbilder",
+        "reinhold-ebertin-the-combination-of-stellar-influences",
+        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
+        "aren-ober-midpoint-interpretation"
+      ],
+      "source_count": 6,
+      "single_source_only": false,
+      "has_real_derived_synthesis": true,
+      "answer_priority": 116,
+      "factors": [
+        "Sun",
+        "Jupiter",
+        "Saturn"
+      ],
+      "tags": [
+        "activation",
+        "canonical_answer",
+        "Jupiter",
+        "Saturn",
+        "Sun",
+        "Sun/Jupiter",
+        "Sun/Jupiter = Saturn"
+      ]
+    },
+    {
+      "title": "Sun/Jupiter = Uranus",
+      "slug": "sun-jupiter-equals-uranus",
+      "path": "wiki/activations/sun-jupiter-equals-uranus.md",
+      "page_type": "activation",
+      "framework_scope": "comparative",
+      "retrieval_role": "canonical_answer",
+      "answer_surface": true,
+      "structural_only": false,
+      "source_pages": [
+        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        "udo-rudolph-abc-fur-planetenbilder",
+        "reinhold-ebertin-the-combination-of-stellar-influences",
+        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
+        "aren-ober-midpoint-interpretation"
+      ],
+      "source_count": 6,
+      "single_source_only": false,
+      "has_real_derived_synthesis": true,
+      "answer_priority": 116,
+      "factors": [
+        "Sun",
+        "Jupiter",
+        "Uranus"
+      ],
+      "tags": [
+        "activation",
+        "canonical_answer",
+        "Jupiter",
+        "Sun",
+        "Sun/Jupiter",
+        "Sun/Jupiter = Uranus",
+        "Uranus"
+      ]
+    },
+    {
+      "title": "Sun/Jupiter = Venus",
+      "slug": "sun-jupiter-equals-venus",
+      "path": "wiki/activations/sun-jupiter-equals-venus.md",
+      "page_type": "activation",
+      "framework_scope": "comparative",
+      "retrieval_role": "canonical_answer",
+      "answer_surface": true,
+      "structural_only": false,
+      "source_pages": [
+        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        "udo-rudolph-abc-fur-planetenbilder",
+        "reinhold-ebertin-the-combination-of-stellar-influences",
+        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
+        "aren-ober-midpoint-interpretation"
+      ],
+      "source_count": 6,
+      "single_source_only": false,
+      "has_real_derived_synthesis": true,
+      "answer_priority": 116,
+      "factors": [
+        "Sun",
+        "Jupiter",
+        "Venus"
+      ],
+      "tags": [
+        "activation",
+        "canonical_answer",
+        "Jupiter",
+        "Sun",
+        "Sun/Jupiter",
+        "Sun/Jupiter = Venus",
+        "Venus"
       ]
     },
     {
@@ -5899,41 +6417,6 @@
       ]
     },
     {
-      "title": "Jupiter/Uranus = Mars",
-      "slug": "jupiter-uranus-equals-mars",
-      "path": "wiki/activations/jupiter-uranus-equals-mars.md",
-      "page_type": "activation",
-      "framework_scope": "comparative",
-      "retrieval_role": "canonical_answer",
-      "answer_surface": true,
-      "structural_only": false,
-      "source_pages": [
-        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
-        "udo-rudolph-abc-fur-planetenbilder",
-        "reinhold-ebertin-the-combination-of-stellar-influences",
-        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
-        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
-      ],
-      "source_count": 5,
-      "single_source_only": false,
-      "has_real_derived_synthesis": true,
-      "answer_priority": 115,
-      "factors": [
-        "Jupiter",
-        "Uranus",
-        "Mars"
-      ],
-      "tags": [
-        "activation",
-        "canonical_answer",
-        "Jupiter",
-        "Jupiter/Uranus",
-        "Jupiter/Uranus = Mars",
-        "Mars",
-        "Uranus"
-      ]
-    },
-    {
       "title": "Jupiter/Uranus = MC",
       "slug": "jupiter-uranus-equals-mc",
       "path": "wiki/activations/jupiter-uranus-equals-mc.md",
@@ -5969,76 +6452,6 @@
       ]
     },
     {
-      "title": "Jupiter/Uranus = Mercury",
-      "slug": "jupiter-uranus-equals-mercury",
-      "path": "wiki/activations/jupiter-uranus-equals-mercury.md",
-      "page_type": "activation",
-      "framework_scope": "comparative",
-      "retrieval_role": "canonical_answer",
-      "answer_surface": true,
-      "structural_only": false,
-      "source_pages": [
-        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
-        "udo-rudolph-abc-fur-planetenbilder",
-        "reinhold-ebertin-the-combination-of-stellar-influences",
-        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
-        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
-      ],
-      "source_count": 5,
-      "single_source_only": false,
-      "has_real_derived_synthesis": true,
-      "answer_priority": 115,
-      "factors": [
-        "Jupiter",
-        "Uranus",
-        "Mercury"
-      ],
-      "tags": [
-        "activation",
-        "canonical_answer",
-        "Jupiter",
-        "Jupiter/Uranus",
-        "Jupiter/Uranus = Mercury",
-        "Mercury",
-        "Uranus"
-      ]
-    },
-    {
-      "title": "Jupiter/Uranus = Moon",
-      "slug": "jupiter-uranus-equals-moon",
-      "path": "wiki/activations/jupiter-uranus-equals-moon.md",
-      "page_type": "activation",
-      "framework_scope": "comparative",
-      "retrieval_role": "canonical_answer",
-      "answer_surface": true,
-      "structural_only": false,
-      "source_pages": [
-        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
-        "udo-rudolph-abc-fur-planetenbilder",
-        "reinhold-ebertin-the-combination-of-stellar-influences",
-        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
-        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
-      ],
-      "source_count": 5,
-      "single_source_only": false,
-      "has_real_derived_synthesis": true,
-      "answer_priority": 115,
-      "factors": [
-        "Jupiter",
-        "Uranus",
-        "Moon"
-      ],
-      "tags": [
-        "activation",
-        "canonical_answer",
-        "Jupiter",
-        "Jupiter/Uranus",
-        "Jupiter/Uranus = Moon",
-        "Moon",
-        "Uranus"
-      ]
-    },
-    {
       "title": "Jupiter/Uranus = Neptune",
       "slug": "jupiter-uranus-equals-neptune",
       "path": "wiki/activations/jupiter-uranus-equals-neptune.md",
@@ -6070,41 +6483,6 @@
         "Jupiter/Uranus",
         "Jupiter/Uranus = Neptune",
         "Neptune",
-        "Uranus"
-      ]
-    },
-    {
-      "title": "Jupiter/Uranus = Node",
-      "slug": "jupiter-uranus-equals-node",
-      "path": "wiki/activations/jupiter-uranus-equals-node.md",
-      "page_type": "activation",
-      "framework_scope": "comparative",
-      "retrieval_role": "canonical_answer",
-      "answer_surface": true,
-      "structural_only": false,
-      "source_pages": [
-        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
-        "udo-rudolph-abc-fur-planetenbilder",
-        "reinhold-ebertin-the-combination-of-stellar-influences",
-        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
-        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
-      ],
-      "source_count": 5,
-      "single_source_only": false,
-      "has_real_derived_synthesis": true,
-      "answer_priority": 115,
-      "factors": [
-        "Jupiter",
-        "Uranus",
-        "Node"
-      ],
-      "tags": [
-        "activation",
-        "canonical_answer",
-        "Jupiter",
-        "Jupiter/Uranus",
-        "Jupiter/Uranus = Node",
-        "Node",
         "Uranus"
       ]
     },
@@ -6176,76 +6554,6 @@
         "Jupiter/Uranus = Saturn",
         "Saturn",
         "Uranus"
-      ]
-    },
-    {
-      "title": "Jupiter/Uranus = Sun",
-      "slug": "jupiter-uranus-equals-sun",
-      "path": "wiki/activations/jupiter-uranus-equals-sun.md",
-      "page_type": "activation",
-      "framework_scope": "comparative",
-      "retrieval_role": "canonical_answer",
-      "answer_surface": true,
-      "structural_only": false,
-      "source_pages": [
-        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
-        "udo-rudolph-abc-fur-planetenbilder",
-        "reinhold-ebertin-the-combination-of-stellar-influences",
-        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
-        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
-      ],
-      "source_count": 5,
-      "single_source_only": false,
-      "has_real_derived_synthesis": true,
-      "answer_priority": 115,
-      "factors": [
-        "Jupiter",
-        "Uranus",
-        "Sun"
-      ],
-      "tags": [
-        "activation",
-        "canonical_answer",
-        "Jupiter",
-        "Jupiter/Uranus",
-        "Jupiter/Uranus = Sun",
-        "Sun",
-        "Uranus"
-      ]
-    },
-    {
-      "title": "Jupiter/Uranus = Venus",
-      "slug": "jupiter-uranus-equals-venus",
-      "path": "wiki/activations/jupiter-uranus-equals-venus.md",
-      "page_type": "activation",
-      "framework_scope": "comparative",
-      "retrieval_role": "canonical_answer",
-      "answer_surface": true,
-      "structural_only": false,
-      "source_pages": [
-        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
-        "udo-rudolph-abc-fur-planetenbilder",
-        "reinhold-ebertin-the-combination-of-stellar-influences",
-        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
-        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
-      ],
-      "source_count": 5,
-      "single_source_only": false,
-      "has_real_derived_synthesis": true,
-      "answer_priority": 115,
-      "factors": [
-        "Jupiter",
-        "Uranus",
-        "Venus"
-      ],
-      "tags": [
-        "activation",
-        "canonical_answer",
-        "Jupiter",
-        "Jupiter/Uranus",
-        "Jupiter/Uranus = Venus",
-        "Uranus",
-        "Venus"
       ]
     },
     {
@@ -22868,41 +23176,6 @@
       ]
     },
     {
-      "title": "Sun/Jupiter = Mars",
-      "slug": "sun-jupiter-equals-mars",
-      "path": "wiki/activations/sun-jupiter-equals-mars.md",
-      "page_type": "activation",
-      "framework_scope": "comparative",
-      "retrieval_role": "canonical_answer",
-      "answer_surface": true,
-      "structural_only": false,
-      "source_pages": [
-        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
-        "udo-rudolph-abc-fur-planetenbilder",
-        "reinhold-ebertin-the-combination-of-stellar-influences",
-        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
-        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
-      ],
-      "source_count": 5,
-      "single_source_only": false,
-      "has_real_derived_synthesis": true,
-      "answer_priority": 115,
-      "factors": [
-        "Sun",
-        "Jupiter",
-        "Mars"
-      ],
-      "tags": [
-        "activation",
-        "canonical_answer",
-        "Jupiter",
-        "Mars",
-        "Sun",
-        "Sun/Jupiter",
-        "Sun/Jupiter = Mars"
-      ]
-    },
-    {
       "title": "Sun/Jupiter = MC",
       "slug": "sun-jupiter-equals-mc",
       "path": "wiki/activations/sun-jupiter-equals-mc.md",
@@ -22938,111 +23211,6 @@
       ]
     },
     {
-      "title": "Sun/Jupiter = Mercury",
-      "slug": "sun-jupiter-equals-mercury",
-      "path": "wiki/activations/sun-jupiter-equals-mercury.md",
-      "page_type": "activation",
-      "framework_scope": "comparative",
-      "retrieval_role": "canonical_answer",
-      "answer_surface": true,
-      "structural_only": false,
-      "source_pages": [
-        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
-        "udo-rudolph-abc-fur-planetenbilder",
-        "reinhold-ebertin-the-combination-of-stellar-influences",
-        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
-        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
-      ],
-      "source_count": 5,
-      "single_source_only": false,
-      "has_real_derived_synthesis": true,
-      "answer_priority": 115,
-      "factors": [
-        "Sun",
-        "Jupiter",
-        "Mercury"
-      ],
-      "tags": [
-        "activation",
-        "canonical_answer",
-        "Jupiter",
-        "Mercury",
-        "Sun",
-        "Sun/Jupiter",
-        "Sun/Jupiter = Mercury"
-      ]
-    },
-    {
-      "title": "Sun/Jupiter = Moon",
-      "slug": "sun-jupiter-equals-moon",
-      "path": "wiki/activations/sun-jupiter-equals-moon.md",
-      "page_type": "activation",
-      "framework_scope": "comparative",
-      "retrieval_role": "canonical_answer",
-      "answer_surface": true,
-      "structural_only": false,
-      "source_pages": [
-        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
-        "udo-rudolph-abc-fur-planetenbilder",
-        "reinhold-ebertin-the-combination-of-stellar-influences",
-        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
-        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
-      ],
-      "source_count": 5,
-      "single_source_only": false,
-      "has_real_derived_synthesis": true,
-      "answer_priority": 115,
-      "factors": [
-        "Sun",
-        "Jupiter",
-        "Moon"
-      ],
-      "tags": [
-        "activation",
-        "canonical_answer",
-        "Jupiter",
-        "Moon",
-        "Sun",
-        "Sun/Jupiter",
-        "Sun/Jupiter = Moon"
-      ]
-    },
-    {
-      "title": "Sun/Jupiter = Neptune",
-      "slug": "sun-jupiter-equals-neptune",
-      "path": "wiki/activations/sun-jupiter-equals-neptune.md",
-      "page_type": "activation",
-      "framework_scope": "comparative",
-      "retrieval_role": "canonical_answer",
-      "answer_surface": true,
-      "structural_only": false,
-      "source_pages": [
-        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
-        "udo-rudolph-abc-fur-planetenbilder",
-        "reinhold-ebertin-the-combination-of-stellar-influences",
-        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
-        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
-      ],
-      "source_count": 5,
-      "single_source_only": false,
-      "has_real_derived_synthesis": true,
-      "answer_priority": 115,
-      "factors": [
-        "Sun",
-        "Jupiter",
-        "Neptune"
-      ],
-      "tags": [
-        "activation",
-        "canonical_answer",
-        "Jupiter",
-        "Neptune",
-        "Sun",
-        "Sun/Jupiter",
-        "Sun/Jupiter = Neptune"
-      ]
-    },
-    {
       "title": "Sun/Jupiter = Node",
       "slug": "sun-jupiter-equals-node",
       "path": "wiki/activations/sun-jupiter-equals-node.md",
@@ -23075,146 +23243,6 @@
         "Sun",
         "Sun/Jupiter",
         "Sun/Jupiter = Node"
-      ]
-    },
-    {
-      "title": "Sun/Jupiter = Pluto",
-      "slug": "sun-jupiter-equals-pluto",
-      "path": "wiki/activations/sun-jupiter-equals-pluto.md",
-      "page_type": "activation",
-      "framework_scope": "comparative",
-      "retrieval_role": "canonical_answer",
-      "answer_surface": true,
-      "structural_only": false,
-      "source_pages": [
-        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
-        "udo-rudolph-abc-fur-planetenbilder",
-        "reinhold-ebertin-the-combination-of-stellar-influences",
-        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
-        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
-      ],
-      "source_count": 5,
-      "single_source_only": false,
-      "has_real_derived_synthesis": true,
-      "answer_priority": 115,
-      "factors": [
-        "Sun",
-        "Jupiter",
-        "Pluto"
-      ],
-      "tags": [
-        "activation",
-        "canonical_answer",
-        "Jupiter",
-        "Pluto",
-        "Sun",
-        "Sun/Jupiter",
-        "Sun/Jupiter = Pluto"
-      ]
-    },
-    {
-      "title": "Sun/Jupiter = Saturn",
-      "slug": "sun-jupiter-equals-saturn",
-      "path": "wiki/activations/sun-jupiter-equals-saturn.md",
-      "page_type": "activation",
-      "framework_scope": "comparative",
-      "retrieval_role": "canonical_answer",
-      "answer_surface": true,
-      "structural_only": false,
-      "source_pages": [
-        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
-        "udo-rudolph-abc-fur-planetenbilder",
-        "reinhold-ebertin-the-combination-of-stellar-influences",
-        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
-        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
-      ],
-      "source_count": 5,
-      "single_source_only": false,
-      "has_real_derived_synthesis": true,
-      "answer_priority": 115,
-      "factors": [
-        "Sun",
-        "Jupiter",
-        "Saturn"
-      ],
-      "tags": [
-        "activation",
-        "canonical_answer",
-        "Jupiter",
-        "Saturn",
-        "Sun",
-        "Sun/Jupiter",
-        "Sun/Jupiter = Saturn"
-      ]
-    },
-    {
-      "title": "Sun/Jupiter = Uranus",
-      "slug": "sun-jupiter-equals-uranus",
-      "path": "wiki/activations/sun-jupiter-equals-uranus.md",
-      "page_type": "activation",
-      "framework_scope": "comparative",
-      "retrieval_role": "canonical_answer",
-      "answer_surface": true,
-      "structural_only": false,
-      "source_pages": [
-        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
-        "udo-rudolph-abc-fur-planetenbilder",
-        "reinhold-ebertin-the-combination-of-stellar-influences",
-        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
-        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
-      ],
-      "source_count": 5,
-      "single_source_only": false,
-      "has_real_derived_synthesis": true,
-      "answer_priority": 115,
-      "factors": [
-        "Sun",
-        "Jupiter",
-        "Uranus"
-      ],
-      "tags": [
-        "activation",
-        "canonical_answer",
-        "Jupiter",
-        "Sun",
-        "Sun/Jupiter",
-        "Sun/Jupiter = Uranus",
-        "Uranus"
-      ]
-    },
-    {
-      "title": "Sun/Jupiter = Venus",
-      "slug": "sun-jupiter-equals-venus",
-      "path": "wiki/activations/sun-jupiter-equals-venus.md",
-      "page_type": "activation",
-      "framework_scope": "comparative",
-      "retrieval_role": "canonical_answer",
-      "answer_surface": true,
-      "structural_only": false,
-      "source_pages": [
-        "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
-        "udo-rudolph-abc-fur-planetenbilder",
-        "reinhold-ebertin-the-combination-of-stellar-influences",
-        "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
-        "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
-      ],
-      "source_count": 5,
-      "single_source_only": false,
-      "has_real_derived_synthesis": true,
-      "answer_priority": 115,
-      "factors": [
-        "Sun",
-        "Jupiter",
-        "Venus"
-      ],
-      "tags": [
-        "activation",
-        "canonical_answer",
-        "Jupiter",
-        "Sun",
-        "Sun/Jupiter",
-        "Sun/Jupiter = Venus",
-        "Venus"
       ]
     },
     {
@@ -185516,6 +185544,49 @@
       ]
     },
     {
+      "title": "Aren Ober - Midpoint Interpretation Simplified",
+      "slug": "aren-ober-midpoint-interpretation",
+      "path": "wiki/sources/aren-ober-midpoint-interpretation.md",
+      "page_type": "source",
+      "framework_scope": "cosmobiology",
+      "retrieval_role": "source_catalog",
+      "answer_surface": false,
+      "structural_only": false,
+      "source_pages": [],
+      "source_count": 0,
+      "single_source_only": true,
+      "has_real_derived_synthesis": false,
+      "answer_priority": 40,
+      "factors": [
+        "Sun",
+        "Moon",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Pluto",
+        "Node"
+      ],
+      "tags": [
+        "Jupiter",
+        "Mars",
+        "Mercury",
+        "Moon",
+        "Neptune",
+        "Node",
+        "Pluto",
+        "Saturn",
+        "source",
+        "source_catalog",
+        "Sun",
+        "Uranus",
+        "Venus"
+      ]
+    },
+    {
       "title": "Charles Carter - The Astrological Aspects",
       "slug": "charles-carter-the-astrological-aspects",
       "path": "wiki/sources/charles-carter-the-astrological-aspects.md",
@@ -185720,6 +185791,70 @@
         "Sun",
         "Uranus",
         "Venus"
+      ]
+    },
+    {
+      "title": "Manly P. Hall - Astrological Keywords",
+      "slug": "manly-p-hall-astrological-keywords",
+      "path": "wiki/sources/manly-p-hall-astrological-keywords.md",
+      "page_type": "source",
+      "framework_scope": "planetary_keywords",
+      "retrieval_role": "source_catalog",
+      "answer_surface": false,
+      "structural_only": false,
+      "source_pages": [],
+      "source_count": 0,
+      "single_source_only": true,
+      "has_real_derived_synthesis": false,
+      "answer_priority": 40,
+      "factors": [
+        "Moon",
+        "Mercury",
+        "Venus",
+        "Sun",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "tags": [
+        "Jupiter",
+        "Mars",
+        "Mercury",
+        "Moon",
+        "Neptune",
+        "Saturn",
+        "source",
+        "source_catalog",
+        "Sun",
+        "Uranus",
+        "Venus"
+      ]
+    },
+    {
+      "title": "Michael Harding and Charles Harvey - Working with Astrology",
+      "slug": "michael-harding-charles-harvey-working-with-astrology",
+      "path": "wiki/sources/michael-harding-charles-harvey-working-with-astrology.md",
+      "page_type": "source",
+      "framework_scope": "midpoint_axis_method",
+      "retrieval_role": "source_catalog",
+      "answer_surface": false,
+      "structural_only": false,
+      "source_pages": [],
+      "source_count": 0,
+      "single_source_only": true,
+      "has_real_derived_synthesis": false,
+      "answer_priority": 40,
+      "factors": [
+        "Sun",
+        "Moon"
+      ],
+      "tags": [
+        "Moon",
+        "source",
+        "source_catalog",
+        "Sun"
       ]
     },
     {
@@ -185969,6 +186104,35 @@
         "Vernal Point",
         "Vulcanus",
         "Zeus"
+      ]
+    },
+    {
+      "title": "Zane B. Stein - The Quadrant Midpoints: The Chart's Backbone",
+      "slug": "zane-b-stein-the-quadrant-midpoints",
+      "path": "wiki/sources/zane-b-stein-the-quadrant-midpoints.md",
+      "page_type": "source",
+      "framework_scope": "modern_midpoint_axis",
+      "retrieval_role": "source_catalog",
+      "answer_surface": false,
+      "structural_only": false,
+      "source_pages": [],
+      "source_count": 0,
+      "single_source_only": true,
+      "has_real_derived_synthesis": false,
+      "answer_priority": 40,
+      "factors": [
+        "Sun",
+        "Moon",
+        "Asc",
+        "MC"
+      ],
+      "tags": [
+        "Asc",
+        "MC",
+        "Moon",
+        "source",
+        "source_catalog",
+        "Sun"
       ]
     },
     {

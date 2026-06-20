@@ -7391,16 +7391,20 @@ Use [Query Guide](query-guide.md) for answer-first retrieval and `query-manifest
 
 ## Sources
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Aren Ober - Midpoint Interpretation Simplified](sources/aren-ober-midpoint-interpretation.md)
 - [Charles Carter - The Astrological Aspects](sources/charles-carter-the-astrological-aspects.md)
 - [Don McBroom - Midpoints](sources/don-mcbroom-midpoints.md)
 - [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [L. Edward Johndro - Astrological Dictionary](sources/l-edward-johndro-astrological-dictionary.md)
+- [Manly P. Hall - Astrological Keywords](sources/manly-p-hall-astrological-keywords.md)
+- [Michael Harding and Charles Harvey - Working with Astrology](sources/michael-harding-charles-harvey-working-with-astrology.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](sources/robert-hand-horoscope-symbols.md)
 - [Udo Rudolph - ABC for Planetary Pictures](sources/udo-rudolph-abc-fur-planetenbilder.md)
+- [Zane B. Stein - The Quadrant Midpoints: The Chart's Backbone](sources/zane-b-stein-the-quadrant-midpoints.md)
 
 ## Derived Pages
 - [Axis Reading Throughline: Falis and Carter](derived/axis-reading-throughline-falis-carter.md)

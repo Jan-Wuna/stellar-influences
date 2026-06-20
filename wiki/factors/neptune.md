@@ -16,6 +16,7 @@ source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
   - hajo-banzhaf-anna-haebler-keywords-for-astrology
   - l-edward-johndro-astrological-dictionary
+  - manly-p-hall-astrological-keywords
 updated_at: 2026-06-20
 ---
 
@@ -192,6 +193,21 @@ what one is—grants us the ability to sacrifice ourselves for that in which we 
 - source-native descriptors: utopian; watery; neutral; psychic; "I DREAM"; mystery; mild warm; spiritual and material
 - representative keywords: belief, bewilder, bliss, camouflage, dissolve, dream, ecstasy, elation, enchant, ether, illusion, mystery, oceanic, psychic, universal, vision, water, yearning
 
+### Manly P. Hall - Astrological Keywords
+
+- Source section: `Neptune`
+- PDF page(s): `105-121`
+
+#### Hall Factor Keywords
+
+- physical type: slender finely organized body, long head, sharp features, mysterious often cruel expression, retreating hair at temples, and hypnotic eyes.
+- temperament: neurotic and gloomy, drawn to mystery, theatrical, morbid, unconventional, aesthetic, inconstant in affections, and susceptible to flattery and appearances.
+- thinking/feeling: action from inexplicable motives, powerful emotions directed toward peculiar or unconventional ends, and thoughts directed to invisible or intangible ends.
+- mental characteristics: supermental concern with profound and inexplicable matters, occult and mystical interests, and success in enterprises beyond average mental capacity.
+- positive/negative mental traits: positive spirituality, fascination, penetration, aesthetic and musical gifts, romance, inspiration, prophecy, and clairvoyance; negative delusion, mediumism, morbidity, fraud, sarcasm, psychopathy, erratic eroticism, mental chaos, and unreliability.
+- spiritual keyword: he who annihilates; absolute consciousness, initiator, imminent divinity, magnetic.
+- occupations: inspirationalists, artistic and literary geniuses, water and ether occupations, ascetics, philosophers, occultists, and black magicians.
+
 ## Comparative Schema
 
 - core meaning: source-native factor entries are preserved side by side above.
@@ -252,6 +268,7 @@ what one is—grants us the ability to sacrifice ourselves for that in which we 
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
 - [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)
 - [L. Edward Johndro - Astrological Dictionary](../sources/l-edward-johndro-astrological-dictionary.md)
+- [Manly P. Hall - Astrological Keywords](../sources/manly-p-hall-astrological-keywords.md)
 
 ## Open Questions
 

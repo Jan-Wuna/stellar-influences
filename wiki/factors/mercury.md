@@ -16,6 +16,7 @@ source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
   - hajo-banzhaf-anna-haebler-keywords-for-astrology
   - l-edward-johndro-astrological-dictionary
+  - manly-p-hall-astrological-keywords
 updated_at: 2026-06-20
 ---
 
@@ -199,6 +200,22 @@ meter serving to assist the memory). Language also allows us to close the gap be
 - source-native descriptors: messenger of the gods; "I TELL"; neutral; mental; airy; communication; speech
 - representative keywords: academy, address, advise, announce, argue, author, book, brain, calculate, discourse, document, education, gossip, speech, teach, telegram, telephone, thought, word, write
 
+### Manly P. Hall - Astrological Keywords
+
+- Source section: `Mercury`
+- PDF page(s): `104-121`
+
+#### Hall Factor Keywords
+
+- physical type: slender body and face; full forehead; long nose; thin lips; expressive hands; dark hair; penetrating eyes.
+- temperament: nervous and excitable, quickly reversing thought order, reaching conclusions hastily, brilliant but superficial in mental life.
+- thinking/feeling: analytical thinker, knowledge for its own sake, proficiency, argument, debate, technical skill, and wordiness in writing.
+- mental characteristics: self-expressive, reasoning, thoughtful, eloquent, good memory, congenial, affable, statistical, and evidence-gathering.
+- positive/negative mental traits: positive wit, literary dexterity, subtlety, retentiveness, brilliance, sensitivity, industry, and impressionability; negative unprincipled tale-bearing, gambling, conceit, profanity, clumsiness, forgetfulness, nervousness, and worry.
+- spiritual keyword: he who communicates; spiritual-human consciousness, reason, lower intuition, magnetic or electric according to aspects.
+- occult philosophy: buddhi, the seat of the intuitional nature.
+- occupations: accountants, civil engineers, teachers, secretaries, messengers, letter-carriers, journalists, bankers, inventors, orators, booksellers, and clerks.
+
 ## Comparative Schema
 
 - core meaning: source-native factor entries are preserved side by side above.
@@ -259,6 +276,7 @@ meter serving to assist the memory). Language also allows us to close the gap be
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
 - [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)
 - [L. Edward Johndro - Astrological Dictionary](../sources/l-edward-johndro-astrological-dictionary.md)
+- [Manly P. Hall - Astrological Keywords](../sources/manly-p-hall-astrological-keywords.md)
 
 ## Open Questions
 

@@ -16,6 +16,7 @@ source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
   - hajo-banzhaf-anna-haebler-keywords-for-astrology
   - l-edward-johndro-astrological-dictionary
+  - manly-p-hall-astrological-keywords
 updated_at: 2026-06-20
 ---
 
@@ -178,6 +179,22 @@ In the universe there are two kinds of force that bring things together. One is 
 - source-native descriptors: LOVE; beauty; harmony; feminine; passive; "I LOVE"; airy; social
 - representative keywords: acceptance, affection, agreement, beauty, charm, companionship, grace, harmony, honeymoon, hospitality, love, music, neighborly, social ease, taste
 
+### Manly P. Hall - Astrological Keywords
+
+- Source section: `Venus`
+- PDF page(s): `104-121`
+
+#### Hall Factor Keywords
+
+- physical type: short graceful body, tending to stoutness with age; round face, dark hair, large wandering eyes, soft voice, and vivacious manner.
+- temperament: gracious and often patronizing, extreme in feelings, subject to negative moods, self-pity, and depression.
+- thinking/feeling: emotions based on attachment and sense perception, stimulated by beauty, art, ornament, environment, and responsiveness to others' feelings.
+- mental characteristics: social imagination, fertile and receptive mind, beauty, ornament, personal attachment, and non-profound memory.
+- positive/negative mental traits: positive cheer, amicability, suavity, affection, friendship, kindness, poetry, art, pleasure, and harmony; negative sensuality, sentimentality, vanity, dissolution, laziness, superficiality, lust, gaudiness, and vulgarity.
+- spiritual keyword: she who allures; human consciousness, coalition, sex and love, unification, magnetic.
+- occult philosophy: higher or spiritual mind.
+- occupations: musicians, painters, singers, dancers, poets, actors, toilet-accessory makers, clothing designers and dealers, botanists, and domestic servants.
+
 ## Comparative Schema
 
 - core meaning: source-native factor entries are preserved side by side above.
@@ -238,6 +255,7 @@ In the universe there are two kinds of force that bring things together. One is 
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
 - [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)
 - [L. Edward Johndro - Astrological Dictionary](../sources/l-edward-johndro-astrological-dictionary.md)
+- [Manly P. Hall - Astrological Keywords](../sources/manly-p-hall-astrological-keywords.md)
 
 ## Open Questions
 

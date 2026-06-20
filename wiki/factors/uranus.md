@@ -16,6 +16,7 @@ source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
   - hajo-banzhaf-anna-haebler-keywords-for-astrology
   - l-edward-johndro-astrological-dictionary
+  - manly-p-hall-astrological-keywords
 updated_at: 2026-06-20
 ---
 
@@ -184,6 +185,21 @@ energy that strives to keep the universe flexible by preventing too much order. 
 - source-native descriptors: changes; sudden action; spasmodic; magnetic; "I INVENT"; positive; masculine; barren; electrical; hard; airy; scientific; independent; unconventional; controversial; unusual
 - representative keywords: abnormal, abrupt, accident, change, circuit, controversy, divide, divorce, experimental, independent, invention, scientific, technology, unexpected, unconventional, unusual
 
+### Manly P. Hall - Astrological Keywords
+
+- Source section: `Uranus`
+- PDF page(s): `105-121`
+
+#### Hall Factor Keywords
+
+- physical type: slender but pleasing appearance, irregular but prepossessing features, large brilliant keen usually light eyes, sometimes ascetic or effeminate impression.
+- temperament: impulsive and eccentric, uncertain of mind, moved by providential agencies, fatalistic, scientific.
+- thinking/feeling: spontaneous inner urge, active originality, inventiveness, liberty, idealistic justice, leadership, pioneering, and new orders.
+- mental characteristics: independent, original, uncontrollable, inventive, unconventional, altruistic, sudden changes of attitude, and uncanny motive sense.
+- positive/negative mental traits: positive progressiveness, love of humanity, intuition, prophecy, philosophy, science, enthusiasm, and heroism; negative eccentricity, bohemianism, fanaticism, irresponsibility, anarchy, self-centeredness, riot, chaos, license, and sarcasm.
+- spiritual keyword: he who perceives; perfect spiritual consciousness, awakener, intuition and altruism, electric and magnetic.
+- occupations: lecturers, public figures, travelers, inventors, aviators, radio operators, astrologers, electricians, scientists, psychologists, mesmerists, and metaphysicians.
+
 ## Comparative Schema
 
 - core meaning: source-native factor entries are preserved side by side above.
@@ -244,6 +260,7 @@ energy that strives to keep the universe flexible by preventing too much order. 
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
 - [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)
 - [L. Edward Johndro - Astrological Dictionary](../sources/l-edward-johndro-astrological-dictionary.md)
+- [Manly P. Hall - Astrological Keywords](../sources/manly-p-hall-astrological-keywords.md)
 
 ## Open Questions
 

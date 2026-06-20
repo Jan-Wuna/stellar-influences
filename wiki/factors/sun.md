@@ -16,6 +16,7 @@ source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
   - hajo-banzhaf-anna-haebler-keywords-for-astrology
   - l-edward-johndro-astrological-dictionary
+  - manly-p-hall-astrological-keywords
 updated_at: 2026-06-20
 ---
 
@@ -203,6 +204,22 @@ As a component of the father archetype, the Sun represents the father's function
 - source-native descriptors: "I AM"; POWER; male; electrical; organic; positive; the giver of life
 - representative keywords: alive, ambition, celebrity, center, central, daylight, ego, father, flame, glory, heredity, illuminate, king, life, power, solar
 
+### Manly P. Hall - Astrological Keywords
+
+- Source section: `Sun`
+- PDF page(s): `104-121`
+
+#### Hall Factor Keywords
+
+- physical type: powerful and well formed but bony body; large face and forehead; light hair and complexion; commanding eyes and clear complexion.
+- temperament: accomplishment-oriented, restless under restraint, driven toward power, fretful, intolerant, courageous, domineering, and energetic.
+- thinking/feeling: more emotional than mental, responding to power and dignity, patronizing to express, with strong paternal instinct.
+- mental characteristics: executive, ambitious, organized, truthful, wise counsel, strong individuality, generosity, mastery, honesty, and creativity.
+- positive/negative mental traits: positive dignity, democracy, versatility, vitality, ambition, constructiveness, and love of education; negative ostentation, animality, lack of ambition, pomp, despotism, and love of form and ceremony.
+- spiritual keyword: he who constructs; universal consciousness, life-giver, father-god, electric.
+- occult philosophy: prana and the vital body.
+- occupations: positions of authority, responsibility, dignity, leadership, jewelers, goldsmiths, money-lenders, judges, and public utilities.
+
 ## Comparative Schema
 
 - core meaning: source-native factor entries are preserved side by side above.
@@ -263,6 +280,7 @@ As a component of the father archetype, the Sun represents the father's function
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
 - [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)
 - [L. Edward Johndro - Astrological Dictionary](../sources/l-edward-johndro-astrological-dictionary.md)
+- [Manly P. Hall - Astrological Keywords](../sources/manly-p-hall-astrological-keywords.md)
 
 ## Open Questions
 

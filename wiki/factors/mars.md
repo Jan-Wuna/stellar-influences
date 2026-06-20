@@ -16,6 +16,7 @@ source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
   - hajo-banzhaf-anna-haebler-keywords-for-astrology
   - l-edward-johndro-astrological-dictionary
+  - manly-p-hall-astrological-keywords
 updated_at: 2026-06-20
 ---
 
@@ -201,6 +202,22 @@ Mars's expression are blocked. As we have already mentioned in connection with. 
 - source-native descriptors: war lord; male; fiery; muscular; barren; "I ACT"; positive; dynamic
 - representative keywords: abrasion, accident, achieve, action, aggressor, army, attack, battle, bold, combat, courage, danger, defend, force, strife, struggle, tools, war, warrior
 
+### Manly P. Hall - Astrological Keywords
+
+- Source section: `Mars`
+- PDF page(s): `104-121`
+
+#### Hall Factor Keywords
+
+- physical type: strong stocky body, military deportment, red or black often curly hair, sharp quick eyes, ruddy complexion, and livid face when angry.
+- temperament: courageous, domineering, energetic, intolerant of interference, and ruthless when certain of its own attitudes.
+- thinking/feeling: desire to possess, ardent affections, persistent suit, physical accomplishment, acute and penetrating mind.
+- mental characteristics: acute, active, dynamic, courageous, forceful, enthusiastic, fearless in hazardous occupations, and fit for enterprise requiring self-assurance.
+- positive/negative mental traits: positive bravery, impulse, gallantry, enterprise, expertise, energy, magnanimity, high spirits, and independence; negative destructiveness, passion, egotism, coarseness, sarcasm, cruelty, treachery, quarrelsomeness, and warlikeness.
+- spiritual keyword: he who energizes; animal consciousness, dynamic universal energy, inflamer, electric.
+- occult philosophy: astral or emotional body.
+- occupations: military, surgeons, chemists, metal workers especially iron and steel, dentists, butchers, barbers, engineers, and sharp-tool trades.
+
 ## Comparative Schema
 
 - core meaning: source-native factor entries are preserved side by side above.
@@ -261,6 +278,7 @@ Mars's expression are blocked. As we have already mentioned in connection with. 
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
 - [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)
 - [L. Edward Johndro - Astrological Dictionary](../sources/l-edward-johndro-astrological-dictionary.md)
+- [Manly P. Hall - Astrological Keywords](../sources/manly-p-hall-astrological-keywords.md)
 
 ## Open Questions
 

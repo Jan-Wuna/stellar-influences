@@ -16,6 +16,7 @@ source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
   - hajo-banzhaf-anna-haebler-keywords-for-astrology
   - l-edward-johndro-astrological-dictionary
+  - manly-p-hall-astrological-keywords
 updated_at: 2026-06-20
 ---
 
@@ -206,6 +207,22 @@ To conclude this description of the Moon's symbolism, there is an important poin
 - source-native descriptors: mother-principle; female; fluidic; domestic; "I SEE"; negative; functional; emotion
 - representative keywords: home, household, image, observation, optics, perception, phase, picture, portrait, visible appearance, vision
 
+### Manly P. Hall - Astrological Keywords
+
+- Source section: `Moon`
+- PDF page(s): `104-121`
+
+#### Hall Factor Keywords
+
+- physical type: middle stature inclined to heaviness; round face; pale complexion; large soft eyes; short thick hands and feet.
+- temperament: changeable phases from gloomy to optimistic; easily influenced, imaginative, and prone to difficulty concentrating.
+- thinking/feeling: nonsexual emotions, kindness, sympathy, modesty, protection of the vulnerable, love of animals, and maternal instinct.
+- mental characteristics: instinctive and imaginative mind directed toward family, home, humanitarian concerns, receptivity, intuition, versatility, fecundity, and plasticity.
+- positive/negative mental traits: positive magnetism, psychic development, peace-loving ingenuity, maternal feeling, and travel; negative visionary frivolity, mediumism, caprice, procrastination, laziness, and bad habits.
+- spiritual keyword: she who nourishes; psycho-physiological consciousness, fecundation, mother-god, harmony, magnetic.
+- occult philosophy: physical body and lower etheric envelope.
+- occupations: seamen, traveling salesmen, fishermen, dealers in liquids, nurses, child-care work, general trades, dressmaking, and spirit mediumship.
+
 ## Comparative Schema
 
 - core meaning: source-native factor entries are preserved side by side above.
@@ -266,6 +283,7 @@ To conclude this description of the Moon's symbolism, there is an important poin
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
 - [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)
 - [L. Edward Johndro - Astrological Dictionary](../sources/l-edward-johndro-astrological-dictionary.md)
+- [Manly P. Hall - Astrological Keywords](../sources/manly-p-hall-astrological-keywords.md)
 
 ## Open Questions
 

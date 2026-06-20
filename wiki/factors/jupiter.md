@@ -16,6 +16,7 @@ source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
   - hajo-banzhaf-anna-haebler-keywords-for-astrology
   - l-edward-johndro-astrological-dictionary
+  - manly-p-hall-astrological-keywords
 updated_at: 2026-06-20
 ---
 
@@ -185,6 +186,21 @@ experience. Breadth of experience prevents this person from taking narrow-minded
 - source-native descriptors: "I WIN"; great benefic; warm; moist; expansive; positive; masculine; the seller
 - representative keywords: abundance, acclaim, accrue, finance, gain, generous, glory, good, honor, justice, law, large, reputation, respect, rich, royal, security, status, wealth
 
+### Manly P. Hall - Astrological Keywords
+
+- Source section: `Jupiter`
+- PDF page(s): `105-121`
+
+#### Hall Factor Keywords
+
+- physical type: large and well formed body tending to portliness with age, wide chest, high forehead, widely spaced kindly eyes, dark wavy hair, and paternal attitude.
+- temperament: temperate, generous, peace-loving, optimistic, broad in view, and overcoming opposition by sound impersonal argument.
+- thinking/feeling: blends mind and heart, dramatic sense, love of beauty, service to others, and feelings tempered with mercy.
+- mental characteristics: common sense, reason, humanity, broad vision, expansion, optimism, ideality, religion, sound judgment, and generosity.
+- positive/negative mental traits: positive benevolence, respect, honor, joviality, sympathy, executive ability, patience, wisdom, justice, popularity, and piety; negative extravagance, dissipation, procrastination, conceit, fanaticism, self-indulgence, hypocrisy, irresolution, and laziness.
+- spiritual keyword: he who expands; vegetative consciousness, uplifter, preserver, idealizer.
+- occupations: senators, lawyers, ministers, general physicians, bankers, clothiers, provision dealers, restaurant workers, merchants, department heads, and philanthropists.
+
 ## Comparative Schema
 
 - core meaning: source-native factor entries are preserved side by side above.
@@ -245,6 +261,7 @@ experience. Breadth of experience prevents this person from taking narrow-minded
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
 - [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)
 - [L. Edward Johndro - Astrological Dictionary](../sources/l-edward-johndro-astrological-dictionary.md)
+- [Manly P. Hall - Astrological Keywords](../sources/manly-p-hall-astrological-keywords.md)
 
 ## Open Questions
 

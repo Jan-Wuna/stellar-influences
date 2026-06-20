@@ -16,6 +16,7 @@ source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
   - hajo-banzhaf-anna-haebler-keywords-for-astrology
   - l-edward-johndro-astrological-dictionary
+  - manly-p-hall-astrological-keywords
 updated_at: 2026-06-20
 ---
 
@@ -209,6 +210,22 @@ gentleness or peace. A strong Saturn often indicates a particularly powerful exp
 - source-native descriptors: father Chronos; time; form; stability; "I BUILD"; mathematics; cold; earthy; negative; masculine; the buyer
 - representative keywords: age, ancient, anxiety, austerity, barrier, basis, black, block, bone, cold, delay, form, mathematics, restriction, stability, time
 
+### Manly P. Hall - Astrological Keywords
+
+- Source section: `Saturn`
+- PDF page(s): `105-121`
+
+#### Hall Factor Keywords
+
+- physical type: slender angular body, large bones, bending back with age, stern features, small beady eyes, dark curly hair, and indifferent complexion.
+- temperament: crystallized attitudes, tenacious custom and convention, secrecy, plotting toward power, tyranny in authority, conservatism, and faithfulness.
+- thinking/feeling: reserved and inhibited disposition, tremendous self-control, ordered sense, attention to detail, easy offense, patience, and prudence.
+- mental characteristics: detail, perseverance, scientific inclination, authority of experience, research work, and mathematics.
+- positive/negative mental traits: positive faithfulness, analysis, system, tact, thrift, caution, responsibility, punctuality, chastity, study, and justice; negative crystallization, pessimism, secrecy, avarice, suspicion, jealousy, timidity, sternness, fatalism, and debasement.
+- spiritual keyword: he who endures; egoism or selfhood consciousness, subduer, obstructor, limiter, crystallizer, magnetic.
+- occult philosophy: lower or animal mind.
+- occupations: conservative business, earthy occupations, real-estate dealers, jailers, farmers, bricklayers, miners, night watchmen, and undertakers.
+
 ## Comparative Schema
 
 - core meaning: source-native factor entries are preserved side by side above.
@@ -269,6 +286,7 @@ gentleness or peace. A strong Saturn often indicates a particularly powerful exp
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
 - [Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)
 - [L. Edward Johndro - Astrological Dictionary](../sources/l-edward-johndro-astrological-dictionary.md)
+- [Manly P. Hall - Astrological Keywords](../sources/manly-p-hall-astrological-keywords.md)
 
 ## Open Questions
 

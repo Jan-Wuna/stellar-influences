@@ -179,7 +179,7 @@ An over-productive pituitary gland; active cell regeneration or production; rect
 - comparison: Strength Power Greed Possession Crude Subtle Muscle strength Magical power Fist Curse Destruction Transformation Operating Healing magically
 - general: The courage for deep-reaching transformation . Greed for power and power struggles . Sexual possession . Uncanny , irresistible , or dark forces .
 - harmony: Mack the Knife. Development of immense, usually invisible strengths that originate in a deep energy of the soul. Strong, secretive, and irresistible aura. Being able to compel others without showing any recognizable outer signs of doing so. Spooky, invincible, decisive, courageous, and fascinating. Strong sexual energies and deep passion. Total intensity.
-- discord: The Sadist. Inconsiderate, unconditional, fanatic assertion of one's own will. Rigorous, bestial desire for revenge when rejection has been suffered. Extremely instinctive and possessed by sexual obsessions. Seeks total lust. Sexuality as the venue for power struggles. Loves (violent) sexual humiliations. As a result of social ostracism of this topic,
+- discord: The Sadist. Inconsiderate, unconditional, fanatic assertion of one's own will. Rigorous, bestial desire for revenge when rejection has been suffered. Extremely instinctive and possessed by sexual obsessions. Seeks total lust. Sexuality as the venue for power struggles. Loves (violent) sexual humiliations. As a result of social ostracism of this topic, the aspect is frequently lived out on a completely unconscious level.
 
 ## Comparative Schema
 

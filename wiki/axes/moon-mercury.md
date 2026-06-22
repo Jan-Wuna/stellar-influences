@@ -232,7 +232,7 @@ Glandular conditions which begin with nervous dysfunctioning; deeply rooted fear
 - comparison: Disposition Intellect Feeling Thinking Dreaming Seeing clearly Instinct Reason Unconscious Conscious Fantasy Logic Image Word Associating Combining Guessing Calculating Sensing Perceiving
 - general: The interplay of thinking and feeling . Understanding and interpreting dreams. Expressing feelings . Telling fairy tales .
 - harmony: Healthy Common Sense. Good interplay between thinking and emotional depth. Sure instincts in assessing and judging situations and people. Having a good nose for things. Being intellectually agile and able to adapt. Very imaginative, yet always realistic. Vivid, graphic manner of expression. Quick-witted and good at languages.
-- discord: The Trivial Talker. Conflict between disposition and intellect. Lack of orientation. Childish wishful thinking and dangerous rewriting of reality into the respectively most pleasant version. Or embarrassingly unsuccessful analyzing and complicated explaining of feelings. Superficial, trivial talk. Empty promises, bragging, lies, and gossip. Emotional,
+- discord: The Trivial Talker. Conflict between disposition and intellect. Lack of orientation. Childish wishful thinking and dangerous rewriting of reality into the respectively most pleasant version. Or embarrassingly unsuccessful analyzing and complicated explaining of feelings. Superficial, trivial talk. Empty promises, bragging, lies, and gossip. Emotional, easily excited, hurtful, sharp-tongued, and slanderous.
 
 ## Comparative Schema
 

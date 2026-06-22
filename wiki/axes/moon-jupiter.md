@@ -124,7 +124,7 @@ Big emotions. Expansive emotional states. Out of proportion reactions and re spo
 
 #### Harmonious Aspects
 
-The Moon and Jupiter form an excellent combination, since they are assimilated by the exaltation of
+The Moon and Jupiter form an excellent combination, since they are assimilated by the exaltation of Jupiter in Cancer.
 
 In regard to character and temperament, they cause the native to be good-natured, friendly, helpful and sympathetic, particularly with the unfortunate and helpless. There is usually much affection for animal pets. There is often a certain amount of shrewdness and business ability.
 
@@ -136,7 +136,7 @@ Its effects on the health are beneficial. It tends to good spirits, contentment 
 
 As with all contacts with Jupiter (even Inharmonious ones), the native will be brought into touch with wealth, even if he is not personally wealthy.
 
-For some reason which I do not understand Moon Trine
+For some reason which I do not understand Moon Trine Jupiter in Air is common in the maps of violent criminals. Perhaps it aids the criminal to disguise his proclivities.
 
 #### The Conjunction
 

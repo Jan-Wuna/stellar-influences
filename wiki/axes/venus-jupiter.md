@@ -222,7 +222,7 @@ The effects of indulgence on your body; accumulations of body fat; wasted muscle
 - comparison: Concord Abundance Harmony Happiness Eroticism Morals Art Religion Beauty Nobility Sensuality Meaning Love Virtue Taste Value
 - general: Trust in love . Great and small happiness. Art or love as the revelation of meaning . Sense of beauty .
 - harmony: The Lucky Devil. Pleasant aura and good ability to make contacts. Optimistic, popular, warmhearted, enthusiastic, charming. Pampered by luck. Likes to give and win trust in personal contacts. Confidence in matters of love. Artistic talent. Cheerfulness.
-- discord: The Dissipater. Immoderate and reckless. Challenges one's good fortune, overestimating the streak of luck in the process. Goals that are set too high, exaggerated craving for recognition, and never being satisfied with what has been achieved. Extravagant demand to be pampered in one's love life. Very indolent, self-indulgent, conceited,
+- discord: The Dissipater. Immoderate and reckless. Challenges one's good fortune, overestimating the streak of luck in the process. Goals that are set too high, exaggerated craving for recognition, and never being satisfied with what has been achieved. Extravagant demand to be pampered in one's love life. Very indolent, self-indulgent, conceited, and selfish.
 
 ## Comparative Schema
 

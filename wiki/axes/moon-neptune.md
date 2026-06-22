@@ -228,7 +228,7 @@ Ulcers; a nervous stomach; reactions bought on by a sensitivity to drugs; sensit
 - comparison: Dream Vision Presentiment Inspiration Devotion Self-sacrifice Longing for a feeling of security Longing for vastness
 - general: Boundless feelings . Longing for deliverance , trance , and mystic experience . Fine antennas . Artistic sense .
 - harmony: The Medium. Can be easily and deeply touched on the emotional level. Finest antennas of the soul that convey knowledge about what is unspoken, unfamiliar, and the future. Great ability to be devoted to an ideal or a person, with a tendency toward exaggerated enthusiasm. Uncanny certainty in evaluating unfamiliar situations and people.
-- discord: The Escapist. Yearns for deliverance and lives in a fantasy world far from reality. Unfulfillable expectations of life and love, which— to be on the safe side—are usually not even tried out in the real world. Instead, flight into a dream world, hallucinations, intoxication, and addiction alternating with dissatisfaction, disappointment, loneliness,
+- discord: The Escapist. Yearns for deliverance and lives in a fantasy world far from reality. Unfulfillable expectations of life and love, which— to be on the safe side—are usually not even tried out in the real world. Instead, flight into a dream world, hallucinations, intoxication, and addiction alternating with dissatisfaction, disappointment, loneliness, depression, and melancholy.
 
 ## Comparative Schema
 

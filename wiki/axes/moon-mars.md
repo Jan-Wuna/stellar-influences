@@ -224,7 +224,7 @@ Glandular secretions which come too quickly; heat buildup in or on the body; ene
 - comparison: Feminine Masculine Passive Active Wish Deed Passion Courage Powers of the soul Muscle power Mother Son Longing Greed Homeland War
 - general: Passionate desire . Acting on the basis of feeling . Becoming emotionally excited . Conquering or defending her nest . Fighting for one's own or an entrusted brood .
 - harmony: The Spunky Person. Spontaneous, courageous actions based on an emotional impulse. Good sense of the right point in time. The more vehement and holy the feelings, the greater the intrepidity. Committed champion of those who have been entrusted to one, and the needy. Or the fervent protector of nature. Decisive, passionate, direct, and open.
-- discord: The Uncontrolled Individual. Severe tensions between disposition and aggression, anger and instinctual desire as the cause of massive problems with aggression like destructive frenzy and acts committed in the heat of passion, as well as stomach problems resulting from “swallowing” anger. Deeply injured,
+- discord: The Uncontrolled Individual. Severe tensions between disposition and aggression, anger and instinctual desire as the cause of massive problems with aggression like destructive frenzy and acts committed in the heat of passion, as well as stomach problems resulting from “swallowing” anger. Deeply injured, churned-up feelings lead to explosive outbursts of passion.
 
 ## Comparative Schema
 

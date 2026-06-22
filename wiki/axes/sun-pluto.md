@@ -178,7 +178,7 @@ The role of the colon in maintaining your overall health; susceptibility to any 
 - shadow: The Despot and the Gray Eminence
 - comparison: Ego SHADOW Foreground Background Light Dark Creation Rearrangement Aura Magnetism
 - general: Experience and consciousness of power and helplessness . The encounter of the self with its shadow . The transformation of the personality .
-- harmony: The Shaman. Enormous powers of the soul—frequently unconscious to a large degree—that can be used for both the benefit and the destruction of others: powers of suggestion, healing powers, hypnotic abilities, and the subtle but highly effective power of magnetically attracting, fascinating, and captivating other people,
+- harmony: The Shaman. Enormous powers of the soul—frequently unconscious to a large degree—that can be used for both the benefit and the destruction of others: powers of suggestion, healing powers, hypnotic abilities, and the subtle but highly effective power of magnetically attracting, fascinating, and captivating other people, as well as causing situations and events to occur on the basis of enormous powers of desire.
 - discord: The Possessed Soul. Dark, dubious character that is not strong enough to resist the temptations of power. Tries to bind others to oneself, make them dependent and enslaved in order to control and exploit them in an emotional, physical, and/or material way. Possessed by a thirst for power.
 
 ## Comparative Schema

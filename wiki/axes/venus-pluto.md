@@ -179,7 +179,7 @@ Hyper or hypo-thyroidism; toxins which overwhelm the kidneys; tonsillitis with e
 - comparison: Love Power Beauty Shadows Relationship Dependence Eroticism Sadomasochism Peace Tyranny Gentleness (Subtle) violence Grace Irresistibility Lover's bliss Deepest transformation
 - general: Experiencing the power of love . Being deeply transformed by love . The extreme relationship .
 - harmony: The Extreme Relationship. Loving completely or not at all. Comprehending the relationship as a challenge, an indissoluble pact, or a karmic connection. Being willing to live through the depths with decisiveness and fundamentally transforming oneself through the confrontation with the partner. Intensively passionate, sexual feelings.
-- discord: Passionate Entanglement. Becoming entangled in an emotional, mostly unconscious power struggle. Inner compulsion to manipulate the partner, to make the partner emotionally, sexually, and/or financially dependent. Or to mercilessly humiliate the partner in order to ridicule and disdain the partner afterward. Craving for control. Malicious, sly, compulsive,
+- discord: Passionate Entanglement. Becoming entangled in an emotional, mostly unconscious power struggle. Inner compulsion to manipulate the partner, to make the partner emotionally, sexually, and/or financially dependent. Or to mercilessly humiliate the partner in order to ridicule and disdain the partner afterward. Craving for control. Malicious, sly, compulsive, jealous, insatiable.
 
 ## Comparative Schema
 

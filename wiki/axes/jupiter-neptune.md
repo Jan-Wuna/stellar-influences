@@ -236,7 +236,9 @@ Fatty deposits in body caused by stress or weakness; not enough exercise or body
 - comparison: Development Dissolution Faith Vision Religion Spirituality Dogmatic Mystic
 - general: Highest happiness or apparent luck . Being guided on trips . The hypocrite . Trusting one's guardian angel .
 - harmony: The Dancing Dervish. Finding the meaning of life in a mystic experience or being found by meaning. Kindness and compassion. Genuine altruism, highest ideals, true spirituality, harmonious connection of faith and inspiration, good visionary gifts. Trance and illumination. Fine sense for happiness.
-- discord: The Religious Crackpot. Feels oneself to be the chosen one, illuminated and wise. Seduces others or becomes the victim of peculiar sects, strange ideologies, and crackpot views of the world. Religious delusions. Victim of own dream images and yearnings. Intoxication. ## Comparative Schema
+- discord: The Religious Crackpot. Feels oneself to be the chosen one, illuminated and wise. Seduces others or becomes the victim of peculiar sects, strange ideologies, and crackpot views of the world. Religious delusions. Victim of own dream images and yearnings. Intoxication.
+
+## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
 - psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.

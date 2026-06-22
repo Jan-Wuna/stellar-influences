@@ -168,7 +168,9 @@ Your ability to relax with friends; associates who help you with your medical pr
 #### Banzhaf/Haebler Aspect Keywords
 
 - harmony: Love, liking, grace, eroticism, affection, solidarity with another person, as well as a sense of beauty, appreciation of art, and good taste unite in harmony with the priority in life and are helpful on life's path. Feminine aura as valuable potential that should be recognized and developed.
-- discord: Lasting difficulties in finding inner peace because love life has an inhibiting and disruptive effect on the actual direction in life. Feelings of being unfulfilled and great needs for affection that are difficult to satisfy. ## Comparative Schema
+- discord: Lasting difficulties in finding inner peace because love life has an inhibiting and disruptive effect on the actual direction in life. Feelings of being unfulfilled and great needs for affection that are difficult to satisfy.
+
+## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
 - psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.

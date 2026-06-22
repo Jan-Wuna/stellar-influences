@@ -227,7 +227,7 @@ Cataracts or similar blockage of senses, nerves, or nerve endings; breaks in men
 - shadow: The Smartie and the Villain
 - comparison: Curiosity Experience Theory Practice Idea Reality Flexible Resolute Nimble Rigid Idea Form Quick Slow
 - general: Systematic , critical , formally resolute , structured way of thinking . Serious thoughts and mature perception . Thoughts of departure . Thinking something through to the end .
-- harmony: Realistic Thinking. Talent of thinking in clear, logical, reasonable structures. Consistent and critical thought. Ability to have objective perceptions from a distanced perspective. Crystalline perceptions gained by hard brainwork. Not losing the red thread in deliberations and speeches. Sometimes slow and circumspect but also thorough, tactical,
+- harmony: Realistic Thinking. Talent of thinking in clear, logical, reasonable structures. Consistent and critical thought. Ability to have objective perceptions from a distanced perspective. Crystalline perceptions gained by hard brainwork. Not losing the red thread in deliberations and speeches. Sometimes slow and circumspect but also thorough, tactical, and clever.
 - discord: The Mental Block. Doubt about one's intellectual abilities. Destructive, pessimistic, embittered, close-minded thinking. Gloomy thoughts and constant brooding. Getting stuck in negative ideas. Depressive, self-destructive thoughts. Being slow on the uptake. Inhibitions about expressing oneself verbally or boring, tiring monotony in manner of expression.
 
 ## Comparative Schema

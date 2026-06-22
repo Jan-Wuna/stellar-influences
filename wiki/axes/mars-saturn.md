@@ -237,7 +237,7 @@ High blood pressure; health problems caused by the blockage of energy or emotion
 - shadow: The Wicked Mercenary and the Grim Man Without Mercy
 - comparison: Drive Resistance Spontaneity Responsibility Youth Age Hot Cold Rash Experienced Quick Slow Short Long Instinctual Ascetic Unrestrained Controlled Setting out Departing Beginning End
 - general: Consistent , unyielding , or grim work . Fighting to the (bitter) end . Fighting against resistance . Gritting one's teeth . Cold war . Controlled or suppressed urges . Stiffened powers . Driving with the brakes on .
-- harmony: The Untiring Individual. Purposeful energy. Persistently and resolutely finishes what has been started. Enormous use of force that continues to increase when there is resistance. Reliably, decisively, resolutely, and conscientiously carries out assignments. Can pull oneself together and hold out whenever it's necessary to do so. In the area of sexuality,
+- harmony: The Untiring Individual. Purposeful energy. Persistently and resolutely finishes what has been started. Enormous use of force that continues to increase when there is resistance. Reliably, decisively, resolutely, and conscientiously carries out assignments. Can pull oneself together and hold out whenever it's necessary to do so. In the area of sexuality, also untiring or, if required, ascetic.
 - discord: The Frustrated Person. Great problems with aggression. Energy that is stimulated by constant resistance, making room for itself in a brutal and bone-breaking manner. Or lasting pent-up aggressions that turn inward as helpless anger. Fear of failure and inability. Sullenness, desire for revenge, cold-blooded rage, inner blocks and tensions.
 
 ## Comparative Schema

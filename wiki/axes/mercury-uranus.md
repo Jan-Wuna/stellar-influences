@@ -226,7 +226,7 @@ Intestinal and stomach gas; sensitivities to certain food groups (milk, wheat, e
 - comparison: Logic Intuition Exploring Inventing Student Revolutionary Thought Sudden inspiration
 - general: Lucid , wide-awake , willful thinking . Unconventional perceptions and erratic thinking . Unique ideas . Sudden insights .
 - harmony: The Bright. Fast Thinker. Extremely quick intellectual grasp. Has the right idea at the right moment. May think a number of thoughts at the same time. Witty, original, inventive, flexible. Independent, sometimes eccentric standpoints. Unbiased, independent, progressive thinking. Full of ideas, but without any particular love of details.
-- discord: The Scatterbrain. Eccentric leaps from one idea to another with sudden, abrupt, and hardly understandable turns. Extreme impatience, hastiness, and exaggeration in thinking. Poor listener (particularly for people who speak slowly), impatient student. Ingenious ideas and intrepid assertions, but without or inadequately thinking them through.
+- discord: The Scatterbrain. Eccentric leaps from one idea to another with sudden, abrupt, and hardly understandable turns. Extreme impatience, hastiness, and exaggeration in thinking. Poor listener (particularly for people who speak slowly), impatient student. Ingenious ideas and intrepid assertions, but without or inadequately thinking them through. Sometimes confused states with the feeling of being an intellectual live wire.
 
 ## Comparative Schema
 

@@ -178,7 +178,7 @@ Activities of the endocrine and pituitary glands; pressures in body cavities cau
 - shadow: The Spooky Queen and the Black Knight
 - comparison: Love Power Mothering Seizing power Helping Healing Empathizing Seeing through Preserving Transforming Attracting Fascinating Soul Shadow
 - general: Longing for what is hidden and forbidden . Emotional entanglements . Desire or thirst for power . Deepest transformation through feelings and/or emotional suffering . Feelings of power and helplessness . Extreme emotions . The urge to go into the depths .
-- harmony: The Spy. Enormous, lasting, sometimes fanatic urge to keep going in a certain direction once it has been decided on, and to air secrets, break taboos, and spy on things that are hidden and forbidden. Delving into the depths of one's own feelings with fear and fascination in order to explore one's self, one's own motives and drives,
+- harmony: The Spy. Enormous, lasting, sometimes fanatic urge to keep going in a certain direction once it has been decided on, and to air secrets, break taboos, and spy on things that are hidden and forbidden. Delving into the depths of one's own feelings with fear and fascination in order to explore one's self, one's own motives and drives, as well as those of other people.
 - discord: The Power-Hungry Person. An urge, difficult to control, to seize power over other people's souls and make them dependent. Also one's own feelings of helplessness toward others who bear emotional power (mother). Extreme emotional states like all-or-nothing or: if you are not for me, you are against me.
 
 ## Comparative Schema

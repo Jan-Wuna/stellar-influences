@@ -230,7 +230,7 @@ Diseases which are difficult to diagnose or of a long lasting nature; weakens th
 - comparison: Boundaries Without boundaries Structure Dissolution Security Insecurity Rigid Flowing Clear Nebulous Factual knowledge Inspiration Sober Intoxicated
 - general: Unclear , flowing , invisible boundaries . Collecting spiritual experiences. Sensing or being drawn beyond one's own borders . Dissolving old patterns . Boundaries of longing . Becoming sober after intoxication .
 - harmony: Flexibility. Liveliness. Lives in the flow of life in harmony with the natural rhythms, which produce solid structures time and again, dissolve, and then connect to make new structures (water—ice). Can abandon oneself to spiritual, mystic, and intoxicating experiences without losing oneself.
-- discord: Weakness. Fear. Phobia. Has great difficulties in setting boundaries and is easily deluged by other people's expectations or inexplicable phenomena. Can't get solid ground under one's feet. Everything that appears to promise security disappears sooner or later. Even the most solid of structures dissolve. In the reverse case (very strong ),
+- discord: Weakness. Fear. Phobia. Has great difficulties in setting boundaries and is easily deluged by other people's expectations or inexplicable phenomena. Can't get solid ground under one's feet. Everything that appears to promise security disappears sooner or later. Even the most solid of structures dissolve. In the reverse case, excessive hardening occurs along with the appearance of having everything under control.
 
 ## Comparative Schema
 

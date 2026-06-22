@@ -228,7 +228,7 @@ Blood pressure abnormalities; bodily reactions to stress; shock or trauma; deafn
 - comparison: Essence Individuality Focus of attention Outside Creativity Upheaval Development Mutation Equanimity Rebellion
 - general: The free person . Consciousness of uniqueness . The original , crazy , or eccentric mind .
 - harmony: The Casual Individual. Great striving for independence, autonomy, and the freedom to live a completely individual life. Very interested in experimenting. Imaginative and inventive. Sometimes ingenious and often ahead of the times. Can easily adapt to new ideas, plans that have changed suddenly, unfamiliar situations, and new relationships.
-- discord: The Self-Sufficient Person. Exaggerated, sometimes problematic striving for independence that sooner or later experiences every form of contractual obligation or verbal agreement as an intolerable prison. As a result,
+- discord: The Self-Sufficient Person. Exaggerated, sometimes problematic striving for independence that sooner or later experiences every form of contractual obligation or verbal agreement as an intolerable prison. As a result, more often than not commits a breach of contract out of emotional self-defense.
 
 ## Comparative Schema
 

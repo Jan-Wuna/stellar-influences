@@ -170,7 +170,9 @@ The effect of your mental attitude on your health; intestinal gas from the stres
 #### Banzhaf/Haebler Aspect Keywords
 
 - harmony: The Nimble Individual. Skillful and nimble in behavior. Enjoys contacts and communication. Diplomatic and entertaining. Intellectual touch.
-- discord: The Cunning Person. Difficulties, insincerity, and slyness in communication with the surrounding world. Deceives, outsmarts, and slanders other people. Also becomes a victim. Many misunderstandings, exaggerated criticism, and gossip. Untiring spirit of contradiction. ## Comparative Schema
+- discord: The Cunning Person. Difficulties, insincerity, and slyness in communication with the surrounding world. Deceives, outsmarts, and slanders other people. Also becomes a victim. Many misunderstandings, exaggerated criticism, and gossip. Untiring spirit of contradiction.
+
+## Comparative Schema
 
 - core meaning: source-native axis statements from each ingested source are preserved side by side above.
 - psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.

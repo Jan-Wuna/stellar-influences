@@ -16,8 +16,6 @@ factors:
   - Neptune
   - Pluto
   - Node
-  - Asc
-  - MC
 aliases: []
 source_pages: []
 updated_at: 2026-06-20
@@ -34,6 +32,7 @@ updated_at: 2026-06-20
 - Admitted only factor keyword sections and unordered aspect/pair sections.
 - Skipped signs, houses, degrees, timing, and general narrative.
 - No oriented activation formulas were ingested.
+- Asc and MC were ingested only as axis participants; no standalone Asc or MC factor pages were created or covered.
 
 ## Factors Covered
 
@@ -48,8 +47,6 @@ updated_at: 2026-06-20
 - [Neptune](../factors/neptune.md)
 - [Pluto](../factors/pluto.md)
 - [Node](../factors/node.md)
-- [Asc](../factors/asc.md)
-- [MC](../factors/mc.md)
 
 ## Axes Covered
 

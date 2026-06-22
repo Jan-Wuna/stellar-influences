@@ -145,7 +145,7 @@ Inharmonious aspects incline to throw the life into two portions, antagonistic o
 
 But, it may be repeated that the Sun must be considered above all else in judging the active life. Its aspects indicate the measure of success that will be attained, in what direction, and with what facility or tribulation. It represents the work to be done, due attention being paid to the sign, house and aspects involved.
 
-The Moon is more important in relation to ordinary character, and this is particularly so in early life before the Sun's influence makes itself felt. A child with the
+The Moon is more important in relation to ordinary character, and this is particularly so in early life before the Sun's influence makes itself felt. A child with the Moon in Square to Mars but Sun in Trine to Saturn will be hot-tempered or impulsive, but will become, as the years pass, prudent and controlled, at least in action. Habits, morals and temperament are all shown to a large extent by the Moon, the Ascendant being even less self-conscious and rising little above the sensations and instincts, important though these are in their spheres.
 
 The mutual aspects are of a general and diffused character rather than particular and focused - the particularization lies with the planets. Hence their effects are not always easily traced unless life and character can be viewed in perspective.
 

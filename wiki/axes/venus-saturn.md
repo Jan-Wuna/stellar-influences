@@ -227,8 +227,8 @@ Diminishes your sense of smell and taste; restricts passages in the throat; poor
 - shadow: The Heartless Woman and the Embittered Man
 - comparison: Grace Severity Playful Responsible Light Heavy Love Duty Affectionate Tough Pampered Austere Open Closed Erotic Ascetic Says “yes” Says “no” Carefree Mistrusting Cheerful Serious
 - general: Simple beauty . Enjoyment of clear forms and structure . The beauty of the bare —the winter landscape. The peace of stillness . Not permitting oneself anything .
-- harmony: The Dutiful Individual. Caring, responsible, faithful, and steadfast in friendship and partnership. Sobriety and earnest in matters of love. Seeks a mature partner. Great loyalty within the relationship. Can— when it appears to be necessary—love in strict asceticism. Love that blossoms under particularly difficult, modest,
-- discord: The Unhappy Person. Difficulties making contact. Feels lonely and unloved—with and without a relationship. Mistrustful, stiff, and usually disapproving about matters of love and toward everything feminine. Can't believe that one is truly loved and continuously demands new guarantees and proof of love in a relationship. Inability to enjoy,
+- harmony: The Dutiful Individual. Caring, responsible, faithful, and steadfast in friendship and partnership. Sobriety and earnest in matters of love. Seeks a mature partner. Great loyalty within the relationship. Can— when it appears to be necessary—love in strict asceticism. Love that blossoms under particularly difficult, modest, or impoverished circumstances.
+- discord: The Unhappy Person. Difficulties making contact. Feels lonely and unloved—with and without a relationship. Mistrustful, stiff, and usually disapproving about matters of love and toward everything feminine. Can't believe that one is truly loved and continuously demands new guarantees and proof of love in a relationship. Inability to enjoy, or embitterment causes asceticism.
 
 ## Comparative Schema
 

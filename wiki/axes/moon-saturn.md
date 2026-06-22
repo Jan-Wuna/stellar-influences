@@ -229,8 +229,8 @@ Hypo-acidity conditions in the stomach; fluids collecting in joints; water on th
 - shadow: The Embittered Lady and Her Adversary
 - comparison: Dream Reality Indulgence Toughness Wish Fact Desire Duty Affect Control Mood Framework Wish for the feeling of security Reliability Running wild Limiting Soft Brittle
 - general: Stable , controlled , and/or serious feelings . Resolute , disciplined , and sober in everyday life . Feelings of guilt . The earnest woman .
-- harmony: The Conscientious Individual. Committed, stable feelings. Great staying power, prudence, faithfulness, and performance of one's duty, even under difficult conditions. Willing and able to tolerate hardships, deprivation, and necessary renunciation. Very composed, even in sorrowful situations. Inwardly willing and able to tighten one's belt and be modest,
-- discord: The Hardhearted Person. Merciless with oneself and others. Inhibited, emotionally withdrawn, lonely, or even embittered. Personal feelings and wishes are repressed and those of others are held in contempt or viewed with suspicious mistrust. Sometimes absurd envy of others. Can't express oneself emotionally. Lacks feeling of security,
+- harmony: The Conscientious Individual. Committed, stable feelings. Great staying power, prudence, faithfulness, and performance of one's duty, even under difficult conditions. Willing and able to tolerate hardships, deprivation, and necessary renunciation. Very composed, even in sorrowful situations. Inwardly willing and able to tighten one's belt and be modest, leave, or let go when necessary.
+- discord: The Hardhearted Person. Merciless with oneself and others. Inhibited, emotionally withdrawn, lonely, or even embittered. Personal feelings and wishes are repressed and those of others are held in contempt or viewed with suspicious mistrust. Sometimes absurd envy of others. Can't express oneself emotionally. Lacks feeling of security, feels unloved and often worthless.
 
 ## Comparative Schema
 

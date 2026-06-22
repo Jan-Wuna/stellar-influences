@@ -226,7 +226,7 @@ Any unusual compositions in your blood; shock due to acid conditions in the body
 - comparison: Attachment Freedom Love of the partner Love of self Dependence Independence Flowing Abrupt Willing to adapt Eccentric Harmony Individuality
 - general: Free love , the unusual relationship with the greatest possible, mutual free space . Original taste . Modern art .
 - harmony: The Individualistic Relationship. Original, humorous, but often noncommittal manner of making contacts. Lives and loves in an open, tolerant relationship based on the principle of liberty and equality. Great enjoyment of experimentation. Searches for the unique, unusual “modern” relationship that actually exists only in Utopia.
-- discord: The Person Who Can't Be Held. The fireworks of love and flash-in-the-pan relationships without commitment and a future. Enters into relationships only halfheartedly and can't be held when things should be close and committed. Extreme mood vacillations and changing standpoints. Willful, gruff, and inconsiderate in a partnership. The unusual, the new,
+- discord: The Person Who Can't Be Held. The fireworks of love and flash-in-the-pan relationships without commitment and a future. Enters into relationships only halfheartedly and can't be held when things should be close and committed. Extreme mood vacillations and changing standpoints. Willful, gruff, and inconsiderate in a partnership. The unusual, the new, whatever hasn't been had in love and eroticism is always more tempting than what is familiar, matured, and steadfast.
 
 ## Comparative Schema
 

@@ -130,7 +130,7 @@ They greatly add to the energy, vigour, decision and will-power of the native, w
 
 It tends to give physical robustness, the ability to stand hard conditions, and the capacity for hard work, but even thus, cross aspects from other bodies may result in high nervous tension and an overwrought condition, the will, as it were, tearing the body asunder.
 
-In one case known to me there is a Trine between Mars (Taurus) and Uranus (Virgo) with a cross aspect to the latter from the Sun (Sagittarius). Here the heart has suffered, as the outcome of nervous strain, and the native is almost an invalid. In another case, with the same Trine from the same signs, but with Sun and
+In one case known to me there is a Trine between Mars (Taurus) and Uranus (Virgo) with a cross aspect to the latter from the Sun (Sagittarius). Here the heart has suffered, as the outcome of nervous strain, and the native is almost an invalid. In another case, with the same Trine from the same signs, but with Sun and Saturn in Square to Uranus from Gemini, there is indomitable courage, but it is spent in an uphill fight with poverty and sickness. In the former case the Sun, having the Trine of Saturn, indicated affluent conditions, but for which the native would probably have collapsed altogether.
 
 It may be said that any ill aspect to this combination will occasion a greater or less degree of nerve-tension.
 
